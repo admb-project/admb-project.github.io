@@ -3,7 +3,7 @@ layout: default
 title: La Jolla 2010
 ---
 
-ADMB Developers' Workshop, IATTC, 29-31 Mar 2010
+<h3>ADMB Developers' Workshop, IATTC, March 29-31, 2010</h3>
 
 [ADMB Meeting report][2]
 :  Final version of meeting report. Enjoy, fonts and all (maybe...)

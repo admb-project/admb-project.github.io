@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Honolulu 2012
 ---
-
-ADMB Developers' Workshop, Univ Hawaii, 13-16 Mar 2012
+<h3>ADMB Developers' Workshop, University of Hawaii, March 13-16, 2012</h3>
 
 ![File Troff document][1] [March 2012 Developer Workshop Report][2]
 ![File chemical/x-molconn-Z][1] [Factors in admb?][3]

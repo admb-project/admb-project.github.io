@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Seattle 2013
 ---
 
-ADMB Developers' Workshop, UW, 4-7 Jun 2013
+<h3>ADMB Developers' Workshop, University of Washington, June 4-7, 2013</h3>
 
 [Workshop report][2]
 :  The report of the 4th developers workshop (North American edition)

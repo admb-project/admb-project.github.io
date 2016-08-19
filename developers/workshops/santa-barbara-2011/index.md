@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Santa Barbara 2011
 ---
 
-ADMB Developers' Workshop, NCEAS, 20-23 Jun 2011
+<h3>ADMB Developers' Workshop, NCEAS, June 20-23, 2011</h3>
 
 [Final Report from Developers Workshop][2]  
 [Workshp Outline][3]  

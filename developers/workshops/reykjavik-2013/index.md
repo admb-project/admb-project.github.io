@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Reykjavik 2013
 ---
 
-ADMB Developers' Workshop, Hafro, 18-22 Sep 2013
+<h3>ADMB Developers' Workshop, Hafro, September 18-22, 2013</h3>
 
 [5thDevelopersWorkshopReport.pdf][2]  
 :  Workshop Report
