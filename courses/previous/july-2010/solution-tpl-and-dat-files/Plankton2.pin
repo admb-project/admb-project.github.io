@@ -1,0 +1,7 @@
+#  init_number alpha(alpha_phase)
+0
+#  init_number_vector beta(1,Ncovar,beta_phase)
+0 0 0
+#  init_number sd
+1
+

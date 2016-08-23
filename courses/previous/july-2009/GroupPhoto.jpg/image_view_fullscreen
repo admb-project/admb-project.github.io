@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+    
+
+    <title>Group Photo</title>
+
+    <style type="text/css" media="screen">
+    body {
+        background-color: white;
+        color: black;
+        font-family: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, sans-serif;
+        font-size: 69%;
+    }
+
+    a {
+        display:block;
+        margin: 0.5em;
+        color: #436976;
+        text-decoration: underline;
+        line-height:1.5em;
+    }
+
+    img {
+        border: 0px;
+        padding: 5px;
+    }
+
+    #content-core {
+        text-align: center;
+    }
+
+    </style>
+
+</head>
+
+<body>
+
+<div id="content-core">
+    <a href="http://www.admb-project.org/courses/previous/july-2009/GroupPhoto.jpg/view"><span>Back to site</span><br /><img src="http://www.admb-project.org/courses/previous/july-2009/GroupPhoto.jpg/image" alt="Group Photo" title="Group Photo" height="768" width="1024" /></a>
+
+    
+</div>
+
+</body>
+</html>
+
