@@ -10,7 +10,7 @@ title: Documentation
 * [Installation](install)
 * [Papers](papers)
 * [Reference cards](refcards)
-* [Comprehensive Documentation of ADMB Functions and Classes](doxygen)
+* [Comprehensive Documentation of ADMB Functions and Classes](http://api.admb-project.org/)
 * [FAQ](faq)  
 _ADMB Frequently Asked Questions_
-* [User contributed tutorials](user-contributed-tutorials)
+* [User contributed tutorials](user-contributed-tutorials/)
