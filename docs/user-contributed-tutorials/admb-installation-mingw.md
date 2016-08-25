@@ -1,3 +1,8 @@
+---
+layout: default
+title: ADMB Installation Windows GCC
+---
+
 <h2>ADMB Installation Windows GCC</h2>
 
 Shows the procedure to install, build and run ADMB with GCC.
