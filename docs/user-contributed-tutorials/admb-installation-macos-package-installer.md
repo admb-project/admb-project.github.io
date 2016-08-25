@@ -48,4 +48,4 @@ _Describes the procedure for building and running the ADMB simple example._
 6. If those commands give output like that shown in the screenshot below, your installation is a success. Consult the ADMB manual for description of the simple output files.
 screenshot of testing installation on a Mac
 
-   <img src="images/Screenshot20120326at3.36.39PM.png/image_large"/>
+   <img src="images/Screenshot20120326at3.36.39PM.png"/>
