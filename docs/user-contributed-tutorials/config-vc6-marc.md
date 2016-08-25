@@ -1,7 +1,7 @@
-___
+---
 layout: default
 title: Configuring MS Visual C++ 6.0 with ADMB (Marc)
-___
+---
 
 <h2>Configuring MS Visual C++ 6.0 with ADMB (Marc)</h2>
 
