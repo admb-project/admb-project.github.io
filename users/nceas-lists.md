@@ -3,15 +3,14 @@ layout: default
 title: NCEAS lists (archived)
 ---
 
-<h2>NCEAS Google Group to August 2016</h2>
+**NCEAS Google Group**
+_Last post August 2016_
 
-<ul>
-<li><a href="https://groups.google.com/a/admb-project.org/d/forum/developers">Developers List</a></li>
-<li><a href="https://groups.google.com/a/admb-project.org/d/forum/users">Users List</a></li>
-</ul>
+* [Users List](https://groups.google.com/a/admb-project.org/d/forum/users)
+* [Developers List](https://groups.google.com/a/admb-project.org/d/forum/developers)
 
-<h2>Lists serve to March 2015</h2>
-<ul>
-<li><a href="http://lists.admb-project.org/pipermail/users/">Users List</a></li>
-<li><a href="http://lists.admb-project.org/pipermail/developers/">Users List</a></li>
-</ul>
+**NCEAS Lists serve **
+_last post March 2015_
+
+* [Users List](http://lists.admb-project.org/pipermail/users/)
+* [Developers List](http://lists.admb-project.org/pipermail/developers/)
