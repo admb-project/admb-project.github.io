@@ -1,4 +1,10 @@
-#  Optimization software
+---
+layout: default
+title: Optimization software
+---
+
+Optimization software
+=====================
 
 ADMB, R, BUGS, etc.
 
@@ -8,7 +14,6 @@ ADMB, R, BUGS, etc.
 [nceas.png][4]
 [Obsolete benchmark (1998/2006)][5]
 :  ADMB vs. Gauss vs. Matlab vs. R/S-Plus
-
 
 
 [2]: optimization/nceas.pdf
