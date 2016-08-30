@@ -35,11 +35,14 @@ Cheers,
 Arni
 ```
 
-Files
+Docs
 
-* [simple.r](dll-compilation-for-vs-with-an-r-access-example/simple.r)
-* [simple.tpl](dll-compilation-for-vs-with-an-r-access-example/simple.tpl)
 * [Example compiling dll with Visual C](example-compilng-dll-using-ms-visual-c.html)
 * [Procedure](simpdll.html)
-* [simpdll.tpl](simpdll.tpl)
 * [Success](success-arni.html)
+
+Downloads
+
+* [simpdll.tpl](simpdll.tpl)
+* [simple.r](dll-compilation-for-vs-with-an-r-access-example/simple.r)
+* [simple.tpl](dll-compilation-for-vs-with-an-r-access-example/simple.tpl)
