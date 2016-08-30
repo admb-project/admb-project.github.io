@@ -14,9 +14,8 @@ title: Developers
 * [Coding Standards](coding-standards.html)
 * [Building dll](dll/)
 * [Parallel](parallel/threaded2.pdf)
-
-```
-benchmarks			packages
-contribute-documentation
-core-team.md			tmb
-```
+* [Core Team](core-team.html)
+* [Benchmarks](benchmarks/)
+* [Packages](packages/)
+* [TMB](tmb/)
+* [Contribute Documentation](contribute-documentation/)
