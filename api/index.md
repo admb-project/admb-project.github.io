@@ -1,6 +1,6 @@
 ---
 layout: default
-title: buildbot
+title: api
 ---
 
-[Buildbot Link](http://buildbot.admb-project.org/)
+[API Link](http://api.admb-project.org/)
