@@ -2,47 +2,48 @@
 layout: default
 title: Tools
 ---
+
 Tools
 -----
 
 [ADMB-IDE](admb-ide)
-User-friendly development environment for AD Model Builder
+: User-friendly development environment for AD Model Builder
 
-Editors
-Information about editors, syntax highlighting, etc.
+[Editors](editors/)
+: Information about editors, syntax highlighting, etc.
 
 flex
-tpl2cpp and tpl2rem are written in flex
+: tpl2cpp and tpl2rem are written in flex
 
 gcc
-GCC for Windows
+: GCC for Windows
 
 gdb
-GDB for Windows
+: GDB for Windows
 
 R
-Working with ADMB and R
+: Working with ADMB and R
 
 [ad2csv](https://github.com/admb-project/admb/tree/master/contrib/ad2csv)
-Read the the contents of .cov/hes/psv files, on screen or into a file
+: Read the the contents of .cov/hes/psv files, on screen or into a file
 
 [autodiff.org](http://www.autodiff.org/)
 
 [glmmADMB](http://glmmadmb.r-forge.r-project.org/)
-R package: Generalized Linear Mixed Models with ADMB
+: R package: Generalized Linear Mixed Models with ADMB
 
 [MULTIFAN-CL](http://www.multifan-cl.org/)
 
 [Otter Research](http://otter-rsch.com/product.htm)
 
 Valgrind
-Describe the procedure for using Valgrind to profile and check memory leaks.
+: Describe the procedure for using Valgrind to profile and check memory leaks.
 
 File ZIP archive wintools.zip
-Windows tools required to build ADMB binaries from sources
+: Windows tools required to build ADMB binaries from sources
 
 [Wolfram Alpha](http://www.wolframalpha.com/)
-Pretty cool math tool - even does derivatives
+: Pretty cool math tool - even does derivatives
 
 ADMB Tools for Windows
-Windows tools for compiling and using ADMB. Start by downloading and reading the "Installation Guide for ADMB on Windows". This includes links to the tools available here.
+: Windows tools for compiling and using ADMB. Start by downloading and reading the "Installation Guide for ADMB on Windows". This includes links to the tools available here.
