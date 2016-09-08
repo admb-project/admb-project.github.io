@@ -113,7 +113,7 @@ The .emacs file is written in a language called Emacs Lisp.
 
 Here's an example:
 
-```
+```emacs
 ;;==============================================================================
 ;;
 ;; 1  INTERFACE
