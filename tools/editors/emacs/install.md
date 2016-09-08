@@ -11,21 +11,21 @@ Emacs is a powerful and complex editor, providing >1000 editing functions that c
 
 1. **Install Emacs**
 
-	1.1. **Linux**
+   1.1. **Linux**
 
-	Open a shell and type
+        Open a shell and type
 
-```
-	emacs &
-```
+        ```
+        emacs &
+        ```
 
-	Depending on your distribution, you need to do one of the following:
+        Depending on your distribution, you need to do one of the following:
 
 	Nothing, since Emacs is already installed and will open.
 	Type the command suggested by the shell, to install GNU Emacs from within the shell.
 	Open the package manager, select and install GNU Emacs.
 
-	1.2. **Windows**
+  1.2. **Windows**
 
 Download
 Open a web browser and visit
