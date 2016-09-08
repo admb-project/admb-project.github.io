@@ -17,7 +17,7 @@ Information about editors, syntax highlighting, etc.
 [Emacs](emacs/)
 : Powerful and complex editor (Windows, Linux, Mac)
 
-jEdit
+[jEdit](jedit)
 : User-friendly editor (Windows, Linux, Mac)
 
 Notepad++
