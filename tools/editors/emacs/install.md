@@ -9,22 +9,22 @@ Install
 How to install Emacs & admb-mode
 Emacs is a powerful and complex editor, providing >1000 editing functions that can be bound to any keystrokes. Users can write their own functions in a feature-rich programming language called Emacs Lisp. Provides standard tools like syntax highlighting, automatic indentation, and code navigation for all major programming languages. Particularly good support for R, LaTeX, and backup/revision control.
 
-1. Install Emacs
+1. **Install Emacs**
+	1.1. **Linux**
 
-  1.1. Linux
+	Open a shell and type
 
-Open a shell and type
+	```
+	emacs &
+	```
 
-```
-emacs &
-```
+	Depending on your distribution, you need to do one of the following:
 
-Depending on your distribution, you need to do one of the following:
+	Nothing, since Emacs is already installed and will open.
+	Type the command suggested by the shell, to install GNU Emacs from within the shell.
+	Open the package manager, select and install GNU Emacs.
 
-Nothing, since Emacs is already installed and will open.
-Type the command suggested by the shell, to install GNU Emacs from within the shell.
-Open the package manager, select and install GNU Emacs.
-1.2 Windows
+	1.2. **Windows**
 Download
 Open a web browser and visit
 
