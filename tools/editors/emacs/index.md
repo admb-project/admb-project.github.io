@@ -12,19 +12,19 @@ Powerful and complex editor (Windows, Linux, Mac)
 : Emacs mode for editing ADMB code  
 
 [Install](install.html)
-How to install Emacs & admb-mode
+: How to install Emacs & admb-mode
 
 [Configure](configure.html)
-Advanced Emacs configuration
+: Advanced Emacs configuration
 
 [ADMB-IDE](/tools/editors/admb-ide)
 : Special customization of Emacs in admb-mode  
 
-ESS
-Emacs modes for R/S-Plus, SAS, BUGS/JAGS, Stata, and XLisp-Stat
+[ESS](ess.html)
+: Emacs modes for R/S-Plus, SAS, BUGS/JAGS, Stata, and XLisp-Stat
 
-Archive
-Old versions of admb-mode
+[Archive](archive/)
+: Old versions of admb-mode
 
 [tmb-mode.el](tmb-mode.el)
 : Emacs mode for editing TMB code  
