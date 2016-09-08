@@ -66,7 +66,7 @@ To "uninstall" Emacs, simply delete the main folder, and undo any changes you ma
 
 2 **Configure Emacs**
 
-2.1 Create .emacs
+2.1 **Create .emacs**
 
 Your personal Emacs settings are stored in a file called ".emacs". The best place to store .emacs is in your "home" folder.
 
@@ -160,7 +160,8 @@ I recommend defining single-stroke keybindings to global commands you use often 
 
 See the [Configure](config.html) notes for more details on Emacs configuration.
 
-3. Install admb-mode
+3 **Install admb-mode**
+
 Open a web browser and download
 
 http://admb-project.org/community/editing-tools/emacs/admb.el
