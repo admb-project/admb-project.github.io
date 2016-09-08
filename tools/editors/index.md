@@ -20,7 +20,7 @@ Information about editors, syntax highlighting, etc.
 [jEdit](jedit)
 : User-friendly editor (Windows, Linux, Mac)
 
-Notepad++
+[Notepad++](npp)
 : User-friendly editor (Windows)
 
 Vim
