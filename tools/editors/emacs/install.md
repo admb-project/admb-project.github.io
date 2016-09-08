@@ -9,8 +9,10 @@ Install
 How to install Emacs & admb-mode
 Emacs is a powerful and complex editor, providing >1000 editing functions that can be bound to any keystrokes. Users can write their own functions in a feature-rich programming language called Emacs Lisp. Provides standard tools like syntax highlighting, automatic indentation, and code navigation for all major programming languages. Particularly good support for R, LaTeX, and backup/revision control.
 
-1 Install Emacs
-1.1 Linux
+1. Install Emacs
+
+  1.1. Linux
+
 Open a shell and type
 
 ```
@@ -60,7 +62,7 @@ Set this variable properly using c:/autoexec.bat or right-click My Computer - Pr
 
 To "uninstall" Emacs, simply delete the main folder, and undo any changes you made to your PATH variable. To "upgrade" Emacs, delete the main folder and replace it with a newer one.
 
-2 Configure Emacs
+2. Configure Emacs
 2.1 Create .emacs
 Your personal Emacs settings are stored in a file called ".emacs". The best place to store .emacs is in your "home" folder.
 
@@ -153,7 +155,7 @@ I recommend defining single-stroke keybindings to global commands you use often 
 
 See the [Configure](config.html) notes for more details on Emacs configuration.
 
-3 Install admb-mode
+3. Install admb-mode
 Open a web browser and download
 
 http://admb-project.org/community/editing-tools/emacs/admb.el
