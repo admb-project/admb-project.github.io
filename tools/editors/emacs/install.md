@@ -101,7 +101,8 @@ runemacs ~/.emacs
 
 Insert one space and then type Ctrl-x Ctrl-s to save the file.
 
-2.2 Edit .emacs
+2.2 **Edit .emacs**
+
 The .emacs file is written in a language called Emacs Lisp.
 
 Here's an example:
@@ -164,7 +165,9 @@ See the [Configure](config.html) notes for more details on Emacs configuration.
 
 Open a web browser and download
 
+```
 http://admb-project.org/community/editing-tools/emacs/admb.el
+```
 
 Move the file to a folder called 'admb'. The full path of the file could be
 
