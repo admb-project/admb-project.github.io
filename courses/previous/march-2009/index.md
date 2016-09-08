@@ -4,7 +4,7 @@ title: ADMB Workshop at NCEAS (March 2009)
 ---
 
 ADMB Workshop at NCEAS, Santa Barbara, March 9-10 2009
-======================================================
+------------------------------------------------------
 
 Instructors: Anders Nielsen, Johnoel Ancheta, and Mark Maunder
 
