@@ -24,4 +24,4 @@ Instructors: Anders Nielsen, John Sibert
 
 [Random eﬀects models (pdf)](RandomEffects.pdf)
 
-<img src="group-photo.jpg" width="350px"/>
+<img src="group-photo.jpg" width="400px"/>
