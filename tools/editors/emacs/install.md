@@ -21,9 +21,9 @@ emacs &
 
 Depending on your distribution, you need to do one of the following:
 
-Nothing, since Emacs is already installed and will open.
-Type the command suggested by the shell, to install GNU Emacs from within the shell.
-Open the package manager, select and install GNU Emacs.
+1. Nothing, since Emacs is already installed and will open.
+2. Type the command suggested by the shell, to install GNU Emacs from within the shell.
+3. Open the package manager, select and install GNU Emacs.
 
 1.2 **Windows**
 
