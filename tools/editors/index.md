@@ -1,4 +1,11 @@
+---
+title: Editors
+layout: default
+---
+
 Editors
+-------
+
 Information about editors, syntax highlighting, etc.
 
 [ConTEXT](http://www.contexteditor.org/)
