@@ -11,7 +11,7 @@ Information about editors, syntax highlighting, etc.
 [ConTEXT](http://www.contexteditor.org/)
 : User-friendly editor (Windows) for ADMB coding
 
-[Crimson](crimson-editor.html)
+[Crimson](crimson/)
 : User-friendly editor (Windows)
 
 [Emacs](emacs/)
