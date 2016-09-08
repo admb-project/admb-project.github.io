@@ -12,4 +12,6 @@ Lightweight and not requiring administrator privileges to unzip and use, it can 
 
 Teresa A'mar (NOAA, Seattle) has contributed a collection of XML files providing [ADMB support](npp.zip) in Notepad++.
 
-<img src="npp.png" width="400px"/>
+Screenshot
+
+<img src="npp.png" width="500px"/>
