@@ -28,6 +28,7 @@ Open the package manager, select and install GNU Emacs.
 1.2 **Windows**
 
 **Download**
+
 Open a web browser and visit
 
 ```
@@ -49,9 +50,13 @@ http://www.gnu.org/prep/ftp.html
 Navigate to emacs/windows and download the newest version.
 
 **Unzip**
+
 Unzip and move the folder to the desired location. I recommend c:/gnu and renaming the folder so that the main program is at
 
+```
 c:/gnu/emacs/bin/runemacs.exe
+```
+
 Congratulations, you have successfully "installed" Emacs!
 
 To make it easier to start Emacs, you probably want to create a shortcut icon to runemacs.exe on the desktop and/or start menu. Right-click the icon and define a shortcut key, e.g. Ctrl-Shift-m. The Emacs philosophy is to bind shortcut keys to all common actions. Also consider adding c:/gnu/emacs/bin to your PATH variable:
@@ -79,7 +84,8 @@ touch ~/.emacs
 ```
 
 **Windows**
- To make things look similar in Windows and Linux, I recommend creating a folder called ~:
+
+To make things look similar in Windows and Linux, I recommend creating a folder called ~:
 
 ```
 c:/~
