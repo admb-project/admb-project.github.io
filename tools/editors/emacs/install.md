@@ -9,9 +9,9 @@ Install
 How to install Emacs & admb-mode
 Emacs is a powerful and complex editor, providing >1000 editing functions that can be bound to any keystrokes. Users can write their own functions in a feature-rich programming language called Emacs Lisp. Provides standard tools like syntax highlighting, automatic indentation, and code navigation for all major programming languages. Particularly good support for R, LaTeX, and backup/revision control.
 
-1. **Install Emacs**
+1 **Install Emacs**
 
-1.1. **Linux**
+1.1 **Linux**
 
 Open a shell and type
 
@@ -25,9 +25,9 @@ Nothing, since Emacs is already installed and will open.
 Type the command suggested by the shell, to install GNU Emacs from within the shell.
 Open the package manager, select and install GNU Emacs.
 
-1.2. **Windows**
+1.2 **Windows**
 
-Download
+**Download**
 Open a web browser and visit
 
 ```
@@ -48,7 +48,7 @@ http://www.gnu.org/prep/ftp.html
 
 Navigate to emacs/windows and download the newest version.
 
-Unzip
+**Unzip**
 Unzip and move the folder to the desired location. I recommend c:/gnu and renaming the folder so that the main program is at
 
 c:/gnu/emacs/bin/runemacs.exe
@@ -64,18 +64,21 @@ Set this variable properly using c:/autoexec.bat or right-click My Computer - Pr
 
 To "uninstall" Emacs, simply delete the main folder, and undo any changes you made to your PATH variable. To "upgrade" Emacs, delete the main folder and replace it with a newer one.
 
-2. Configure Emacs
+2 **Configure Emacs**
+
 2.1 Create .emacs
+
 Your personal Emacs settings are stored in a file called ".emacs". The best place to store .emacs is in your "home" folder.
 
-Linux
+**Linux**
+
 Open a shell and type
 
 ```
 touch ~/.emacs
 ```
 
-Windows
+**Windows**
  To make things look similar in Windows and Linux, I recommend creating a folder called ~:
 
 ```
