@@ -11,10 +11,10 @@ Powerful and complex editor (Windows, Linux, Mac)
 [admb.el](admb.el)
 : Emacs mode for editing ADMB code  
 
-Install
+[Install](install.html)
 How to install Emacs & admb-mode
 
-Configure
+[Configure](configure.html)
 Advanced Emacs configuration
 
 [ADMB-IDE](/tools/editors/admb-ide)
