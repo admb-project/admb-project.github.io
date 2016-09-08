@@ -1,10 +1,10 @@
 ---
 layout: default
-title ADMB Workshop at ICES (July 2010)
+title: ADMB Workshop at ICES (July 2010)
 ---
 
 ADMB workshop at International Statistical Ecology Conference 2010 (July 5, 2010)
-===============================================================================
+---------------------------------------------------------------------------------
 
 [randomeffects.pdf](randomeffects.pdf)
 
