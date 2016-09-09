@@ -7,10 +7,16 @@ title: ADMB Frequently Asked Questions
   <a href="mailto:Ian.Taylor@noaa.gov">Ian.Taylor@noaa.gov</a>.<br />
   ADMB developers with editing privileges are welcome
   to make changes, but should read the 
-  <a href="http://www.admb-project.org/developers/contribute-documentation/faq">Note on Editing the FAQ</a>
-  before doing so.</p>
+  <a href="http://www.admb-project.org/developers/contribute-documentation/faq">
+  Note on Editing the FAQ before doing so.</p>
 
+  <!-- ===================================================
+       Table of Contents in this file were created using
+       the custom toc4faq function in R
+       creation date: 2016-09-08 17:08:19
+       =================================================== -->
 
+<!-- Table of Contents -->
 <h3><a href="#general">General Information</a></h3>
 <ol>
       <li><a href="#what-is">What is ADMB?</a></li>
@@ -69,8 +75,10 @@ title: ADMB Frequently Asked Questions
       <li><a href="#ADMB-IDE-platforms">Is the ADMB-IDE available for Mac or Linux as well as Windows?</a></li>
       <li><a href="#ADMB-IDE-uses">Can I use the ADMB-IDE for compiling C++?</a></li>
 </ol>
-
 <hr />
+<!-- end of Table of Contents -->
+
+<!-- Start of FAQ -->
 
 <h1><a name="general">General Information</a></h1>
 <h2><a name="what-is">What is ADMB?</a></h2>
@@ -180,8 +188,8 @@ title: ADMB Frequently Asked Questions
 <p>This website includes updates with news related to ADMB. All users should
   also consider joining
   the <a href="mailto:users@admb-project.org">users@admb-project.org</a> email
-  list <a href="http://www.admb-project.org/contacts and support">(link to
-    info)</a>.</p>
+  list <a href="https://groups.google.com/a/admb-project.org/forum/#!forum/users">
+    (link to info)</a>.</p>
 <h2><a name="who-uses">Who uses ADMB?</a></h2>
 <p>A growing group of people in a variety of fields. The largest group of
   users are working in fisheries science, both because David Fournier, the
@@ -242,7 +250,7 @@ This list is displayed when a user runs 'mymodel -info'.</p>
   installer for GCC compiler is the only one for which the compiler is 
   included with the ADMB installer (because it is open source and can be 
   distributed in this way). For this reason, the Windows GCC installer 
-  is the recommended choice. <a href="http://www.admb-project.org/developers/benchmarks/compilers">Some
+  is the recommended choice. <a href="http://www.admb-project.org/developers/benchmarks/">Some
     benchmarks</a> have been completed to compare compilers, and more will
   likely be added in the future.</p>
 <h2><a name="linux-packages">Is there a .rpm or .deb package for easy Linux installation?</a></h2>
@@ -351,13 +359,12 @@ And many discussions in the <a href="http://groups.google.com/group/admb-users/s
   Non-positive-definite Hessians can also occur if the data are too perfect 
   (see discussion 
   <a href="http://groups.google.com/group/admb-users/browse_thread/thread/ef8000d7a21640d9?tvc=2">here</a>).</p>
-<h2><a name="debugging">Are there tips on debugging code that doesn't seem to 
-    be working right?</a></h2>
+<h2><a name="debugging">Are there tips on debugging code that doesn't seem to be working right?</a></h2>
 <p>An example of the debugging process applied by Dave Fournier (for a model 
   with the error "Function minimizer not making progress") is described 
   <a href="http://groups.google.com/group/admb-users/browse_thread/thread/3a606782fc512331">
     here</a>.</p>
-<h2><a name="migrating-from-borland">How do I compile old Borland TPL’s in MinGW</a></h2>
+<h2><a name="migrating-from-borland">How do I compile old Borland TPL’s in MinGW?</a></h2>
 <p>Now that Borland is no longer supported by ADMB, users will need to ensure that their programs work with other compilers. In many cases there will be no issues. However, header files (include statements I put in the GLOBALS_SECTION) may be compiler specific. Here's a suggestion from Mark Fowler based on his experience making the switch:</p>
 <p>First step. Simply remove the ‘.h’ extensions of the Borland includes. MinGW has many equivalents for Borland includes that differ only in the extension (e.g. iostream, fstream, iomanip, string).</p>
 <p>Second step. Identify remaining ‘source’ includes (just those in your TPL, not those of the includes themselves) that still balk the MinGW compiler. Disable all those that still produce an error. Now the compiler will only choke on absent commands that derive from disabled includes. Some of my TPLs simply compiled at this step, as I had been carrying over spurious includes across programs, so there were no commands in the TPL associated with them. For those that still trip the compiler do a web search on “[header_file] Borland MinGW” to find the right include to substitute, or a go-around. Most of these seemed to derive from user groups focused on web programming.</p>
@@ -435,3 +442,9 @@ And many discussions in the <a href="http://groups.google.com/group/admb-users/s
   this easier,
   see <a href="http://groups.google.com/group/admb-users/browse_thread/thread/771d96c282fa33e9">this
     discussion</a> on the ADMB-users email list.</p>
+
+<!-- End of FAQ -->
+    <!-- ====================================================================
+    copyright, disclaimers, and whatnot should go down here if required
+
+    ==================================================================== -->
