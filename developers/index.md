@@ -15,7 +15,8 @@ Please contact developers@admb-project.org if you are interested in actively par
 [ADMB Core Team](core-team.html)
 :  
 
-Developers Mailing List
+[Developers Mailing List](developers-mailing-list.html)
+:  
 
 [Developers' Workshops](workshops/)  
 :  
@@ -35,7 +36,8 @@ Developers Mailing List
 [DLL Compilation](dll/)
 : Ongoing effort to make DLL compilation a standard option in ADMB (Aaron, Allan, Arni, Chris, Iago, Laurie, Matthew, Weihai)
 
-Packaging for Linux/Mac
+[Packaging for Linux/Mac](packaging/)
+:  
 
 [MCMC](mcmc/)
 : Ongoing development towards MCMC improvements
@@ -58,4 +60,5 @@ Packaging for Linux/Mac
 [ADMB Release Procedure](release-procedure.html)  
 :   
 
-Source Code Directory Tree
+[Source Code Directory Tree](source-tree.html)
+:  
