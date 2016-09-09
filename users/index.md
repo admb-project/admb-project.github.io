@@ -1,6 +1,6 @@
 ---
-layou
-Users
+layout: default
+title: Users
 ---
 
 Users
