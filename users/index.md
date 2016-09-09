@@ -10,17 +10,15 @@ This is the user's community page for ADMB. If you would like to contribute to t
 
 [Users mailing list](users-mailing-list.html)
 
-[User Base]()
+[User Base](/community/)
 
 [Bibliography](bibliography/)
 
-[Outreach]()
+[Outreach](outreach/)
 : Posters, brochures and other material to promote ADMB
 
-[Posters, brochures and other material to promote ADMB]()
+[Tutorials, Tricks and Tips for using ADMB](tutorials-and-examples/)
 
-[Tutorials, Tricks and Tips for using ADMB]()
+[ADMB Newsletter](http://admb-foundation.org/?page_id=39)
 
-[ADMB Newsletter]()
-
-[ADMB T-shirts Page]()
+[ADMB T-shirts Page](outreach/admb-t-shirts-page.html)
