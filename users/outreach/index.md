@@ -8,6 +8,8 @@ Outreach
 
 Posters, brochures and other material to promote ADMB
 
+[ADMB T-shirts Page](admb-t-shirts-page.html)
+
 [Poster 2009](ADMB_poster-A1-3-09.pdf)
 : General ADMB Project poster in A1 format
 [Handout (letter size)](handout_letter_size.pdf)
@@ -19,7 +21,6 @@ Posters, brochures and other material to promote ADMB
 [Logo](logo.zip)
 : ADMB logo (EPS master, PDF, PNG, as well as "empty" PNG without text)
 
-[ADMB T-shirts Page](admb-t-shirts-page.html)
 
 [FAF2_650.jpg](FAF2_650.jpg)
 
