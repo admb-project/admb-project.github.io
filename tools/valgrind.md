@@ -2,7 +2,9 @@
 layout: default
 title: Profiling with Valgrind
 ---
-<h2>Valgrind</h2>
+
+Profiling with Valgrind
+-----------------------
 
 Describe the procedure for using Valgrind to profile and check memory leaks.
 
