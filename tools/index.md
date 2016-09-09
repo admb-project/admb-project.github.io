@@ -12,7 +12,7 @@ Tools
 [Editors](editors/)
 : Information about editors, syntax highlighting, etc.
 
-flex
+[flex](flex/)
 : tpl2cpp and tpl2rem are written in flex
 
 gcc
