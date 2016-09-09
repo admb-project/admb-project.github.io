@@ -36,14 +36,14 @@ R
 
 [Otter Research](http://otter-rsch.com/product.htm)
 
-Valgrind
+[Valgrind](valgrind.html)
 : Describe the procedure for using Valgrind to profile and check memory leaks.
 
-File ZIP archive wintools.zip
+[wintools.zip](wintools.zip)
 : Windows tools required to build ADMB binaries from sources
 
 [Wolfram Alpha](http://www.wolframalpha.com/)
 : Pretty cool math tool - even does derivatives
 
-ADMB Tools for Windows
+[ADMB Tools for Windows]()
 : Windows tools for compiling and using ADMB. Start by downloading and reading the "Installation Guide for ADMB on Windows". This includes links to the tools available here.

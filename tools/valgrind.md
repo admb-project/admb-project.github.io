@@ -14,7 +14,7 @@ Valgrind runs on Linux and MacOS platforms.
 
 **Procedure**
 
-1. Follow the INSTALL.txt to build from source with debugging.   
+1. Follow the [INSTALL.txt](https://github.com/admb-project/admb/blob/master/INSTALL.txt) to build from source with debugging.   
 
    ```
    [admb-trunk]$ make debug 
