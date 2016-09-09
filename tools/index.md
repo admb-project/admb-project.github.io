@@ -15,10 +15,10 @@ Tools
 [flex](flex/)
 : tpl2cpp and tpl2rem are written in flex
 
-gcc
+[gcc](gcc/)
 : GCC for Windows
 
-gdb
+[gdb](gdb/)
 : GDB for Windows
 
 [R](r/)
