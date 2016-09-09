@@ -1,48 +1,26 @@
 ---
 layout: default
-title: 2012-03-26 Email 
+title: DLL Compilation
 ---
 
-```
+DLL Compilation
+---------------
 
-Date: Mon, 26 Mar 2012
-From: Arni Magnusson
-Subject: DLL compilation
+Ongoing effort to make DLL compilation a standard option in ADMB (Aaron, Allan, Arni, Chris, Iago, Laurie, Matthew, Weihai)
 
-Hi all,
+[2012-03-26 Email](2012-03-26-email.html)
 
-During the ADMB Developers' Meeting in Honolulu earlier this month, we defined tasks and assigned names, and these will probably form a key part of the meeting report. DLL compilation is one task that should probably be included in the report that Jim is putting together.
+[DLL Success - Arni](success-arni.html)
+: Please upload your platform-specific DLL "success stories"
 
-Shortly before the meeting, Dave Fournier posted a message (https://groups.google.com/forum/?fromgroups#!msg/admb-users/3kYBQ1pWUwM/YOJG0CluVmEJ) reporting that he found DLL compilation to be working fine on the Linux-GCC platform, given the right compilation flags throughout the build process, all the way from ADMB sources to the model executable. See also https://groups.google.com/forum/?fromgroups#!topic/admb-users/zlQVyAFJ28U and earlier discussions.
+[simpdll](simpdll.html)
+: 
 
-This needs to be explored further, by those of us with sufficient interest in DLL compilation and some knowledge of C++ compilation in general. The first step is to see which platforms (OS & compiler combinations) we can already build healthy DLLs on. The next steps include streamlining that process and get DLL compilation to work on as many platforms as possible. The recent decision to drop Borland support will make this task a bit easier.
+[simpdll.tmp](simpdll.tmp)
+: Example from ADMB user manual
 
-The task could look something like this in the report:
+[Example compilng dll using MS Visual C++](example-compilng-dll-using-ms-visual-c.html)
+: Compiling commands for DOS and r-code showing how to compile a dll and run it in R.
 
----
-
-DLL compilation on all platforms
-
-GCC (linux), Aaron, Arni, Iago, Matthew
-GCC (windows), Arni, Chris, Weihai
-MSVC, Allan, Laurie
-Clang, Matthew
-
----
-
-Cheers,
-
-Arni
-```
-
-Docs
-
-* [Example compiling dll with Visual C](example-compilng-dll-using-ms-visual-c.html)
-* [Procedure](simpdll.html)
-* [Success](success-arni.html)
-
-Downloads
-
-* [simpdll.tpl](simpdll.tpl)
-* [simple.r](dll-compilation-for-vs-with-an-r-access-example/simple.r)
-* [simple.tpl](dll-compilation-for-vs-with-an-r-access-example/simple.tpl)
+[DLL compilation for VS with an R access example](dll-compilation-for-vs-with-an-r-access-example/)
+: DLL compilation for the Windows VS compiler is now working. Enter the following command at the command line in the directory in which you save these files: admb - d simple. Open the R gui in the same directory and issue this command: source("simple.r"). Then look at the ouput object: xx

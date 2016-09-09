@@ -1,16 +1,17 @@
 ---
 layout: default
-title: Application Programming Interface
+title: dnorm
 ---
 
-Application Programming Interface
-=================================
+dnorm
+-----
+Documented version of Steve Martell's example package containing potential license and API documentation
 
-What Doxygen produced
+[Application Programming Interface](http://buildbot.admb-project.org/api/dnorm_8cpp.html)
+: What Doxygen produced
 
-The API documentation for dnorm is linked [here](http://admb-foundation.org/documentation/dnorm/).
+[dnorm source code](dnorm.cpp)
+:  
 
-Files
-
-* [dnorm.cpp](dnorm.cpp)
-* [dnorm.doxyfile](dnorm.doxyfile)
+[Doxyfile](dnorm.doxyfile)
+: Doxygen parameters used for this example

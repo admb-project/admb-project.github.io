@@ -1,11 +1,18 @@
 ---
 layout: default
-title: readme
+title: Functions
 ---
-readme
 
-Purpose of keywords.txt and getKeywords.R
+Functions
+---------
 
-The purpose of keywords.txt is to collect in one place the classes and methods that are commonly found in ADMB models. This gives an overview and helps prioritize which classes and methods need to be documented, both in Doxygen and in the manuals.
+Tools to see which functions need to be documented
 
-The purpose of getKeywords.R is to update keywords.txt. This requires R and admb.el (Emacs ADMB Mode source code).
+[keywords.txt](keywords.txt)
+: ADMB keywords, extracted from admb.el
+
+[getKeywords.R](getKeywords.R)
+: R function to extract ADMB keywords from admb.el
+
+[readme](readme.html)
+: Purpose of keywords.txt and getKeywords.R
