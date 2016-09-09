@@ -23,7 +23,7 @@ Information about editors, syntax highlighting, etc.
 [Notepad++](npp)
 : User-friendly editor (Windows)
 
-Vim
+[Vim](vim/)
 : Powerful and complex editor (Windows, Linux, Mac)
 
 keywords.txt
