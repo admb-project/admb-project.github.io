@@ -18,7 +18,7 @@ Working with ADMB and R
 [PBSadmb](https://code.google.com/archive/p/pbs-software/)
 : Organize and run ADMB model from R
 
-Interfacing R and ADMB
+[Interfacing R and ADMB](/developers/workshops/la-jolla-2010/InterfacingADMBwithR.pdf)
 : Document by Mark Maunder, written for the La Jolla meeting in March 2010
 
 [Reading report files using R](reading-report-files-using-r)
