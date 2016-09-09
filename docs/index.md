@@ -7,25 +7,19 @@ Documentation
 -------------
 
 [User Manuals](manuals)
-:
 
 [Introduction](intro)  
 : _Read this if you are new to ADMB_
 
 [Installation](install)
-:
 
 [Papers](papers)
-:
 
 [Reference cards](refcards)
-:
 
 [Comprehensive Documentation of ADMB Functions and Classes](http://api.admb-project.org/)
-: 
 
 [FAQ](faq)  
 : _ADMB Frequently Asked Questions_
 
 [User-contributed tutorials](user-contributed-tutorials/)
-:
