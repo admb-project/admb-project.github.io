@@ -1,6 +1,6 @@
 toc4faq <-
-  function(htmlfile="c:/admb/FAQ/ADMB-FAQ.html",
-           newfile='c:/admb/FAQ/ADMB-FAQ_new.html',
+  function(htmlfile="admb-project.github.io/docs/faq/index.html",
+           newfile='admb-project.github.io/docs/faq/index.html',
            replace=FALSE)
 
 {
@@ -33,39 +33,50 @@ toc4faq <-
     df$titles[i] <- string[2]
   }
 
-  # write a table of contents
-  toc <- c("    <!-- Table of Contents -->","    <ul>")
+  ### write a table of contents
+
+  toc <- c("<!-- Table of Contents -->")
+  # loop over key elements gathered above
   for(i in 1:n){
-    newline <- paste('      <li><a href="#',df$anchors[i],'">',df$titles[i],'</a>',sep='')
-    if(df$type[i]=="h2") newline <- paste("    ",newline,'</li>',sep="")
+    newline <- paste('<a href="#',df$anchors[i],'">',df$titles[i],'</a>',sep='')
+    if(df$type[i]=="h1"){
+      newline <- paste("<h3>",newline,'</h3>',sep="")
+    }
+    if(df$type[i]=="h2"){
+      newline <- paste("      <li>",newline,'</li>',sep="")
+    }
     toc <- c(toc,newline)
     if(i<n){
-      if(df$type[i]=="h1" & df$type[i+1]=="h2") toc <- c(toc,"        <ol>")
-      if(df$type[i]=="h2" & df$type[i+1]=="h1") toc <- c(toc,"        </ol>","      </li>")
+      if(df$type[i]=="h1" & df$type[i+1]=="h2") toc <- c(toc,"<ol>")
+      if(df$type[i]=="h2" & df$type[i+1]=="h1") toc <- c(toc,"</ol>")
     }
-    if(i==n & df$type[i]=="h2") toc <- c(toc,"        </ol>","      </li>")
+    if(i==n & df$type[i]=="h2") toc <- c(toc,"</ol>", "<hr />")
   }
-  toc <- c(toc,"    </ul>","    <!-- end of Table of Contents -->")
+  toc <- c(toc,"<!-- end of Table of Contents -->")
 
-  newfaq <- c('    <p>If you have ideas for additions or modifications, please send them to',
-              '      <a href="mailto:Ian.Taylor@noaa.gov">Ian.Taylor@noaa.gov</a>.<br>',
-              '      ADMB developers with editing privileges are welcome',
-              '      to make changes, but should read the ',
-              '      <a href="developers/faq/faqediting">Note on Editing the FAQ</a>',
-              '      before doing so.</p>',
+  newfaq <- c('---',
+              'layout: default',
+              'title: ADMB Frequently Asked Questions',
+              '---',
+              '<h2>ADMB Frequently Asked Questions (FAQs)</h2>',
+              '<p>If you have ideas for additions or modifications, please send them to',
+              '  <a href="mailto:Ian.Taylor@noaa.gov">Ian.Taylor@noaa.gov</a>.<br />',
+              '  ADMB developers with editing privileges are welcome',
+              '  to make changes, but should read the ',
+              '  <a href="http://www.admb-project.org/developers/contribute-documentation/faq">',
+              '  Note on Editing the FAQ before doing so.</p>',
               '',
-              '    <!-- ===================================================',
-              '         Table of Contents in this file were created using',
-              '         the custom toc4faq function in R',
-              paste('         creation date:',as.character(Sys.time())),
-              '         =================================================== -->',
+              '  <!-- ===================================================',
+              '       Table of Contents in this file were created using',
+              '       the custom toc4faq function in R',
+              paste('       creation date:',as.character(Sys.time())),
+              '       =================================================== -->',
               '',
               toc, # the new table of contents
               '',
-              '    <hr />',
               faq, # the old guts
               '    <!-- ====================================================================',
-              '    copyright, disclaimers, and whatnot should go down here',
+              '    copyright, disclaimers, and whatnot should go down here if required',
               '',
               '    ==================================================================== -->')
   if(file.exists(newfile)){
