@@ -18,7 +18,6 @@ ADMB Developers' Workshop, Univ Hawaii, 13-16 Mar 2012
 [gource.mp4](gource.mp4)
 : Video showing commits during workshop
 
-[group picture](P1230635.JPG)
 
 [Open MPI Presentation](mpi_pres.pdf)
 : Presentation about the parallelization efforts.
@@ -36,3 +35,5 @@ ADMB Developers' Workshop, Univ Hawaii, 13-16 Mar 2012
 
 [Contributed Libraries](ContribLib.pdf)
 : A short presentation on how to use Contributed Libraries in ADMB
+
+<img src="P1230635.JPG" width="500px"/>
