@@ -14,9 +14,13 @@ ADMB uses a number of temporary files if the memory is not large enough and thes
 
 The following command line options control the memory size for the given buffers. You can use the command line to change the size of the buffer (most recent version, otherwise you will have to change it in your code), if the buffer is bigger than the amount of memory used by ADMB then it won’t write to the temporary file. However, if you make the buffer too big then you computer won’t have enough memory and will write to the virtual memory on the hard disk.
 
+```
+
 Buffer	command line	temp file
 CMPDIF_BUFFER_SIZE	-cbs	cmpdiff.tmp
 GRADSTACK_BUFFER_SIZE	-gbs	gradfil1.tm
+
+```
  
 
 Gradfil2.tmp was intended to be a second file (presumably on a different partition) that gets written to when the first disk partition is full. It was pointed to by the environment string TMP1. This was back when 300MB was a large hard drive.
@@ -81,10 +85,12 @@ reducing the number of operations and derivative calculations from i*6-1 to i*3 
 
 use
 
-cout << temp << endl;
 ```
+
+cout << temp << endl;
 temp=gradient_structure::totalbytes(); 
 cout << temp << endl;
+
 ```
 
 in two places (or something like that). The difference is how much memory is used between those points. See the manual for more information.

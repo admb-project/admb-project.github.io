@@ -21,7 +21,7 @@ Tutorials, Tricks and Tips for using ADMB
 [Debugging with GDB (update)](admb-gdb-update.docx)
 : (Robert O'Boyle, June 2015)
 
-[How to use gprof, the GNU profiler]()
+[How to use gprof, the GNU profiler](how-to-use-gprof-gnu-profiler.html)
 : Instructions on compiling your ADMB executable to work with the GNU profiler, which records the amount of time spent on individual tasks within the code
 
 [Using ADMB on linux](using-admb-on-linux.html)
