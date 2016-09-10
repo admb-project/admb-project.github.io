@@ -9,16 +9,16 @@ Tutorials, Tricks and Tips for using ADMB
 [Splines](splines/)
 : notes and examples related to cubic splines
 
-ADMB Tips
+[ADMB Tips](admb-tips.html)
 
-ADMB and Memory Management
+[ADMB and Memory Management](memory-management.html)
 
-Debugging with GDB
+[Debugging with GDB](admb-gdb.html)
 
-Debugging with GDB (original)
+[Debugging with GDB (original)](admb-gdb-original.pdf)
 : (Robert O'Boyle, April 2015)
 
-Debugging with GDB (update)
+[Debugging with GDB (update)](admb-gdb-update.docx)
 : (Robert O'Boyle, June 2015)
 
 [How to use gprof, the GNU profiler]()
