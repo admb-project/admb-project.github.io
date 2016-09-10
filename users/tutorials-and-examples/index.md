@@ -28,4 +28,4 @@ Tutorials, Tricks and Tips for using ADMB
 : Tips for people converting to linux from Windows
 
 [UW Wiki](http://wiki.cbr.washington.edu/qerm/index.php/AD_Model_Builder)
-:ADMB tips from University of Washington students and faculty, including the Living Document
+: ADMB tips from University of Washington students and faculty, including the Living Document
