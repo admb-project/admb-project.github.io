@@ -6,7 +6,7 @@ title: Notepad++
 Notepad++
 ---------
 
-Ignore the silly name, [Notepad++](http://notepad-plus.sourceforge.net/) is a decent free editor for Windows.
+Ignore the silly name, [Notepad++](https://notepad-plus-plus.org/) is a decent free editor for Windows.
 
 Lightweight and not requiring administrator privileges to unzip and use, it can be seen as the successor of PFE (Programmer's File Editor) and Crimson, which are no longer maintained.
 

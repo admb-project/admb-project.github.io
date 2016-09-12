@@ -17,7 +17,7 @@ Powerful and complex editor (Windows, Linux, Mac)
 [Configure](configure.html)
 : Advanced Emacs configuration
 
-[ADMB-IDE](/tools/editors/admb-ide)
+[ADMB-IDE](/tools/editors/admb-ide/)
 : Special customization of Emacs in admb-mode  
 
 [ESS](ess.html)
