@@ -8,7 +8,7 @@ Editors
 
 Information about editors, syntax highlighting, etc.
 
-[ConTEXT](http://www.contexteditor.org/)
+[ConTEXT](http://www.contexteditor.org/index.php)
 : User-friendly editor (Windows) for ADMB coding
 
 [Crimson](crimson/)
@@ -17,10 +17,10 @@ Information about editors, syntax highlighting, etc.
 [Emacs](emacs/)
 : Powerful and complex editor (Windows, Linux, Mac)
 
-[jEdit](jedit)
+[jEdit](jedit/)
 : User-friendly editor (Windows, Linux, Mac)
 
-[Notepad++](npp)
+[Notepad++](npp/)
 : User-friendly editor (Windows)
 
 [Vim](vim/)
