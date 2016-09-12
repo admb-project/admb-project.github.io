@@ -61,10 +61,10 @@ layout: default
 [8]: seminar-17.pdf
 [9]: university-19.pdf
 [11]: papers.zip
-[12]: http://admb-project.org/developers/benchmarks/optimization/nceas.pdf
+[12]: http://www.admb-project.org/developers/benchmarks/optimization/nceas.pdf
 [13]: http://moondoggie.org/admb_html/admb.html
 [14]: ../source-tree.html
-[15]: http://admb-project.org/documentation/intro/brief
+[15]: http://admb-project.org/docs/intro/brief
 [16]: https://github.com/admb-project/
 [17]: doxygen-github.pdf
 [18]: parallel.pdf
