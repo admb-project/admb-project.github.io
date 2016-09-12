@@ -6,20 +6,20 @@ title: Documentation
 Documentation
 -------------
 
-[User Manuals](manuals)
+[User Manuals](manuals/)
 
-[Introduction](intro)  
+[Introduction](intro/)  
 : _Read this if you are new to ADMB_
 
-[Installation](install)
+[Installation](install/)
 
-[Papers](papers)
+[Papers](papers/)
 
-[Reference cards](refcards)
+[Reference cards](refcards/)
 
 [Comprehensive Documentation of ADMB Functions and Classes](http://api.admb-project.org/)
 
-[FAQ](faq)  
+[FAQ](faq/)  
 : _ADMB Frequently Asked Questions_
 
 [User-contributed tutorials](user-contributed-tutorials/)
