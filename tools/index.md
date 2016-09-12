@@ -6,7 +6,7 @@ title: Tools
 Tools
 -----
 
-[ADMB-IDE](admb-ide)
+[ADMB-IDE](admb-ide/)
 : User-friendly development environment for AD Model Builder
 
 [Editors](editors/)
