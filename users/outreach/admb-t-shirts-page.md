@@ -31,7 +31,7 @@ ADMB t-shirts page
 <p><span><span><a class="wiki" href="http://swfsc.noaa.gov/staff.aspx?id=610">Kevin Hill</a><span> explaining his model at the sardine stock assessment meeting.</span></span></span></p>
 <p><span><span><span><br /></span></span></span></p>
 <p><span><span><span><img src="Fay_650.jpg" alt="" class="image-inline" title="" /></span></span></span></p>
-<p><span><span><a class="wiki" href="http://www.fish.washington.edu/research/MPAM/Fay.htm">Gavin Fay</a><span> giving his presentation at the International Statistical Ecology Conference, University of Kent, Canterbury, UK, on 5 July 2010.</span></span></span></p>
+<p><span><span><a class="wiki" href="https://fish.uw.edu/research/MPAM/Fay.htm">Gavin Fay</a><span> giving his presentation at the International Statistical Ecology Conference, University of Kent, Canterbury, UK, on 5 July 2010.</span></span></span></p>
 <p><span><span><br /></span></span></p>
 <p><span><span><img src="Len_650.jpg" alt="" class="image-inline" title="" /></span></span></p>
 <p><span><a class="wiki" href="http://www.creem.st-and.ac.uk/len/">Len Thomas</a><span>, who does not use ADMB but wanted a free T-shirt, giving his presentation at the International Statistical Ecology Conference, University of Kent, Canterbury, UK, on 5 July 2010.</span></span></p>
@@ -40,13 +40,13 @@ ADMB t-shirts page
 <p><span><span><span>Student Takis Besbeas and instructor </span><a class="wiki" href="http://nielsensweb.org/anders/">Anders Nielsen</a><span> at an ADMB course held at the International Statistical Ecology Conference, University of Kent, Canterbury, UK, on 5 July 2010.</span></span></span></p>
 <p><span><span><span><br /></span></span></span></p>
 <p><span><span><span><img src="Fieberg_ADMB_650.jpg" alt="" class="image-inline" title="" /></span></span></span></p>
-<p><span><span><span><a class="wiki" href="http://fwcb.cfans.umn.edu/personnel/faculty/fieberg/index.htm">John Fieberg</a><span> of Minnesota Department of Natural Resources at the Wildlife Society conference in Snowbird, UT, giving his presentation "Integrated population modeling of black bears in Minnesota: Implications for monitoring and management."</span></span></span></span></p>
+<p><span><span><span><a class="wiki" href="http://fwcb.cfans.umn.edu/personnel/john-fieberg">John Fieberg</a><span> of Minnesota Department of Natural Resources at the Wildlife Society conference in Snowbird, UT, giving his presentation "Integrated population modeling of black bears in Minnesota: Implications for monitoring and management."</span></span></span></span></p>
 <p><span><span><br /></span></span></p>
 <p><span><span><img src="Conn_ADMB_650.jpg" alt="" class="image-inline" title="" /></span></span></p>
 <p><span><span><span>Paul Conn of NOAA at the Wildlife Society conference in Snowbird, UT, giving his presentation </span><span>"Using fisheries models to assess harvested populations: a review of data, models, and assumptions."</span></span></span></p>
 <p><span><span><span><br /></span></span></span></p>
 <p><span><span><span><img src="WKADSAM_650.jpg" alt="" class="image-inline" title="" /></span></span></span></p>
-<p><span><span><span><span>Richard Methot, </span><a class="wiki" href="http://www.nwfsc.noaa.gov/research/staff/display_staffprofile.cfm?staffid=612">Melissa Haltuch</a><span>, and </span><a class="wiki" href="http://nielsensweb.org/anders/">Anders Nielsen</a><span> at the ICES Workshop on Reviews of Recent Advances in Stock Assessment Models Worldwide at IFREMER, Nantes, France, 27 September to 1 October 2010.</span></span></span></span></p>
+<p><span><span><span><span>Richard Methot, </span><a class="wiki" href="https://www.nwfsc.noaa.gov/research/staff/display_staffprofile.cfm?staffid=612">Melissa Haltuch</a><span>, and </span><a class="wiki" href="http://nielsensweb.org/anders/">Anders Nielsen</a><span> at the ICES Workshop on Reviews of Recent Advances in Stock Assessment Models Worldwide at IFREMER, Nantes, France, 27 September to 1 October 2010.</span></span></span></span></p>
 <p><span><span><span><br /></span></span></span></p>
 <p><span><span><span><img src="Mark_Yellowtail_650.JPG" alt="" class="image-inline" title="" /></span></span></span></p>
 <p><span><span><span><span>Ex ADMB Foundation president Mark Maunder with yet another Kingfish (yellowtail) caught in New Zealand. </span></span></span></span></p>
