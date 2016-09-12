@@ -28,10 +28,10 @@ ADMB t-shirts page
 <p><span><img src="Shertzer_650.jpg" alt="" class="image-inline" title="" /></span></p>
 <p><span><a class="wiki" href="http://www.uaex.edu/aquaculture/whitecoats/stock%20assessment%20biologist.html">Erik Williams</a><span>, Kyle Shertzer, and Rob Cheshire at a stock assessment review meeting in Savannah, GA.</span></span></p>
 <p><span><span><img src="hill_650.jpg" alt="" class="image-inline" title="" /></span></span></p>
-<p><span><span><a class="wiki" href="http://swfsc.noaa.gov/staff.aspx?id=610">Kevin Hill</a><span> explaining his model at the sardine stock assessment meeting.</span></span></span></p>
+<p><span><span><a class="wiki" href="https://swfsc.noaa.gov/staff.aspx?id=610">Kevin Hill</a><span> explaining his model at the sardine stock assessment meeting.</span></span></span></p>
 <p><span><span><span><br /></span></span></span></p>
 <p><span><span><span><img src="Fay_650.jpg" alt="" class="image-inline" title="" /></span></span></span></p>
-<p><span><span><a class="wiki" href="https://fish.uw.edu/research/MPAM/Fay.htm">Gavin Fay</a><span> giving his presentation at the International Statistical Ecology Conference, University of Kent, Canterbury, UK, on 5 July 2010.</span></span></span></p>
+<p><span><span><a class="wiki" href="http://www.gavinfay.org/">Gavin Fay</a><span> giving his presentation at the International Statistical Ecology Conference, University of Kent, Canterbury, UK, on 5 July 2010.</span></span></span></p>
 <p><span><span><br /></span></span></p>
 <p><span><span><img src="Len_650.jpg" alt="" class="image-inline" title="" /></span></span></p>
 <p><span><a class="wiki" href="http://www.creem.st-and.ac.uk/len/">Len Thomas</a><span>, who does not use ADMB but wanted a free T-shirt, giving his presentation at the International Statistical Ecology Conference, University of Kent, Canterbury, UK, on 5 July 2010.</span></span></p>
