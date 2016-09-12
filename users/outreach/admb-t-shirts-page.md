@@ -46,7 +46,7 @@ ADMB t-shirts page
 <p><span><span><span>Paul Conn of NOAA at the Wildlife Society conference in Snowbird, UT, giving his presentation </span><span>"Using fisheries models to assess harvested populations: a review of data, models, and assumptions."</span></span></span></p>
 <p><span><span><span><br /></span></span></span></p>
 <p><span><span><span><img src="WKADSAM_650.jpg" alt="" class="image-inline" title="" /></span></span></span></p>
-<p><span><span><span><span>Richard Methot, </span><a class="wiki" href="https://www.nwfsc.noaa.gov/research/staff/display_staffprofile.cfm?staffid=612">Melissa Haltuch</a><span>, and </span><a class="wiki" href="http://nielsensweb.org/anders/">Anders Nielsen</a><span> at the ICES Workshop on Reviews of Recent Advances in Stock Assessment Models Worldwide at IFREMER, Nantes, France, 27 September to 1 October 2010.</span></span></span></span></p>
+<p><span><span><span><span>Richard Methot, </span><a class="wiki" href="https://www.nwfsc.noaa.gov/contact/display_staffprofile.cfm?staffid=612">Melissa Haltuch</a><span>, and </span><a class="wiki" href="http://nielsensweb.org/anders/">Anders Nielsen</a><span> at the ICES Workshop on Reviews of Recent Advances in Stock Assessment Models Worldwide at IFREMER, Nantes, France, 27 September to 1 October 2010.</span></span></span></span></p>
 <p><span><span><span><br /></span></span></span></p>
 <p><span><span><span><img src="Mark_Yellowtail_650.JPG" alt="" class="image-inline" title="" /></span></span></span></p>
 <p><span><span><span><span>Ex ADMB Foundation president Mark Maunder with yet another Kingfish (yellowtail) caught in New Zealand. </span></span></span></span></p>
