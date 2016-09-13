@@ -16,7 +16,7 @@ See [instructor contact](contact/) list about organizing an ADMB course.
 * [AD Model Builder Workshop](previous/other-courses-no-materials-available/isec-2012-norway.html) <br/>June 30, 2012 to July 1, 2012
 * [Chilean workshop](previous/march-2012/Chilean-workshop.pdf) <br/>March 2012
 * [AD Model Builder and Stock Assessment](previous/february-2011/course-report-2011.pdf) <br/>February 21 - 25, 2013 at ICES Headquarters in Copenhagen
-* [ADMB Workshop at International Statistical Ecology Conference 2010](old-courses-and-course-material/admb-workshop-at-international-statistical-ecology-conference-2010-5-july-2010/) <br/> July 5, 2010
+* [ADMB Workshop at International Statistical Ecology Conference 2010](previous/admb-workshop-at-international-statistical-ecology-conference-2010-5-july-2010/) <br/> July 5, 2010
 * [ADMB Workshop](previous/july-2010/) <br/>July 2010
 * [ADMB Workshop](previous/august-2009/) <br/>August 2009
 * [AD Model Builder Introductory Workshop](previous/july-2009/) <br/>July 2009

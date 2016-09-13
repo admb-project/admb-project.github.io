@@ -1,11 +1,17 @@
 Repository for the [ADMB Project](http://www.admb-project.org/) website.
 
-Directories
------------
+The ADMB Project website is hosted on [GitHub pages](https://pages.github.com/).  It
+is uses the [Jekyll](https://jekyllrb.com/) engine to transform easy-to-read
+[markdown](https://guides.github.com/features/mastering-markdown/) files into static
+web pages.
+
+
+Directory Structure
+-------------------
 
 **_layouts/**
 
-Contains the layouts default.html and post.html for markdown content files.
+Contains the web page outer layouts default.html and post.html for markdown content files.
 
 **_posts/**
 
