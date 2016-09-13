@@ -31,7 +31,7 @@ Alternatively, open a shell and run admb simple to build the model and type simp
 
 Skim through the [manuals](/docs/manuals/), [reference cards](/docs/refcards/), and [papers](/docs/papers/) describing how ADMB works.
 
-View the [training videos](ftp://glpd.fw.msu.edu/QFC/ADMB-Videos/Current_ADMB_Video_Release/), attend an upcoming [course](/courses/upcoming/), or study material from [previous](/courses/previous/) courses.
+View the [training videos](ftp://glpd.fw.msu.edu/QFC/ADMB-Videos/Current_ADMB_Video_Release/), attend an upcoming [course](/courses/), or study material from [previous](/courses/previous/) courses.
 
 Run and modify the [examples](/examples/) that come with ADMB, download more examples from the ADMB website or elsewhere.
 
