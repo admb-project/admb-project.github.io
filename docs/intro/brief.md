@@ -37,4 +37,4 @@ Run and modify the [examples](/examples/) that come with ADMB, download more exa
 
 Write a small model related to your research.
 
-Ask a question on the [user mailing list](/users/users-mailing-list) and view answers to [frequently asked questions](/documentation/faq).
+Ask a question on the [user mailing list](/users/users-mailing-list) and view answers to [frequently asked questions](/docs/faq/).
