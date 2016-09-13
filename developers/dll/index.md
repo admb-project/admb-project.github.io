@@ -16,7 +16,7 @@ Ongoing effort to make DLL compilation a standard option in ADMB (Aaron, Allan, 
 [simpdll](simpdll.html)
 : 
 
-[simpdll.tmp](simpdll.tmp)
+[simpdll.tpl](simpdll.tpl)
 : Example from ADMB user manual
 
 [Example compilng dll using MS Visual C++](example-compilng-dll-using-ms-visual-c.html)

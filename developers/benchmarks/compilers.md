@@ -12,9 +12,7 @@ conducted by Ian Taylor and Allan Hicks
 17 Aug 2010 
 (note: an incorrect legend in figure below and PDF file was corrected on 7 Sept. 2010).
 
-```
-testing_memory_inputs_summary.jpg
-```
+<img src="testing_memory_inputs_summary.jpg" width="500px" />
 
 [ADMB memory test (PDF)](http://www.admb-project.org/developers/benchmarks/ADMBmemoryTest.pdf) is a write-up of a test comparing memory use, run time, and temporary file sizes for four combinations of operating system and compiler. The plot above summarizes some of the findings, including the improvement in speed that comes from 64 bit systems and some of the erratic behavior that comes from providing inputs for the memory settings that are beyond the definition of an integer in C++. General guidance to users and some recommendations for improvements to the ADMB source code are included in the write-up.
 
