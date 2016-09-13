@@ -4,4 +4,4 @@ layout: default
 
 [image.jpg](image.jpg)
 
-[slackline.zip](slickline.zip)
+[slackline.zip](slackline.zip)
