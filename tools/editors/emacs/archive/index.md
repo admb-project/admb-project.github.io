@@ -113,6 +113,5 @@ Old versions of admb-mode
 
 [admb_11.2-6.el](admb_11.2-6.el)
 
-
 [Moved to GitHub](moved-to-github.html)
 : https://github.com/admb-project/admb/blob/master/contrib/emacs/admb.el

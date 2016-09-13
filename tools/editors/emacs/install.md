@@ -165,7 +165,7 @@ Here's an example:
 ```
 I recommend defining single-stroke keybindings to global commands you use often (but leave Ctrl-x and Ctrl-c unchanged, because they're special), and two-stroke keybindings of the form Ctrl-c Ctrl-char for mode-specific commands. I also recommend redefining the background and text colors to something that provides comfort and contrast for the eyes. Emacs is powerful stuff, but the default keybindings and colors are in many cases silly.
 
-See the [Configure](config.html) notes for more details on Emacs configuration.
+See the [Configure](configure) notes for more details on Emacs configuration.
 
 3 **Install admb-mode**
 
