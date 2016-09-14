@@ -7,7 +7,7 @@ title: ADMB Frequently Asked Questions
   <a href="mailto:Ian.Taylor@noaa.gov">Ian.Taylor@noaa.gov</a>.<br />
   ADMB developers with editing privileges are welcome
   to make changes, but should read the 
-  <a href="http://www.admb-project.org/developers/contribute-documentation/faq/">
+  <a href="/developers/contribute-documentation/faq/">
   Note on Editing the FAQ before doing so.</p>
 
   <!-- ===================================================
@@ -234,7 +234,7 @@ This list is displayed when a user runs 'mymodel -info'.</p>
   the text files input to and output from ADMB programs. Many users of ADMB
   use R to summarize or plot results of their ADMB models (a list of R
   packages associated with ADMB output is
-  available <a href="http://www.admb-project.org/community/related-software/r">here</a>).
+  available <a href="/tools/r/">here</a>).
   There is a package glmmADMB for R that utilizes ADMB and some users have
   compiled ADMB models as DLLs to help it interact with other software.</p>
 <hr />
@@ -248,7 +248,7 @@ This list is displayed when a user runs 'mymodel -info'.</p>
   installer for GCC compiler is the only one for which the compiler is 
   included with the ADMB installer (because it is open source and can be 
   distributed in this way). For this reason, the Windows GCC installer 
-  is the recommended choice. <a href="http://www.admb-project.org/developers/benchmarks/">Some
+  is the recommended choice. <a href="/developers/benchmarks/">Some
     benchmarks</a> have been completed to compare compilers, and more will
   likely be added in the future.</p>
 <h2><a name="linux-packages">Is there a .rpm or .deb package for easy Linux installation?</a></h2>
@@ -337,8 +337,8 @@ There are a few things to watch out for:
   <li>Don't use scientific notation when using command line options</li>
   <li>Watch out for large temporary files associated with insufficient memory use</li></ul>
 There is more detailed information on this topic within this website
-<a href="http://www.admb-project.org/developers/benchmarks/">here</a>, and 
-<a href="http://www.admb-project.org/community/tutorials-and-examples/memory-management">here</a>.
+<a href="/developers/benchmarks/">here</a>, and 
+<a href="/users/tutorials-and-examples/memory-management">here</a>.
 
 And many discussions in the <a href="https://groups.google.com/d/forum/admb-users">archives of the ADMB Users email list</a>.
 <p>&nbsp;</p>
