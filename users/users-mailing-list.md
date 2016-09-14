@@ -14,6 +14,6 @@ Recent messages are on the [Google Group](https://groups.google.com/a/admb-proje
 
 To subscribe, email **users-request@admb-project.org** with subject **subscribe users@admb-project.org**
 
-Also check out the [FAQs](/docs/faq), where you may find an answer to your question.
+Also check out the [FAQs](/docs/faq/), where you may find an answer to your question.
 
 This is the **main mailing list** for discussing problems and solutions using ADMB, as well as announcements.
