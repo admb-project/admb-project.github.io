@@ -12,8 +12,6 @@ This is the user's community page for ADMB. If you would like to contribute to t
 
 [User Base](/community/)
 
-[Bibliography](bibliography/)
-
 [Outreach](outreach/)
 : Posters, brochures and other material to promote ADMB
 
