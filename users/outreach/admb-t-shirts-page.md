@@ -21,7 +21,7 @@ ADMB t-shirts page
 <p><span>ADMB developers at the ADMB Developers Workshop, NCEAS, Santa Barbara, 2011.</span></p>
 <p><span><br /></span></p>
 <p><span><img src="ices2011_650.jpg" alt="" class="image-inline" title="" /></span></p>
-<p><span><span>ADMB workshop taught by </span><a class="wiki" href="http://nielsensweb.org/anders/">Anders Nielsen</a><span> and Arni Magnusson at ICES, Copenhagen, 2011 (</span><a class="wiki" href="http://ices.dk/iceswork/training/Reports/TCADSAM11.pdf">course details</a><span>).</span></span></p>
+<p><span><span>ADMB workshop taught by </span><a class="wiki" href="http://nielsensweb.org/anders/">Anders Nielsen</a><span> and Arni Magnusson at ICES, Copenhagen, 2011 (</span><a class="wiki" href="http://ices.dk/news-and-events/Documents/Training%20Courses/Reports/TCADSAM11.pdf">course details</a><span>).</span></span></p>
 <p><span><br /></span></p>
 <p><span><img src="TunaCamp2011_650.jpg" alt="" class="image-inline" title="" /></span></p>
 <p><span><span>Shane Griffiths, Eunjung Kim, and </span><a class="wiki" href="http://www.fisheriesstockassessment.com/TikiWiki/tiki-index.php?page=Mark+Maunder">Mark Maunder</a><span> at the Tuna Conference, Lake Arrowhead, 2011.</span></span></p>
