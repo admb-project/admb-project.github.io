@@ -8,9 +8,9 @@ title: Downloads ADMB-11.5
 <h3>Overview</h3>
 <p>ADMB is released in three different forms:</p>
 <ol>
-<li><a href="http://admb-project-org.admb-foundation.org/downloads#source"><strong>Source</strong></a> distribution, to build the ADMB libraries from scratch.<br />
+<li><a href="#source"><strong>Source</strong></a> distribution, to build the ADMB libraries from scratch.<br />
 <em>Mainly for the Linux platform and advanced users.</em></li>
-<li><a href="http://admb-project-org.admb-foundation.org/downloads/#2--admb-ide"><strong>ADMB-IDE</strong></a> easy and efficient user interface, bundles ADMB with C++ compiler and dedicated ADMB editor.<br />
+<li><a href="#admb-ide"><strong>ADMB-IDE</strong></a> easy and efficient user interface, bundles ADMB with C++ compiler and dedicated ADMB editor.<br />
 <em>Highly recommended for the Windows platform, although not released frequently. Works in Linux and Mac, too.</em></li>
 <li><a href="http://admb-project-org.admb-foundation.org/downloads#3-binaries"><strong>Binaries</strong></a> precompiled for various platforms, C++ compiler not included.<br />
 <em>Mainly for the Mac OS platform, as well as Windows users whose needs are not met by ADMB-IDE</em></li>
@@ -33,7 +33,7 @@ title: Downloads ADMB-11.5
 </tr>
 </tbody>
 </table>
-<h3><a name="2--admb-ide"></a>2  ADMB-IDE</h3>
+<h3><a name="admb-ide"></a>2  ADMB-IDE</h3>
 <p>See the release <a href="http://admb-project-org.admb-foundation.org/news/admb-ide-11-2-released">announcement</a> (13 January 2015) for an overview of the main features of ADMB-IDE 11.2.</p>
 <p>The installer (.exe) is a &#8220;click-next-next-done&#8221; solution to set up ADMB with a compiler and editor, ready to use.<br />
 The portable (.zip) distribution is for users who like to configure the software themselves, and dislike installers.</p>
