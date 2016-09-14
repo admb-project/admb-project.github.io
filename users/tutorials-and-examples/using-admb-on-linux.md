@@ -10,7 +10,7 @@ Tips for people converting to linux from Windows
 
 **Installation**
 
-Note, this is just a supplement to the instructions on the [ADMB Installation Linux](/docs/admb-installation-linux) page.
+Note, this is just a supplement to the instructions on the [ADMB Installation Linux](/docs/user-contributed-tutorials/admb-installation-linux) page.
 
 To have the $ADMB_HOME and $PATH environmental variables set for all future sessions, edit the ~/.gnomerc (or ~/.bashrc, ~/.bash_login, or some other file that will be loaded when you open a terminal or connect to your computer) and add the following lines. If you're using the ADMB-IDE, it seems best to choose .gnomerc. You may replace /home/USERNAME/admb with /usr/local/admb or any other location where you choose to unzip the ADMB files.
 
