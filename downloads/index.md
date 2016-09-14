@@ -34,7 +34,7 @@ title: Downloads ADMB-11.5
 </tbody>
 </table>
 <h3><a name="admb-ide"></a>2  ADMB-IDE</h3>
-<p>See the release <a href="http://admb-project-org.admb-foundation.org/news/admb-ide-11-2-released">announcement</a> (13 January 2015) for an overview of the main features of ADMB-IDE 11.2.</p>
+<p>See the release <a href="http://www.admb-project.org/2015/07/13/ADMB-IDE-11.2-released.html">announcement</a> (13 January 2015) for an overview of the main features of ADMB-IDE 11.2.</p>
 <p>The installer (.exe) is a &#8220;click-next-next-done&#8221; solution to set up ADMB with a compiler and editor, ready to use.<br />
 The portable (.zip) distribution is for users who like to configure the software themselves, and dislike installers.</p>
 <table class="grid listing" summary="ADMB-IDE">
@@ -47,19 +47,19 @@ The portable (.zip) distribution is for users who like to configure the software
 </tr>
 <tr>
 <td style="border: 1px solid black;">ADMB-IDE installer (.exe)</td>
-<td style="border: 1px solid black;"><a href="http://admb-project-org.admb-foundation.org/download/admb-11.2/admb-ide-112-win64.exe">admb-ide-112-win64.exe</a></td>
-<td style="border: 1px solid black;"><a href="http://admb-project-org.admb-foundation.org/download/admb-11.2/admb-ide-112-win32.exe">admb-ide-112-win32.exe</a></td>
+<td style="border: 1px solid black;"><a href="http://ftp.admb-project.org/admb-11.2/admb-ide-112-win64.exe">admb-ide-112-win64.exe</a></td>
+<td style="border: 1px solid black;"><a href="http://ftp.admb-project.org/admb-11.2/admb-ide-112-win32.exe">admb-ide-112-win32.exe</a></td>
 <td style="border: 1px solid black;"><a class="internal-link" href="/download/tools/admb-ide/manual">admb-ide-112.pdf</a></td>
 </tr>
 <tr>
 <td style="background-color: #f2f2f2;border: 1px solid black;">ADMB-IDE portable (.zip)</td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="http://admb-project-org.admb-foundation.org/download/admb-11.2/admb-ide-112-win64.zip">admb-ide-112-win64.zip</a></td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="http://admb-project-org.admb-foundation.org/download/admb-11.2/admb-ide-112-win32.zip">admb-ide-112-win32.zip</a></td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a class="internal-link" href="/download/tools/admb-ide/manual">admb-ide-112.pdf</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="http://ftp.admb-project.org/admb-11.2/admb-ide-112-win64.zip">admb-ide-112-win64.zip</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="http://ftp.admb-project.org/admb-11.2/admb-ide-112-win32.zip">admb-ide-112-win32.zip</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a class="internal-link" href="/tools/admb-ide/manual.pdf">admb-ide-112.pdf</a></td>
 </tr>
 </tbody>
 </table>
-<p>ADMB-IDE can be set up manually in Linux and Mac OS (see <a class="internal-link" href="/download/tools/admb-ide/manual">manual</a>), but experienced Emacs users may prefer to use <a class="internal-link" href="/download/tools/editors/emacs/admb.el">admb.el</a> with traditional Emacs keybindings.</p>
+<p>ADMB-IDE can be set up manually in Linux and Mac OS (see <a class="internal-link" href="/tools/admb-ide/manual">manual</a>), but experienced Emacs users may prefer to use <a class="internal-link" href="/download/tools/editors/emacs/admb.el">admb.el</a> with traditional Emacs keybindings.</p>
 <h3><a name="binaries"></a>3 Binaries</h3>
 <h3>3.1  Windows</h3>
 <table class="grid listing">
@@ -191,8 +191,8 @@ The portable (.zip) distribution is for users who like to configure the software
 </tbody>
 </table>
 <h3></h3>
-<h3>4 Older versions of ADMB software can be found in the <a href="https://code.google.com/archive/p/admb-project/downloads">project archive</a>.</h3>
+<h3>4 Older versions of ADMB software can be found in the <a href="archives.html">archives</a>.</h3>
 <h3>License</h3>
 <p>AD Model Builder (ADMB) is free software, released under the <a href="https://raw.githubusercontent.com/admb-project/admb/master/LICENSE.txt">BSD License</a>.</p>
 <h3>Announce mailing list</h3>
-<p>For the announcement of new ADMB releases, read the <a href="https://groups.google.com/a/admb-project.org/forum/#!forum/announce">ADMB Announcements</a>.</p>
+<p>For the announcement of new ADMB releases, read the <a href="https://groups.google.com/a/admb-project.org/d/forum/announce">ADMB Announcements</a>.</p>
