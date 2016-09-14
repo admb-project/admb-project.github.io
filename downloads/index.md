@@ -49,7 +49,7 @@ The portable (.zip) distribution is for users who like to configure the software
 <td style="border: 1px solid black;">ADMB-IDE installer (.exe)</td>
 <td style="border: 1px solid black;"><a href="http://ftp.admb-project.org/admb-11.2/admb-ide-112-win64.exe">admb-ide-112-win64.exe</a></td>
 <td style="border: 1px solid black;"><a href="http://ftp.admb-project.org/admb-11.2/admb-ide-112-win32.exe">admb-ide-112-win32.exe</a></td>
-<td style="border: 1px solid black;"><a class="internal-link" href="/download/tools/admb-ide/manual">admb-ide-112.pdf</a></td>
+<td style="border: 1px solid black;"><a class="internal-link" href="/tools/admb-ide/manual.pdf">admb-ide-112.pdf</a></td>
 </tr>
 <tr>
 <td style="background-color: #f2f2f2;border: 1px solid black;">ADMB-IDE portable (.zip)</td>
@@ -59,7 +59,7 @@ The portable (.zip) distribution is for users who like to configure the software
 </tr>
 </tbody>
 </table>
-<p>ADMB-IDE can be set up manually in Linux and Mac OS (see <a class="internal-link" href="/tools/admb-ide/manual">manual</a>), but experienced Emacs users may prefer to use <a class="internal-link" href="/download/tools/editors/emacs/admb.el">admb.el</a> with traditional Emacs keybindings.</p>
+<p>ADMB-IDE can be set up manually in Linux and Mac OS (see <a class="internal-link" href="/tools/admb-ide/manual.pdf">manual</a>), but experienced Emacs users may prefer to use <a class="internal-link" href="/tools/editors/emacs/admb.el">admb.el</a> with traditional Emacs keybindings.</p>
 <h3><a name="binaries"></a>3 Binaries</h3>
 <h3>3.1  Windows</h3>
 <table class="grid listing">
