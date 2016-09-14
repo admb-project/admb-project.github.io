@@ -5,7 +5,6 @@ is uses the [Jekyll](https://jekyllrb.com/) engine to transform easy-to-read
 [markdown](https://guides.github.com/features/mastering-markdown/) files into static
 web pages.
 
-
 Directory Structure
 -------------------
 
@@ -64,3 +63,8 @@ Redirects to ADMB buildbot site for testing of ADMB source code.
 **examples/**
 
 Redirects to site containing ADMB examples.
+
+Website Standards
+-----------------
+
+1. Since Jekyll does not support symlinks, use redirects instead.
