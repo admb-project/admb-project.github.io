@@ -1,3 +1,11 @@
+---
+title: ADMB and Stock Assessment Course. Copenhagen, 21–25 February 2011
+---
+
+ADMB and Stock Assessment Course. Copenhagen, 21–25 February 2011
+------------------------------------------------------------------
+
+```
 BEGIN:VCALENDAR
 PRODID:-//AT Content Types//AT Event//EN
 VERSION:2.0
@@ -14,3 +22,4 @@ URL:http://www.ices.dk/iceswork/training/AD_modelbuilder_and_stock_assessment.pd
 CLASS:PUBLIC
 END:VEVENT
 END:VCALENDAR
+```

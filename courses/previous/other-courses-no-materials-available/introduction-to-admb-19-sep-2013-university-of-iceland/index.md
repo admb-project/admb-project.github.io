@@ -1,3 +1,12 @@
+---
+layout: default
+title: Introduction to ADMB, 19 Sep 2013, University of Iceland
+---
+
+Introduction to ADMB, 19 Sep 2013, University of Iceland
+----------------------------------------------------------
+
+```
 BEGIN:VCALENDAR
 PRODID:-//AT Content Types//AT Event//EN
 VERSION:2.0
@@ -14,3 +23,4 @@ DESCRIPTION:Course taught by Arni Magnusson
 CLASS:PUBLIC
 END:VEVENT
 END:VCALENDAR
+```

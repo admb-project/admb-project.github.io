@@ -9,7 +9,6 @@ Other courses
 Other courses with no course materials available
 
 [ADMB and Stock Assessment Course. Copenhagen, 21–25 February 2011](ad-model-builder-and-stock-assessment.-21201325-february-2011-at-ices-hq-in-copenhagen/)
-: from Feb 21, 2011 12:00 AM to Feb 25, 2011 12:00 AM
 
 [ISEC 2012 (Norway)](isec-2012-norway.html)
 : 30 June - 1 July: Introduction to AD Model Builder
