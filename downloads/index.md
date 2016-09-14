@@ -12,7 +12,7 @@ title: Downloads ADMB-11.5
 <em>Mainly for the Linux platform and advanced users.</em></li>
 <li><a href="#admb-ide"><strong>ADMB-IDE</strong></a> easy and efficient user interface, bundles ADMB with C++ compiler and dedicated ADMB editor.<br />
 <em>Highly recommended for the Windows platform, although not released frequently. Works in Linux and Mac, too.</em></li>
-<li><a href="http://admb-project-org.admb-foundation.org/downloads#3-binaries"><strong>Binaries</strong></a> precompiled for various platforms, C++ compiler not included.<br />
+<li><a href="#binaries"><strong>Binaries</strong></a> precompiled for various platforms, C++ compiler not included.<br />
 <em>Mainly for the Mac OS platform, as well as Windows users whose needs are not met by ADMB-IDE</em></li>
 </ol>
 <h3>Newest release</h3>
@@ -60,7 +60,7 @@ The portable (.zip) distribution is for users who like to configure the software
 </tbody>
 </table>
 <p>ADMB-IDE can be set up manually in Linux and Mac OS (see <a class="internal-link" href="/download/tools/admb-ide/manual">manual</a>), but experienced Emacs users may prefer to use <a class="internal-link" href="/download/tools/editors/emacs/admb.el">admb.el</a> with traditional Emacs keybindings.</p>
-<h3><a name="3-binaries"></a>3 Binaries</h3>
+<h3><a name="binaries"></a>3 Binaries</h3>
 <h3>3.1  Windows</h3>
 <table class="grid listing">
 <tbody>
