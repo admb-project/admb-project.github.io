@@ -59,8 +59,8 @@ Contains ADMB source code reference.
 
 **buildbot/**
 
-ADMB buildbot for testing of ADMB source code.
+Redirects to ADMB buildbot site for testing of ADMB source code.
 
 **examples/**
 
-Contains ADMB examples.
+Redirects to site containing ADMB examples.
