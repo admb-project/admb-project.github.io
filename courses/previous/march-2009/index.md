@@ -36,4 +36,3 @@ Instructors: Anders Nielsen, Johnoel Ancheta, and Mark Maunder
 : Presentation: description of methods to estimate uncertainty using ADMB including standard deviations, profile likelihood and Bayesian MCMC
 
 [All Presentations and examples (zip)](Presentations-and-examples.zip)
-:
