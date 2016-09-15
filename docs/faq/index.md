@@ -71,9 +71,9 @@ title: ADMB Frequently Asked Questions
 </ol>
 <h3><a href="#ADMB-IDE">ADMB-IDE</a></h3>
 <ol>
-      <li><a href="#what-is-ADMB-IDE">What is the ADMB-IDE?</a></li>
-      <li><a href="#ADMB-IDE-platforms">Is the ADMB-IDE available for Mac or Linux as well as Windows?</a></li>
-      <li><a href="#ADMB-IDE-uses">Can I use the ADMB-IDE for compiling C++?</a></li>
+      <li><a href="#what-is-ADMB-IDE">What is ADMB-IDE?</a></li>
+      <li><a href="#ADMB-IDE-platforms">Is ADMB-IDE available for Mac or Linux as well as Windows?</a></li>
+      <li><a href="#ADMB-IDE-uses">Can I use ADMB-IDE for compiling C++?</a></li>
 </ol>
 <hr />
 <!-- end of Table of Contents -->
@@ -424,18 +424,18 @@ And many discussions in the <a href="https://groups.google.com/d/forum/admb-user
 
 
 <h1><a name="ADMB-IDE">ADMB-IDE</a></h1>
-<h2><a name="what-is-ADMB-IDE">What is the ADMB-IDE?</a></h2>
+<h2><a name="what-is-ADMB-IDE">What is ADMB-IDE?</a></h2>
 <p>An <a href="https://en.wikipedia.org/wiki/Integrated_development_environment">Integrated
     Developement Environment</a> which augments a text editor with a variety of
   tools for compiling, running, and debugging ADMB models.
   See <a href="/tools/admb-ide/manual.pdf">the
     ADMB-IDE manual</a> for details, including screenshots.</p>
-<h2><a name="ADMB-IDE-platforms">Is the ADMB-IDE available for Mac or Linux as well as Windows?</a></h2>
+<h2><a name="ADMB-IDE-platforms">Is ADMB-IDE available for Mac or Linux as well as Windows?</a></h2>
 <p>Yes, although there is no installer, so the user has to do a little
   setup.
   See <a href="/tools/admb-ide/manual.pdf#page=6">Section
     1.3 of the ADMB-IDE user manual</a> for details.</p>
-<h2><a name="ADMB-IDE-uses">Can I use the ADMB-IDE for compiling C++?</a></h2>
+<h2><a name="ADMB-IDE-uses">Can I use ADMB-IDE for compiling C++?</a></h2>
 <p>Definitely. To see some suggestions on configuring the ADMB-IDE to make
   this easier,
   see <a href="https://groups.google.com/d/topic/admb-users/dx2WwoL6M-k/discussion">this
