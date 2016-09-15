@@ -6,8 +6,6 @@ title: ADMB Developers' Workshop, University of Hawaii, March 13-16, 2012
 ADMB Developers' Workshop, University of Hawaii, March 13-16, 2012
 ------------------------------------------------------------------
 
-ADMB Developers' Workshop, Univ Hawaii, 13-16 Mar 2012
-
 [March 2012 Developer Workshop Report](March2012DevelopersWorkshopReport.pdf)
 
 [Factors in admb?](anielsen.pdf)

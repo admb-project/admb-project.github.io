@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ADMB Workshop at NCEAS (March 2009)
+title: ADMB Workshop at NCEAS, Santa Barbara, March 9-10 2009
 ---
 
 ADMB Workshop at NCEAS, Santa Barbara, March 9-10 2009
@@ -8,23 +8,17 @@ ADMB Workshop at NCEAS, Santa Barbara, March 9-10 2009
 
 Instructors: Anders Nielsen, Johnoel Ancheta, and Mark Maunder
 
-[Getting_Started_ADMB.pdf]
-:
+[Getting_Started_ADMB.pdf](Getting_Started_ADMB.pdf)
 
-[InternalWorkings.pdf]
-:
+[InternalWorkings.pdf](InternalWorkings.pdf)
 
-[MaximumLikelihood.pdf]
-:
+[MaximumLikelihood.pdf](MaximumLikelihood.pdf)
 
-[Parameters.pdf]
-:
+[Parameters.pdf](Parameters.pdf)
 
-[RandomEffects.pdf]
-:
+[RandomEffects.pdf](RandomEffects.pdf)
 
-[Simulations.pdf]
-:
+[Simulations.pdf](Simulations.pdf)
 
 [Introduction (ppt)](1-introduction.ppt)
 : Presentation: Introduction to AD Model Builder
