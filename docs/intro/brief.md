@@ -33,7 +33,7 @@ Skim through the [manuals](/docs/manuals/), [reference cards](/docs/refcards/), 
 
 View the [training videos](ftp://glpd.fw.msu.edu/QFC/ADMB-Videos/Current_ADMB_Video_Release/), attend an upcoming [course](/courses/), or study material from [previous](/courses/previous/) courses.
 
-Run and modify the [examples](/examples/) that come with ADMB, download more examples from the ADMB website or elsewhere.
+Run and modify the [examples](https://github.com/admb-project/examples) that come with ADMB, download more examples from the ADMB website or elsewhere.
 
 Write a small model related to your research.
 

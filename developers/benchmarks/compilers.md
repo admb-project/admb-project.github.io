@@ -24,16 +24,18 @@ conducted by Arni Magnusson
 
 Here is a set of benchmarks for different compilers and operating systems. The benchmarks are created using a dual-boot Lenovo T61 laptop with Intel Core 2 Duo T7500 processor and 4GB RAM, running Windows XP (win32) and Kubuntu 8.04 (linux64). The benchmarks are based on the 'catage' example included with ADMB, and the results show how many seconds one model run takes. 
 
-catage -mcmc 100000 -mcsave 100
+`catage -mcmc 100000 -mcsave 100`
 
-  11 admb-9.1-linux-gcc4.1-64bit (2009)
-  18 admb-9.1-windows-mingw-gcc4.4-32bit (2009)
-  19 admb-9.1-windows-mingw-gcc3.4-32bit (2009)
-  20 admb-9.1-windows-vc9-32bit (2009)
-  26 admb-5.0.1-windows-vc6 (2000)
-  32 admb-9.1-windows-bcc551-32bit (2009)
-  37 admb-5.0.2-windows-bcc52 (2001)
-  38 admb-5.0.1-windows-gcc295 (2000)
+```
+  11  admb-9.1-linux-gcc4.1-64bit (2009)
+  18  admb-9.1-windows-mingw-gcc4.4-32bit (2009)
+  19  admb-9.1-windows-mingw-gcc3.4-32bit (2009)
+  20  admb-9.1-windows-vc9-32bit (2009)
+  26  admb-5.0.1-windows-vc6 (2000)
+  32  admb-9.1-windows-bcc551-32bit (2009)
+  37  admb-5.0.2-windows-bcc52 (2001)
+  38  admb-5.0.1-windows-gcc295 (2000)
+```
 
 In the 'catage' benchmark, linux64 runs around 64% faster than win32 (0.091 vs. 0.056 runs/sec). Previous benchmarks have shown that linux32 is only marginally slower than linux64 (ADMB Foundation Newsletter 1(1):2), implying that the 64% difference is mainly a Linux vs. Windows effect, rather than 32-bit vs. 64 bit. In Windows, GCC and Visual C++ show similar performance, around 59% faster than the current Borland compiler (0.053 vs. 0.031 runs/sec). The performance of all compilers has improved with later releases (bcc55>bcc52, gcc440>gcc295, and vc9>vc6).
 
