@@ -10,7 +10,7 @@ Coding Standards are guidelines and recommendations for writing and maintaining 
 
 * "The Elements of C++ Style" by Trevor Misfeldt, Gregory Bumgardner and Andrew Gray. A summary of this references is available [on-line](http://www.abxsoft.com/ecs/ecs-std.html).
 * "C++ Coding Standards" by Herb Sutter and Andrei Alexandrescu
-* "[Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)" by Benjy Weinberger, Craig Silverstein,Gregory Eitzmann, Mark Mentovai,Tashana Landray.
+* "[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)" by Benjy Weinberger, Craig Silverstein,Gregory Eitzmann, Mark Mentovai,Tashana Landray.
 
 General Principles
 ------------------

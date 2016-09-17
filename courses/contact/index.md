@@ -5,9 +5,9 @@ title: Contact Information for ADMB Instructors
 
 <h2>Contact Information for ADMB Instructors</h2>
 
-The following is a list of instructors that you can contact about organizing an ADMB course:  
+The following is a list of instructors that you can contact about organizing an ADMB course:
 
-* Arni Magnusson (arnima@hafro.is)
+* Arni Magnusson (arni.magnusson@ices.dk)
 * Mark Maunder (mmaunder@iattc.org)
 * Anders Nielsen (anders@nielsensweb.org)
 * John Sibert (sibert@hawaii.edu)

@@ -4,7 +4,7 @@ title: Benchmark tools
 ---
 
 Benchmark tools
-===============
+---------------
 
 R functions, Dos scripts
 
@@ -17,6 +17,6 @@ R functions, Dos scripts
 [ testing_memory_inputs_functions.R][5]
 :  R code associated with the ADMB memory tests conducted by Ian Taylor and Allan Hicks on memory use, run time, and temporary file sizes. For background, see "Compilers" page.
 
-[2]: benchmark-tools/bench.bat
-[3]: benchmark-tools/benchmark.bat
-[5]: benchmark-tools/testing_memory_inputs_functions.R
+[2]: bench.bat
+[3]: benchmark.bat
+[5]: testing_memory_inputs_functions.R

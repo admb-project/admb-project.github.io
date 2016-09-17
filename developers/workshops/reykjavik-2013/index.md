@@ -1,75 +1,61 @@
 ---
 layout: default
+title: ADMB Developers' Workshop, Hafro, September 18-22, 2013
 ---
 
-<h3>ADMB Developers' Workshop, Hafro, September 18-22, 2013</h3>
+ADMB Developers' Workshop, Hafro, September 18-22, 2013
+-------------------------------------------------------
 
-[5thDevelopersWorkshopReport.pdf][2]  
-:  Workshop Report
-[Map of Reykjavik][3]  
-[flyer.pdf][4]  
-[groups.pdf][5]  
-[plan.pdf][6]  
-[Lunchtime seminar (Mon 16 Sep)][7]  
-[Lunchtime seminar (Tue 17 Sep)][8]  
-[University of Iceland (Thu 19 Sep)][9]  
-[papers.zip][11]
-:  Fournier et al. (2012) & Bolker et al. (2013, incl. orange example)
+[5thDevelopersWorkshopReport.pdf](5thDevelopersWorkshopReport.pdf)
+: Workshop Report
 
-[NCEAS benchmark table][12]  
-:  Compiled and tabulated by Reykjavik workshop participants
+Map of Reykjavik
 
-[ADMB manual in HTML][13]  
-:  Initial test, using htlatex (Aaron Greenberg)
+[flyer.pdf](flyer.pdf)
 
-[Source tree][14]  
-:  Overview of ADMB code structure (Arni Magnusson)
+[groups.pdf](groups.pdf)
 
-[Intro to ADMB][15]  
-:  One page intro to ADMB for new users (Arni Magnusson)
+[plan.pdf](plan.pdf)
 
-[GitHub ADMB][16]  
-:  Experimental source repository for ADMB (Athol Whitten)
+[Lunchtime seminar (Mon 16 Sep)](seminar-16.pdf)
 
-[doxygen-github.pdf][17]  
-:  Doxygen/GitHub demo (Steve Martell)
+[Lunchtime seminar (Tue 17 Sep)](seminar-17.pdf)
 
-[parallel.pdf][18]  
-:  Parallel test results (Anders Nielsen)
+[University of Iceland (Thu 19 Sep)](university-19.pdf)
 
-[Rcpp.pdf][19]  
-:  R package that can communicate with AUTODIF (Finlay Scott)
+[papers.zip](papers.zip)
+: Fournier et al. (2012) & Bolker et al. (2013, incl. orange example)
 
-[splines.pdf][20]  
-:  Splines with R and ADMB (Jan Jaap Poos)
+[NCEAS benchmark table](/developers/benchmarks/optimization/nceas.pdf)
+: Compiled and tabulated by Reykjavik workshop participants
 
-[TMB.pdf][21]  
-:  New AD software (Kasper Kristensen)
+ADMB manual in HTML
+Initial test, using htlatex (Aaron Greenberg)
 
-[TMB repository][22]  
-[photo_album_v1.pdf][23]  
+[Source tree](/developers/source-tree)
+: Overview of ADMB code structure (Arni Magnusson)
 
+[Intro to ADMB](/docs/intro/brief)
+: One page intro to ADMB for new users (Arni Magnusson)
 
+GitHub ADMB](https://github.com/admb-project/admb)
+: Experimental source repository for ADMB (Athol Whitten)
 
-[1]: http://www.admb-project.org/pdf.png
-[2]: 5thDevelopersWorkshopReport.pdf
-[3]: https://mapsengine.google.com/map/edit?mid=zyg2NG20BHOQ.kYjsPoX8BVzk
-[4]: flyer.pdf
-[5]: groups.pdf
-[6]: plan.pdf
-[7]: seminar-16.pdf
-[8]: seminar-17.pdf
-[9]: university-19.pdf
-[11]: papers.zip
-[12]: http://admb-project.org/developers/benchmarks/optimization/nceas.pdf
-[13]: http://moondoggie.org/admb_html/admb.html
-[14]: ../source-tree.html
-[15]: http://admb-project.org/documentation/intro/brief
-[16]: https://github.com/admb-project/
-[17]: doxygen-github.pdf
-[18]: parallel.pdf
-[19]: Rcpp.pdf
-[20]: splines.pdf
-[21]: TMB.pdf
-[22]: https://github.com/kaskr/adcomp
-[23]: photo_album_v1.pdf
+[doxygen-github.pdf](doxygen-github.pdf)
+: Doxygen/GitHub demo (Steve Martell)
+
+[parallel.pdf](parallel.pdf)
+: Parallel test results (Anders Nielsen)
+
+[Rcpp.pdf](Rcpp.pdf)
+: R package that can communicate with AUTODIF (Finlay Scott)
+
+[splines.pdf](splines.pdf)
+: Splines with R and ADMB (Jan Jaap Poos)
+
+[TMB.pdf](TMB.pdf)
+: New AD software (Kasper Kristensen)
+
+[TMB repository](https://github.com/kaskr/adcomp)
+
+[photo_album_v1.pdf](photo_album_v1.pdf)

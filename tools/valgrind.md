@@ -2,7 +2,9 @@
 layout: default
 title: Profiling with Valgrind
 ---
-<h2>Valgrind</h2>
+
+Profiling with Valgrind
+-----------------------
 
 Describe the procedure for using Valgrind to profile and check memory leaks.
 
@@ -14,7 +16,7 @@ Valgrind runs on Linux and MacOS platforms.
 
 **Procedure**
 
-1. Follow the INSTALL.txt to build from source with debugging.   
+1. Follow the [INSTALL.txt](https://github.com/admb-project/admb/blob/master/INSTALL.txt) to build from source with debugging.   
 
    ```
    [admb-trunk]$ make debug 

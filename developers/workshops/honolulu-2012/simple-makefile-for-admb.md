@@ -1,7 +1,13 @@
-#  Simple Makefile for ADMB
+---
+layout: default
+---
+
+Simple Makefile for ADMB
+------------------------
 
 Tested with gnu make under 64bit linux. Some modifications required for other configurations. Steve added contributed libraries to path.
 
+```
     # to make executables with ADMB "safe" library, simply type make target
     # to make executables with ADMB "optimized" library, type make OPT=TRUE (yes, upper case) target
     # the safe version also sets the debugger flag and does no optimization
@@ -66,3 +72,4 @@ Tested with gnu make under 64bit linux. Some modifications required for other co
     	@echo LL = $(LL)
     	@echo CFLAGS = $(CFLAGS)
     	@echo LFLAGS = $(LFLAGS)
+```

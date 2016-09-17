@@ -1,0 +1,49 @@
+.TH ADMB  "2011" "version 10.0" "USER COMMANDS"
+.SH NAME
+admb \- Uses Automatic Differentiation to minimize objective functions
+.SH SYNOPSIS
+.B admb
+[\-d] [\-g] [\-r] [\-s] model
+.SH DESCRIPTION
+ADMB is a free and open source software suite for non-linear statistical modeling. It was created by David Fournier and now being developed by the ADMB Project, a creation of the non-profit ADMB Foundation. An extension of the language, ADMB-RE is available for modeling random effects.
+
+.PP
+The major problem in nonlinear statistical modeling is fitting the model to data. This involves nonlinear optimization. For the kinds of problems generally encountered in statistical modeling the best nonlinear optimization routines employ the derivatives of the function being maximized. Spreadsheet solvers and other statistical modeling packages use finite difference approximations for the derivatives of the function to be maximized in their solvers. This approach has two major limitations. The inaccuracy of the derivative approximations leads to instability in the solver. The result is that the solver becomes unreliable for ill-conditioned problems (naturally most real problems of interest are ill-conditioned). Also with finite difference approximations it takes at least n function evaluations to obtain the finite difference approximation for a function with n independent variables. As a result it is generally impossible to fit models with more than 20 or so parameters reliably with this approach. The automatic differentiation used by ADMB makes it possible to fit models with hundreds or even thousands of parameters in an efficient and reliable manner. In addition AD Model Builder produces a compiled executable which generally executes faster than the interpreters used by spreadsheets and other statistical packages.
+.SH WEBSITE
+"http://admb-project.org/"
+.SH OPTIONS
+.TP
+\-d 
+Create DLL
+
+.TP
+\-g
+Insert debugging symbols
+
+.TP
+\-r 
+ Create ADMB-RE
+
+.TP
+\-s 
+ Enforce safe bounds
+
+.SH AUTHOR
+David Fournier <davef@otter-rsch.com>
+
+John Sibert <sibert@hawaii.edu>
+
+Hans Skaug <Hans.Skaug@mi.uib.no>
+
+Mark Maunder <mmaunder@iattc.org>
+
+Anders Nielsen <anders@nielsensweb.org>
+
+Arni Magnusson <arnima@hafro.is>
+
+Derek Seiple <dseiple@hawaii.edu>
+
+Johnoel Ancheta <johnoel@hawaii.edu>
+
+
+
