@@ -430,7 +430,8 @@ And many discussions in the <a href="https://groups.google.com/d/forum/admb-user
   tools for compiling, running, and debugging ADMB models.
   See <a href="/tools/admb-ide/manual.pdf">the
     ADMB-IDE manual</a> for details, including screenshots.</p>
-<h2><a name="ADMB-IDE-platforms">Is ADMB-IDE available for Mac or Linux as well as Windows?</a></h2>
+    
+**<a name="ADMB-IDE-platforms">Is ADMB-IDE available for Mac or Linux as well as Windows?</a>**
 <p>Yes, although there is no installer, so the user has to do a little
   setup.
   See <a href="/tools/admb-ide/manual.pdf#page=6">Section
