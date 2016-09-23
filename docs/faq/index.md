@@ -10,13 +10,13 @@ title: ADMB Frequently Asked Questions
   <a href="/developers/contribute-documentation/faq/">
   Note on Editing the FAQ before doing so.</p>
 
-  <!-- ===================================================
+  <!--- ===================================================
        Table of Contents in this file were created using
        the custom toc4faq function in R
        creation date: 2016-09-08 17:08:19
-       =================================================== -->
+       =================================================== --->
 
-<!-- Table of Contents -->
+<!--- Table of Contents --->
 <h3><a href="#general">General Information</a></h3>
 <ol>
       <li><a href="#what-is">What is ADMB?</a></li>
@@ -446,7 +446,7 @@ ADMB-IDE
     discussion</a> on the ADMB-users email list.</p>
 
 <!--- End of FAQ --->
-    <!-- ====================================================================
+    <!--- ====================================================================
     copyright, disclaimers, and whatnot should go down here if required
 
-    ==================================================================== -->
+    ==================================================================== --->
