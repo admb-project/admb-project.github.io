@@ -422,7 +422,9 @@ And many discussions in the <a href="https://groups.google.com/d/forum/admb-user
     here</a>.</p>
 
 <a name="ADMB-IDE"/>
-**ADMB-IDE**
+ADMB-IDE
+--------
+
 <h2><a name="what-is-ADMB-IDE">What is ADMB-IDE?</a></h2>
 <p>An <a href="https://en.wikipedia.org/wiki/Integrated_development_environment">Integrated
     Developement Environment</a> which augments a text editor with a variety of
