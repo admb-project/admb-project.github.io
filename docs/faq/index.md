@@ -441,7 +441,9 @@ And many discussions in the <a href="https://groups.google.com/d/forum/admb-user
   setup.
   See <a href="/tools/admb-ide/manual.pdf#page=6">Section
     1.3 of the ADMB-IDE user manual</a> for details.</p>
-<h2><a name="ADMB-IDE-uses">Can I use ADMB-IDE for compiling C++?</a></h2>
+
+<a name="ADMB-IDE-uses"/>
+<h4>Can I use ADMB-IDE for compiling C++?</h4>
 <p>Definitely. To see some suggestions on configuring the ADMB-IDE to make
   this easier,
   see <a href="https://groups.google.com/d/topic/admb-users/dx2WwoL6M-k/discussion">this
