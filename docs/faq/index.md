@@ -425,14 +425,16 @@ And many discussions in the <a href="https://groups.google.com/d/forum/admb-user
 ADMB-IDE
 --------
 
-<h2><a name="what-is-ADMB-IDE">What is ADMB-IDE?</a></h2>
+<a name="what-is-ADMB-IDE/">
+**What is ADMB-IDE?**
 <p>An <a href="https://en.wikipedia.org/wiki/Integrated_development_environment">Integrated
     Developement Environment</a> which augments a text editor with a variety of
   tools for compiling, running, and debugging ADMB models.
   See <a href="/tools/admb-ide/manual.pdf">the
     ADMB-IDE manual</a> for details, including screenshots.</p>
     
-**<a name="ADMB-IDE-platforms">Is ADMB-IDE available for Mac or Linux as well as Windows?</a>**
+<a name="ADMB-IDE-platforms"/>
+**Is ADMB-IDE available for Mac or Linux as well as Windows?**
 <p>Yes, although there is no installer, so the user has to do a little
   setup.
   See <a href="/tools/admb-ide/manual.pdf#page=6">Section
@@ -443,7 +445,7 @@ ADMB-IDE
   see <a href="https://groups.google.com/d/topic/admb-users/dx2WwoL6M-k/discussion">this
     discussion</a> on the ADMB-users email list.</p>
 
-<!-- End of FAQ -->
+<!--- End of FAQ --->
     <!-- ====================================================================
     copyright, disclaimers, and whatnot should go down here if required
 
