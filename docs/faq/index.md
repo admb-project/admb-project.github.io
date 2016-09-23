@@ -446,7 +446,9 @@ ADMB-IDE
     discussion</a> on the ADMB-users email list.</p>
 
 <!--- End of FAQ --->
-    <!--- ====================================================================
-    copyright, disclaimers, and whatnot should go down here if required
+<!---
+====================================================================
+copyright, disclaimers, and whatnot should go down here if required
 
-    ==================================================================== --->
+==================================================================== 
+--->
