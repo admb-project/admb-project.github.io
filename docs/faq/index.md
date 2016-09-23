@@ -10,11 +10,13 @@ title: ADMB Frequently Asked Questions
   <a href="/developers/contribute-documentation/faq/">
   Note on Editing the FAQ before doing so.</p>
 
-  <!--- ===================================================
-       Table of Contents in this file were created using
-       the custom toc4faq function in R
-       creation date: 2016-09-08 17:08:19
-       =================================================== --->
+<!---
+===================================================
+Table of Contents in this file were created using
+the custom toc4faq function in R
+creation date: 2016-09-08 17:08:19
+===================================================
+--->
 
 <!--- Table of Contents --->
 <h3><a href="#general">General Information</a></h3>
