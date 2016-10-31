@@ -7,7 +7,7 @@ title: courses
 See [instructor contact](contact/) list about organizing an ADMB course.
 
 * [Introductory TMB (and ADMB comparison) workshop](previous/february-2016/) <br/>February 8 - 12, 2016
-* [ADMB/TMB training course](ices-course-in-admb-tmb.html) <br/>November 2 - 6, 2015 at ICES, Copenhagen, Denmark
+* [ADMB/TMB training course](previous/november-2015/ices-course-in-admb-tmb.html) <br/>November 2 - 6, 2015 at ICES, Copenhagen, Denmark
 * [FISH 559: Numerical Computing for the Natural Resources ](previous//september-2014/course-material.html)  <br/>September 2014
 * [Stock Assessment Course: Advanced](previous/other-courses-no-materials-available/stock-assessment-course-advanced-18-2013-22-november-2013-copenhagen-denmark.pdf) <br/> November 18 - 22, 2013 at ICES Headquarters in Copenhagen
 * Introduction to ADMB <br/> September 2013 at University of Iceland
