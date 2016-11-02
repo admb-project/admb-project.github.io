@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Planning Developer's Workshop 2017
+title: Planning Developers' Workshop 2017
 date: 2016-11-01
 ---
 
