@@ -10,13 +10,15 @@ title: ADMB Frequently Asked Questions
   <a href="/developers/contribute-documentation/faq/">
   Note on Editing the FAQ before doing so.</p>
 
-  <!-- ===================================================
-       Table of Contents in this file were created using
-       the custom toc4faq function in R
-       creation date: 2016-09-08 17:08:19
-       =================================================== -->
+<!---
+===================================================
+Table of Contents in this file were created using
+the custom toc4faq function in R
+creation date: 2016-09-08 17:08:19
+===================================================
+--->
 
-<!-- Table of Contents -->
+<!--- Table of Contents --->
 <h3><a href="#general">General Information</a></h3>
 <ol>
       <li><a href="#what-is">What is ADMB?</a></li>
@@ -420,29 +422,37 @@ And many discussions in the <a href="https://groups.google.com/d/forum/admb-user
   discussions can be found 
   <a href="https://groups.google.com/a/admb-project.org/d/forum/users">
     here</a>.</p>
-<hr />
 
+<a name="ADMB-IDE"/>
+<h3>ADMB-IDE</h3>
+--------
 
-<h1><a name="ADMB-IDE">ADMB-IDE</a></h1>
-<h2><a name="what-is-ADMB-IDE">What is ADMB-IDE?</a></h2>
+<a name="what-is-ADMB-IDE/">
+<h4>What is ADMB-IDE?</h4>
 <p>An <a href="https://en.wikipedia.org/wiki/Integrated_development_environment">Integrated
     Developement Environment</a> which augments a text editor with a variety of
   tools for compiling, running, and debugging ADMB models.
   See <a href="/tools/admb-ide/manual.pdf">the
     ADMB-IDE manual</a> for details, including screenshots.</p>
-<h2><a name="ADMB-IDE-platforms">Is ADMB-IDE available for Mac or Linux as well as Windows?</a></h2>
+    
+<a name="ADMB-IDE-platforms"/>
+<h4>Is ADMB-IDE available for Mac or Linux as well as Windows?</h4>
 <p>Yes, although there is no installer, so the user has to do a little
   setup.
   See <a href="/tools/admb-ide/manual.pdf#page=6">Section
     1.3 of the ADMB-IDE user manual</a> for details.</p>
-<h2><a name="ADMB-IDE-uses">Can I use ADMB-IDE for compiling C++?</a></h2>
+
+<a name="ADMB-IDE-uses"/>
+<h4>Can I use ADMB-IDE for compiling C++?</h4>
 <p>Definitely. To see some suggestions on configuring the ADMB-IDE to make
   this easier,
   see <a href="https://groups.google.com/d/topic/admb-users/dx2WwoL6M-k/discussion">this
     discussion</a> on the ADMB-users email list.</p>
 
-<!-- End of FAQ -->
-    <!-- ====================================================================
-    copyright, disclaimers, and whatnot should go down here if required
+<!--- End of FAQ --->
+<!---
+====================================================================
+copyright, disclaimers, and whatnot should go down here if required
 
-    ==================================================================== -->
+==================================================================== 
+--->

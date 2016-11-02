@@ -20,3 +20,6 @@ Developers' Workshops
 
 [Seattle 2013](seattle-2013/)
 : ADMB Developers' Workshop, University of Washington, June 4-7, 2013
+
+[Seattle 2016](seattle-2016/)
+: Developers' Workshop, University of Washington, June 20-24, 2016
