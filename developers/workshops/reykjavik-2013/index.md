@@ -9,8 +9,6 @@ ADMB Developers' Workshop, Hafro, September 18-22, 2013
 [5thDevelopersWorkshopReport.pdf](5thDevelopersWorkshopReport.pdf)
 : Workshop Report
 
-Map of Reykjavik
-
 [flyer.pdf](flyer.pdf)
 
 [groups.pdf](groups.pdf)
