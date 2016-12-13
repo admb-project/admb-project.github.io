@@ -25,7 +25,7 @@ For MacOS computers, read the [QuickStartMacOS](QuickStartMacOS.html).
 
 For Unix, MinGW and Cygwin shells, read the [QuickStartUnix](QuickStartUnix.html).
 
-For Ubuntu14 computers, read the [QuickStartUbuntu14](QuickStartUbuntu14.html).
+For Ubuntu14 and Ubuntu16 computers, read the [QuickStartUbuntu](QuickStartUbuntu.html).
 
 For all others, read the source installation procedure below.
 

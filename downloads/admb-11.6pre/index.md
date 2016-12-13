@@ -186,7 +186,13 @@ The portable (.zip) distribution is for users who like to configure the software
 <td style="background-color: #f2f2f2;border: 1px solid black;">Experimental &#8211; Debian package for Ubuntu14</td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ubuntu14-64bit_11.6pre.deb">admb-11.6pre-ubuntu14-64bit-experimental_11.6pre.deb</a></td>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Not Available</td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartUbuntu14.html">QuickStartUbuntu14.html</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartUbuntu.html">QuickStartUbuntu.html</a></td>
+</tr>
+<tr>
+<td style="background-color: #f2f2f2;border: 1px solid black;">Experimental &#8211; Debian package for Ubuntu16</td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ubuntu16-64bit_11.6pre.deb">admb-11.6pre-ubuntu16-64bit-experimental_11.6pre.deb</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;">Not Available</td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartUbuntu.html">QuickStartUbuntu.html</a></td>
 </tr>
 </tbody>
 </table>
