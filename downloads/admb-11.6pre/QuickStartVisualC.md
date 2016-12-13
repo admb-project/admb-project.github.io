@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Downloads ADMB-11.6pre
+title: Quick Start Visual C++
 ---
+
+Quick Start Visual C++
+======================
 
 *ADMB-11.6*  
 *Released December 12, 2016*  

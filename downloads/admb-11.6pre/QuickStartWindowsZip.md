@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Downloads ADMB-11.6pre
+title: Quick Start Windows from Zip
 ---
+
+Quick Start Windows from Zip
+============================
 
 *ADMB-11.6pre*  
 *Released December 12, 2016*  

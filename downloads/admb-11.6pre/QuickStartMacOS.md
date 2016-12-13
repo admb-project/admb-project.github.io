@@ -1,7 +1,10 @@
 ---
 layout: default
-title: ADMB-11.6pre MacOS Installation procedures
+title: Quick Start MacOS
 ---
+
+Quick Start MacOS
+=================
 
 *ADMB-11.6pre*  
 *Released December 12, 2016*  

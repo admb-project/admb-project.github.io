@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Downloads ADMB-11.6pre
+title: Quick Start Visual C++ from Source
 ---
+
+Quick Start Visual C++ from Source
+==================================
 
 *ADMB-11.6pre*  
 *Released December 12, 2016*  
@@ -33,8 +36,6 @@ _**Note**_ &mdash; A free version is available go to [Visual Studio Express](htt
    * For Visual C++ 2015, Double click **Developer Command Prompt for VS2015** in **Visual Studio Tools**.
 
    * For Visual C++ 2013, Double click **Developer Command Prompt for VS2013** in **Visual Studio Tools**.
-
-   * For Visual C++ 2012, Double click **Developer Command Prompt for VS2012** in **Visual Studio Tools**.
 
    In the Visual Studio **Developer Command Prompt** window, use the steps below to build ADMB.
 

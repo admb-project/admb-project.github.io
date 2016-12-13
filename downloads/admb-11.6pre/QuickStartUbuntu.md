@@ -1,7 +1,10 @@
 ---
 layout: default
-title: ADMB-11.6pre Installation procedures
+title: Quick Start Ubuntu
 ---
+
+Quick Start Ubuntu
+==================
 
 *ADMB-11.6pre*  
 *Released December 12, 2016*  
