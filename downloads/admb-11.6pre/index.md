@@ -29,7 +29,7 @@ title: Downloads ADMB-11.6pre
 <tr>
 <td style="border: 1px solid black;">ADMB source code distribution</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-src.zip">admb-11.6pre-src.zip</a></td>
-<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/INSTALL.html">Install.html</a></td>
+<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/INSTALL.html">INSTALL.html</a></td>
 </tr>
 </tbody>
 </table>
@@ -166,8 +166,8 @@ The portable (.zip) distribution is for users who like to configure the software
 </tr>
 <tr>
 <td style="border: 1px solid black;">Zip for Centos6 and Oracle Solaris Studio</td>
-<td style="border: 1px solid black;">Not Available</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-centos6-solarisstudio12.5-64bit.zip">admb-11.6pre-centos6-solarisstudio12.5-64bit.zip</a></td>
+<td style="border: 1px solid black;">Not Available</td>
 <td style="border: 1px solid black;"><a href="QuickStartUnix.html">QuickStartUnix.html</a></td>
 </tr>
 <tr>
