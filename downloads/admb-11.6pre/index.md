@@ -16,7 +16,7 @@ title: Downloads ADMB-11.6pre
 <em>Mainly for the Mac OS platform, as well as Windows users whose needs are not met by ADMB-IDE</em></li>
 </ol>
 <h3>Newest release</h3>
-<p>ADMB-11.6pre was released on 12 December 2016.  Read release notes in &#8216;<a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/CHANGES.html">CHANGES</a>&#8216; and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-11.6pre/">manuals</a>.</p>
+<p>ADMB-11.6pre was released on 12 December 2016.  Read release notes in &#8216;<a href="/CHANGES.html">CHANGES</a>&#8216; and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-11.6pre/">manuals</a>.</p>
 <p>Additional binaries can be downloaded directly from <a href="https://github.com/admb-project/admb/releases/tag/admb-11.6pre/">ADMB-Project@Github</a>.</p>
 <h3><a name="source"></a>1  Source</h3>
 <table style="border: 1px solid black;">
@@ -41,8 +41,8 @@ The portable (.zip) distribution is for users who like to configure the software
 <tbody>
 <tr>
 <th style="background-color: lightgreen;border: 1px solid black;">Description</th>
-<th style="background-color: lightgreen;border: 1px solid black;">Download (64 bit)</th>
-<th style="background-color: lightgreen;border: 1px solid black;">Download (32 bit)</th>
+<th style="background-color: lightgreen;border: 1px solid black;">Download (64bit)</th>
+<th style="background-color: lightgreen;border: 1px solid black;">Download (32bit)</th>
 <th style="background-color: lightgreen;border: 1px solid black;">User Manual</th>
 </tr>
 <tr>
@@ -66,8 +66,8 @@ The portable (.zip) distribution is for users who like to configure the software
 <tbody>
 <tr>
 <th style="background-color: lightgreen;border: 1px solid black;">Description</th>
-<th style="background-color: lightgreen;border: 1px solid black;">Download (64 bit)</th>
-<th style="background-color: lightgreen;border: 1px solid black;">Download (32 bit)</th>
+<th style="background-color: lightgreen;border: 1px solid black;">Download (64bit)</th>
+<th style="background-color: lightgreen;border: 1px solid black;">Download (32bit)</th>
 <th style="background-color: lightgreen;border: 1px solid black;">Install Documentation</th>
 </tr>
 <tr>
@@ -89,12 +89,6 @@ The portable (.zip) distribution is for users who like to configure the software
 <td style="border: 1px solid black;"><a href="QuickStartVisualC.html">QuickStartVisualC.html</a></td>
 </tr>
 <tr>
-<td style="background-color: #f2f2f2;border: 1px solid black;">Installer for Windows and Visual C++ 2012</td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-vc11-64bit.exe">admb-11.6pre-windows10-vc11-64bit.exe</a></td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-vc11-32bit.exe">admb-11.6pre-windows10-vc11-32bit.exe</a></td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartVisualC.html">QuickStartVisualC.html</a></td>
-</tr>
-<tr>
 <td style="border: 1px solid black;">Zip for Windows and MinGW</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-mingw64.zip">admb-11.6pre-windows10-mingw64.zip</a></td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-mingw32.zip">admb-11.6pre-windows10-mingw32.zip</a></td>
@@ -112,12 +106,6 @@ The portable (.zip) distribution is for users who like to configure the software
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-vc12-32bit.zip">admb-11.6pre-windows10-vc12-32bit.zip</a></td>
 <td style="border: 1px solid black;"><a href="QuickStartVisualCZip.html">QuickStartVisualCZip.html</a></td>
 </tr>
-<tr>
-<td style="background-color: #f2f2f2;border: 1px solid black;">Zip for Windows and Visual C++ 2012</td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-vc11-64bit.zip">admb-11.6pre-windows10-vc11-64bit.zip</a></td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-vc11-32bit.zip">admb-11.6pre-windows10-vc11-32bit.zip</a></td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartVisualCZip.html">QuickStartVisualCZip.html</a></td>
-</tr>
 </tbody>
 </table>
 <h3>3.2  MacOS</h3>
@@ -125,20 +113,20 @@ The portable (.zip) distribution is for users who like to configure the software
 <tbody>
 <tr>
 <th style="background-color: lightgreen;border: 1px solid black;">Description</th>
-<th style="background-color: lightgreen;border: 1px solid black;">Download (64 bit)</th>
-<th style="background-color: lightgreen;border: 1px solid black;">Download (32 bit)</th>
+<th style="background-color: lightgreen;border: 1px solid black;">Download (64bit)</th>
+<th style="background-color: lightgreen;border: 1px solid black;">Download (32bit)</th>
 <th style="background-color: lightgreen;border: 1px solid black;">Install Documentation</th>
 </tr>
 <tr>
-<td style="border: 1px solid black;">Installer for MacOS(Yosemite) Application</td>
-<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ADMBTerminal-macos10-xcode7-64bit.dmg">admb-11.6pre-ADMBTerminal-macos10-xcode7-64bit.dmg</a></td>
-<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ADMBTerminal-macos10-xcode7-32bit.dmg">admb-11.6pre-ADMBTerminal-macos10-xcode7-32bit.dmg</a></td>
+<td style="border: 1px solid black;">Installer for MacOS(Sierra) Application</td>
+<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ADMBTerminal-macos10-xcode8-64bit.dmg">admb-11.6pre-ADMBTerminal-macos10-xcode8-64bit.dmg</a></td>
+<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ADMBTerminal-macos10-xcode8-32bit.dmg">admb-11.6pre-ADMBTerminal-macos10-xcode8-32bit.dmg</a></td>
 <td style="border: 1px solid black;"><a href="QuickStartMacOS.html">QuickStartMacOS.html</a></td>
 </tr>
 <tr>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Zip for MacOS and Xcode</td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-macos10-xcode7-64bit.zip">admb-11.6pre-macos10-xcode7-64bit.zip</a></td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-macos10-xcode7-32bit.zip">admb-11.6pre-macos10-xcode7-32bit.zip</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-macos10-xcode8-64bit.zip">admb-11.6pre-macos10-xcode8-64bit.zip</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-macos10-xcode8-32bit.zip">admb-11.6pre-macos10-xcode8-32bit.zip</a></td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartUnix.html">QuickStartUnix.html</a></td>
 </tr>
 </tbody>
@@ -148,8 +136,8 @@ The portable (.zip) distribution is for users who like to configure the software
 <tbody>
 <tr>
 <th style="background-color: lightgreen;border: 1px solid black;">Description</th>
-<th style="background-color: lightgreen;border: 1px solid black;">Download  (64 bit)</th>
-<th style="background-color: lightgreen;border: 1px solid black;">Download (32 bit)</th>
+<th style="background-color: lightgreen;border: 1px solid black;">Download (64bit)</th>
+<th style="background-color: lightgreen;border: 1px solid black;">Download (32bit)</th>
 <th style="background-color: lightgreen;border: 1px solid black;">Install Documentation</th>
 </tr>
 <tr>
@@ -165,8 +153,8 @@ The portable (.zip) distribution is for users who like to configure the software
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartUnix.html">QuickStartUnix.html</a></td>
 </tr>
 <tr>
-<td style="border: 1px solid black;">Zip for Centos6 and Intel C++ 2016</td>
-<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-centos6-intelicpc2016-64bit.zip">admb-11.6pre-centos6-intelicpc2016-64bit.zip</a></td>
+<td style="border: 1px solid black;">Zip for Centos6 and Intel C++ 2017</td>
+<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-centos6-intelicpc2017-64bit.zip">admb-11.6pre-centos6-intelicpc2017-64bit.zip</a></td>
 <td style="border: 1px solid black;">Not Available</td>
 <td style="border: 1px solid black;"><a href="QuickStartUnix.html">QuickStartUnix.html</a></td>
 </tr>
@@ -179,7 +167,7 @@ The portable (.zip) distribution is for users who like to configure the software
 <tr>
 <td style="border: 1px solid black;">Zip for Centos6 and Oracle Solaris Studio</td>
 <td style="border: 1px solid black;">Not Available</td>
-<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-centos6-solarisstudio12.3-32bit.zip">admb-11.6pre-centos6-solarisstudio12.3-32bit.zip</a></td>
+<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-centos6-solarisstudio12.5-64bit.zip">admb-11.6pre-centos6-solarisstudio12.5-64bit.zip</a></td>
 <td style="border: 1px solid black;"><a href="QuickStartUnix.html">QuickStartUnix.html</a></td>
 </tr>
 <tr>
@@ -197,7 +185,7 @@ The portable (.zip) distribution is for users who like to configure the software
 </tbody>
 </table>
 <h3></h3>
-<h3>4 Older versions of ADMB software can be found in the <a href="archives.html">archives</a>.</h3>
+<h3>4 Older versions of ADMB software can be found in the <a href="https://github.com/admb-project/admb/releases/">archives</a>.</h3>
 <h3>License</h3>
 <p>AD Model Builder (ADMB) is free software, released under the <a href="https://raw.githubusercontent.com/admb-project/admb/master/LICENSE.txt">BSD License</a>.</p>
 <h3>Announce mailing list</h3>
