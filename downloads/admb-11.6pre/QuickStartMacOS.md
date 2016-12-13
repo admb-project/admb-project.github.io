@@ -27,7 +27,8 @@ Installation
 3. In the ADMBTerminal mounted disk image, copy **ADMBTerminal**
    into the **/Applications** folder.
   
-   **Note** &mdash; ADMBTerminal will set *ADMB_HOME* to **/Applications/ADMBTerminal.app/admb/ **.
+   **Note** &mdash; ADMBTerminal will set *ADMB_HOME*
+   to **/Applications/ADMBTerminal.app/admb/**.
 
 Quick Start
 ===========
