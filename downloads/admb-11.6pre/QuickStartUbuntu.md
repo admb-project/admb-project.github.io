@@ -20,6 +20,7 @@ __Note__ &mdash; The installation will copy the admb script to /usr/local/bin an
 1. Download ADMB debian package
 
    For Ubuntu 14LTS (64Bit), download [admb-11.6pre-ubuntu14-64bit_11.6pre.deb](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ubuntu14-64bit_11.6pre.deb).
+
    For Ubuntu 16LTS (64Bit), download [admb-11.6pre-ubuntu16-64bit_11.6pre.deb](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ubuntu16-64bit_11.6pre.deb).
 
 2. Install ADMB using Debian package manager (dpkg) as super-user.
