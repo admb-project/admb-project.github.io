@@ -39,33 +39,33 @@ Quick Start
 
 1. **Download** ADMB
 
-       Download source distribution [admb-11.6pre-src.zip](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-src.zip).
+   Download source distribution [admb-11.6pre-src.zip](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-src.zip).
 
-       Double click downloaded zip file and copy admb directory to the Local Drive (**C:\\>)**.
+   Double click downloaded zip file and copy admb directory to the Local Drive (**C:\\>)**.
 
-       _**Alternative**_ &mdash; Use Git client (see command below) to download directly from ADMB version control repository.
+   _**Alternative**_ &mdash; Use Git client (see command below) to download directly from ADMB version control repository.
 
         C:\> git clone https://github.com/admb-project/admb.git
 
-       This will download latest admb source repository to **C:\\admb\\>**.
+   This will download latest admb source repository to **C:\\admb\\>**.
 
 2. **Build** ADMB source
 
-       Open **Command Prompt** window.
+   Open **Command Prompt** window.
 
-       Change to admb directory.
+   Change to admb directory.
 
         C:\> cd admb
 
-       To build with **MinGW** C++ compiler, use the command below.
+   To build with **MinGW** C++ compiler, use the command below.
 
         C:\admb\> utilities\make
 
-       If debug symbols are needed, use the command below.
+   If debug symbols are needed, use the command below.
 
         C:\admb\> utilities\make debug
 
-       To build with **MinGW** C++ compiler and **Msys** , use the command below.
+   To build with **MinGW** C++ compiler and **Msys** , use the command below.
 
         C:\admb\> make
 

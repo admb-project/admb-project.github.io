@@ -19,35 +19,35 @@ _**Note**_ &mdash; A free version is available from: [Visual Studio Express](htt
 
 1. **Download** ADMB
 
-       * For Visual C++ 2015 (64Bit), download [admb-11.6pre-windows10-vc14-64bit](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-vc14-64bit.zip).
+   * For Visual C++ 2015 (64Bit), download [admb-11.6pre-windows10-vc14-64bit](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-vc14-64bit.zip).
 
-       * For Visual C++ 2013 (64Bit), download [admb-11.6pre-windows10-vc12-64bit](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-vc12-64bit.zip).
+   * For Visual C++ 2013 (64Bit), download [admb-11.6pre-windows10-vc12-64bit](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-vc12-64bit.zip).
 
-       * For Visual C++ 2013 (32Bit), download [admb-11.6pre-windows10-vc12-32bit](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-vc12-32bit.zip).
+   * For Visual C++ 2013 (32Bit), download [admb-11.6pre-windows10-vc12-32bit](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-vc12-32bit.zip).
 
 2. **Install** ADMB
 
-       Double click downloaded file to open, then copy **admb** folder to Local Disk (**C:\\>**).
+   Double click downloaded file to open, then copy **admb** folder to Local Disk (**C:\\>**).
 
 3. **Use** ADMB
 
-       Using Windows Explorer, double click the **ADMB Command Prompt** shortcut located in **C:\\admb\\>**.
+   Using Windows Explorer, double click the **ADMB Command Prompt** shortcut located in **C:\\admb\\>**.
 
-       In the **ADMB Command Prompt** window, use the steps below to build and run the simple example.
+   In the **ADMB Command Prompt** window, use the steps below to build and run the simple example.
 
-       Change simple example directory.
+   Change simple example directory.
 
            C:\> cd admb\examples\admb\simple
 
-       Build simple example.
+   Build simple example.
 
            C:\admb\examples\admb\simple\> admb simple
 
-       Run simple example.
+   Run simple example.
 
            C:\admb\examples\admb\simple\> simple
 
-       Read [manuals](https://github.com/admb-project/admb/releases/tag/admb-11.6pre/) for more information.
+   Read [manuals](https://github.com/admb-project/admb/releases/tag/admb-11.6pre/) for more information.
 
 ---
 For help and support, contact <users@admb-project.org>.
