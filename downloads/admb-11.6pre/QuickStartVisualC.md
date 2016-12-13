@@ -3,7 +3,6 @@ layout: default
 title: Downloads ADMB-11.6pre
 ---
 
-#ADMB Project
 *ADMB-11.6*  
 *Released December 12, 2016*  
 
