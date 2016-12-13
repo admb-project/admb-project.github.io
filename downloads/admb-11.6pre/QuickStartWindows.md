@@ -22,11 +22,11 @@ _**Warning** &mdash; Uninstall any existing installations of ADMB._
 
 1. **Download** ADMB Windows Installer
 
-       * For Windows 64Bit, download [admb-11.6pre-windows10-mingw64](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-mingw64.exe).
+   * For Windows 64Bit, download [admb-11.6pre-windows10-mingw64](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-mingw64.exe).
 
-       * For Windows 32Bit, download [admb-11.6pre-windows10-mingw32](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-mingw32.exe).
+   * For Windows 32Bit, download [admb-11.6pre-windows10-mingw32](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-mingw32.exe).
 
-       _**Note**_ &mdash; Installers include open source MinGW C++ compiler.
+   _**Note**_ &mdash; Installers include open source MinGW C++ compiler.
 
 2. **Install** ADMB 
 
