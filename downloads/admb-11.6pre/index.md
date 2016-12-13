@@ -148,8 +148,8 @@ The portable (.zip) distribution is for users who like to configure the software
 </tr>
 <tr>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Zip for Fedora and GNU C++</td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-fedora22-gcc5.1-64bit.zip">admb-11.6pre-fedora22-gcc5.1-64bit.zip</a></td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-fedora22-gcc5.1-32bit.zip">admb-11.6pre-fedora22-gcc5.1-32bit.zip</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-fedora25-gcc6.2-64bit.zip">admb-11.6pre-fedora25-gcc6.2-64bit.zip</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-fedora25-gcc6.2-32bit.zip">admb-11.6pre-fedora25-gcc6.2-32bit.zip</a></td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartUnix.html">QuickStartUnix.html</a></td>
 </tr>
 <tr>
