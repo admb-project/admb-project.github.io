@@ -16,7 +16,7 @@ title: Downloads ADMB-11.6pre
 <em>Mainly for the Mac OS platform, as well as Windows users whose needs are not met by ADMB-IDE</em></li>
 </ol>
 <h3>Newest release</h3>
-<p>ADMB-11.6pre was released on 12 December 2016.  Read release notes in &#8216;<a href="/CHANGES.html">CHANGES</a>&#8216; and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-11.6pre/">manuals</a>.</p>
+<p>ADMB-11.6pre was released on 12 December 2016.  Read release notes in &#8216;<a href="CHANGES.html">CHANGES</a>&#8216; and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-11.6pre/">manuals</a>.</p>
 <p>Additional binaries can be downloaded directly from <a href="https://github.com/admb-project/admb/releases/tag/admb-11.6pre/">ADMB-Project@Github</a>.</p>
 <h3><a name="source"></a>1  Source</h3>
 <table style="border: 1px solid black;">
@@ -29,7 +29,7 @@ title: Downloads ADMB-11.6pre
 <tr>
 <td style="border: 1px solid black;">ADMB source code distribution</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-src.zip">admb-11.6pre-src.zip</a></td>
-<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/INSTALL.html">INSTALL.html</a></td>
+<td style="border: 1px solid black;"><a href="INSTALL.html">INSTALL.html</a></td>
 </tr>
 </tbody>
 </table>
