@@ -3,10 +3,11 @@ layout: default
 title: ADMB-11.6pre Installation procedures
 ---
 
+ADMB Installation procedures
+============================
+
 *ADMB-11.6pre*  
 *Released December 12, 2016*  
-
-ADMB Installation procedures
 
 ---
 
