@@ -14,7 +14,7 @@ The installation procedure for installing ADMBTerminal app for the MacOS.
 ---
 
 Installation
-============
+------------
 
 **Prerequisite** &mdash; [Apple Developer Tools (XCode)](https://developer.apple.com/xcode/) must be installed.
 
@@ -33,7 +33,7 @@ Installation
    **Note** &mdash; ADMBTerminal will set *ADMB_HOME* to **/Applications/ADMBTerminal.app/admb/**.
 
 Quick Start
-===========
+-----------
 
 Build and run the simple example.
 

@@ -16,7 +16,7 @@ __Note__ &mdash; Installing ADMB with dpkg is still experimental.
 ---
 
 Installation
-============
+------------
 
 __Note__ &mdash; The installation will copy the admb script to /usr/local/bin and put the distribution in /usr/local/admb.  It is no longer necessary to append the PATH or to set ADMB_HOME system variables.
 
@@ -37,7 +37,7 @@ __Note__ &mdash; The installation will copy the admb script to /usr/local/bin an
         $ sudo dpkg -i admb-11.6pre-ubuntu16-64bit_11.6pre.deb
 
 Quick Start
-===========
+-----------
 
 Build and run the simple example.
 
