@@ -25,9 +25,9 @@ _**Note**_ &mdash; Installed MinGW C++ 32Bit must support **posix threading** an
 
 1. **Download** ADMB
 
-   * For Windows 64Bit, download [admb-11.6pre-windows10-mingw64](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-mingw64.zip).
+   * For Windows 64Bit, download [admb-11.6pre-windows10-mingw64.zip](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-mingw64.zip).
 
-   * For Windows 32Bit, download [admb-11.6pre-windows10-mingw32](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-mingw32.zip).
+   * For Windows 32Bit, download [admb-11.6pre-windows10-mingw32.zip](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-mingw32.zip).
 
 2. **Install** ADMB
 

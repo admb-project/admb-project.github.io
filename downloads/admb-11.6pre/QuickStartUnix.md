@@ -38,7 +38,7 @@ Quick Start
    Download binary zip distribution
 
    * For Ubuntu 14 (64Bit), download [admb-11.6pre-ubuntu14-64bit](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ubuntu14-64bit.zip).
-   * For Ubuntu 16 (64Bit), download [admb-11.6pre-ubuntu14-64bit](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ubuntu16-64bit.zip).
+   * For Ubuntu 16 (64Bit), download [admb-11.6pre-ubuntu16-64bit](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ubuntu16-64bit.zip).
    * For Fedora 25 (64Bit), download [admb-11.6pre-fedora25-gcc5.1-64bit](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-fedora25-gcc5.1-64bit.zip).
    * For Fedora 25 (32Bit), download [admb-11.6pre-fedora25-gcc5.1-64bit](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-fedora25-gcc5.1-32bit.zip).
    * For Centos 6 and Oracle Solaris Studio 12.5 (64Bit), download [admb-11.6pre-centos6-solarisstudio12.5-64bit](https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-centos6-solarisstudio12.5-64bit.zip).

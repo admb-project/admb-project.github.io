@@ -12,9 +12,7 @@ Quick Start Visual C++
 ADMB binary installation and usage procedure for Windows and Visual C++ compilers using installer.
 
 ---
-_**Note** &mdash; For Microsoft Visual C++ 2010, read [installation][help] documentation._
-[help]: http://www.admb-project.org/documentation/installation/admb-installation-visual-c
-
+_**Note** &mdash; For older Microsoft Visual C++ 2010, read [installation][http://www.admb-project.org/documentation/installation/admb-installation-visual-c] documentation._
 
 Quick Start
 -----------
