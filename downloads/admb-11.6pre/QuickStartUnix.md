@@ -15,14 +15,11 @@ Prerequisites
 
 The following programs are required to be installed on the local computer.
 
-* C++ compiler
+* Supported C++ compiler for Unix
 
-      Supported C++ Compilers for Unix
-
-      * GNU C++
-      * Intel C++ Compiler
-      * Oracle Solaris Studio
-            
+  * GNU C++
+  * Intel C++ Compiler
+  * Oracle Solaris Studio
 
 * GNU stream editor (sed)
 
