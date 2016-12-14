@@ -18,7 +18,7 @@ Prerequisites
 
 The following programs should be installed on the local computer.
 
-* Supported C++ compiler for unix
+* Supported C++ compiler for Unix
 
   * GNU C++
   * Intel C++ Compiler
