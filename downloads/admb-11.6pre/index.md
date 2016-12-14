@@ -79,7 +79,7 @@ The portable (.zip) distribution is for users who like to configure the software
 <tr>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Installer for Windows and Visual C++ 2015</td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-vc14-64bit.exe">admb-11.6pre-windows10-vc14-64bit.exe</a></td>
-<td style="background-color: #f2f2f2;border: 1px solid black;">Not Available</td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-vc14-32bit.exe">admb-11.6pre-windows10-vc14-32bit.exe</a></td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartVisualC.html">QuickStartVisualC.html</a></td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ The portable (.zip) distribution is for users who like to configure the software
 <tr>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Zip for Windows and Visual C++ 2015</td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-vc14-64bit.zip">admb-11.6pre-windows10-vc14-64bit.zip</a></td>
-<td style="background-color: #f2f2f2;border: 1px solid black;">Not Available</td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-windows10-vc14-32bit.zip">admb-11.6pre-windows10-vc14-32bit.zip</a></td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartVisualCZip.html">QuickStartVisualCZip.html</a></td>
 </tr>
 <tr>
@@ -141,6 +141,12 @@ The portable (.zip) distribution is for users who like to configure the software
 <th style="background-color: lightgreen;border: 1px solid black;">Install Documentation</th>
 </tr>
 <tr>
+<td style="border: 1px solid black;">Zip for Ubuntu 16 and GNU C++</td>
+<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ubuntu16-64bit.zip">admb-11.6pre-ubuntu16-64bit.zip</a></td>
+<td style="border: 1px solid black;">Not Available</td>
+<td style="border: 1px solid black;"><a href="QuickStartUnix.html">QuickStartUnix.html</a></td>
+</tr>
+<tr>
 <td style="border: 1px solid black;">Zip for Ubuntu 14 and GNU C++</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ubuntu14-64bit.zip">admb-11.6pre-ubuntu14-64bit.zip</a></td>
 <td style="border: 1px solid black;">Not Available</td>
@@ -171,14 +177,14 @@ The portable (.zip) distribution is for users who like to configure the software
 <td style="border: 1px solid black;"><a href="QuickStartUnix.html">QuickStartUnix.html</a></td>
 </tr>
 <tr>
-<td style="background-color: #f2f2f2;border: 1px solid black;">Experimental &#8211; Debian package for Ubuntu14</td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ubuntu14-64bit_11.6pre.deb">admb-11.6pre-ubuntu14-64bit-experimental_11.6pre.deb</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;">Experimental &#8211; Debian package for Ubuntu16</td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ubuntu16-64bit_11.6pre.deb">admb-11.6pre-ubuntu16-64bit-experimental_11.6pre.deb</a></td>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Not Available</td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartUbuntu.html">QuickStartUbuntu.html</a></td>
 </tr>
 <tr>
-<td style="background-color: #f2f2f2;border: 1px solid black;">Experimental &#8211; Debian package for Ubuntu16</td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ubuntu16-64bit_11.6pre.deb">admb-11.6pre-ubuntu16-64bit-experimental_11.6pre.deb</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;">Experimental &#8211; Debian package for Ubuntu14</td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6pre/admb-11.6pre-ubuntu14-64bit_11.6pre.deb">admb-11.6pre-ubuntu14-64bit-experimental_11.6pre.deb</a></td>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Not Available</td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartUbuntu.html">QuickStartUbuntu.html</a></td>
 </tr>
