@@ -7,7 +7,7 @@ Quick Start Unix from Source
 ============================
 
 *ADMB-11.6*  
-*Released December 12, 2016*  
+*Released December 20, 2016*  
 
 ADMB source build and usage procedures for Unix operating systems such as Linux, MacOS, Solaris and BSD.
 

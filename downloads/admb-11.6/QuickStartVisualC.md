@@ -7,7 +7,7 @@ Quick Start Visual C++
 ======================
 
 *ADMB-11.6*  
-*Released December 12, 2016*  
+*Released December 20, 2016*  
 
 ADMB binary installation and usage procedure for Windows and Visual C++ compilers using installer.
 

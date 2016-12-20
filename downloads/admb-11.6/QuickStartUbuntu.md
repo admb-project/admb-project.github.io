@@ -7,7 +7,7 @@ Quick Start Ubuntu
 ==================
 
 *ADMB-11.6*  
-*Released December 12, 2016*  
+*Released December 20, 2016*  
 
 ADMB installation for Ubuntu operating system using Debian package manager (dpkg).
 

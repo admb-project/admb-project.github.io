@@ -7,7 +7,7 @@ Quick Start Windows from Zip
 ============================
 
 *ADMB-11.6*  
-*Released December 12, 2016*  
+*Released December 20, 2016*  
 
 ADMB binary installation and usage procedure for Windows and MinGW C++ compiler using zip file.
 

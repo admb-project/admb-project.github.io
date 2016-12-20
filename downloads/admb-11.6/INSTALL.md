@@ -7,7 +7,7 @@ ADMB Installation procedures
 ============================
 
 *ADMB-11.6*  
-*Released December 12, 2016*  
+*Released December 20, 2016*  
 
 ---
 

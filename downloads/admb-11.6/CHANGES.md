@@ -4,7 +4,7 @@ title: ADMB-11.6 changes
 ---
 
 *ADMB-11.6*  
-*Released December 12, 2016*  
+*Released December 20, 2016*  
 
 Describe changes and features for each release.
 

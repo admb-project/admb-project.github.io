@@ -16,7 +16,7 @@ title: Downloads ADMB-11.6
 <em>Mainly for the Mac OS platform, as well as Windows users whose needs are not met by ADMB-IDE</em></li>
 </ol>
 <h3>Newest release</h3>
-<p>ADMB-11.6 was released on 12 December 2016.  Read release notes in &#8216;<a href="https://raw.githubusercontent.com/admb-project/admb/admb-11.6/CHANGES.txt">CHANGES</a>&#8216; and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-11.6/">manuals</a>.</p>
+<p>ADMB-11.6 was released on 20 December 2016.  Read release notes in &#8216;<a href="https://raw.githubusercontent.com/admb-project/admb/admb-11.6/CHANGES.txt">CHANGES</a>&#8216; and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-11.6/">manuals</a>.</p>
 <p>Additional binaries can be downloaded directly from <a href="https://github.com/admb-project/admb/releases/tag/admb-11.6/">ADMB-Project@Github</a>.</p>
 <h3><a name="source"></a>1  Source</h3>
 <table style="border: 1px solid black;">
