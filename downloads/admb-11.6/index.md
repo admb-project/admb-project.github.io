@@ -16,7 +16,7 @@ title: Downloads ADMB-11.6
 <em>Mainly for the Mac OS platform, as well as Windows users whose needs are not met by ADMB-IDE</em></li>
 </ol>
 <h3>Newest release</h3>
-<p>ADMB-11.6 was released on 12 December 2016.  Read release notes in &#8216;<a href="CHANGES.html">CHANGES</a>&#8216; and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-11.6/">manuals</a>.</p>
+<p>ADMB-11.6 was released on 12 December 2016.  Read release notes in &#8216;<a href="https://raw.githubusercontent.com/admb-project/admb/admb-11.6/CHANGES.txt">CHANGES</a>&#8216; and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-11.6/">manuals</a>.</p>
 <p>Additional binaries can be downloaded directly from <a href="https://github.com/admb-project/admb/releases/tag/admb-11.6/">ADMB-Project@Github</a>.</p>
 <h3><a name="source"></a>1  Source</h3>
 <table style="border: 1px solid black;">
@@ -29,7 +29,7 @@ title: Downloads ADMB-11.6
 <tr>
 <td style="border: 1px solid black;">ADMB source code distribution</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-src.zip">admb-11.6-src.zip</a></td>
-<td style="border: 1px solid black;"><a href="INSTALL.html">INSTALL.html</a></td>
+<td style="border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/INSTALL.html">INSTALL.html</a></td>
 </tr>
 </tbody>
 </table>
@@ -74,37 +74,37 @@ The portable (.zip) distribution is for users who like to configure the software
 <td style="border: 1px solid black;">Installer for Windows includes GNU C++ compiler</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-windows10-mingw64.exe">admb-11.6-windows10-mingw64.exe</a></td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-windows10-mingw32.exe">admb-11.6-windows10-mingw32.exe</a></td>
-<td style="border: 1px solid black;"><a href="QuickStartWindows.html">QuickStartWindows.html</a></td>
+<td style="border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartWindows.html">QuickStartWindows.html</a></td>
 </tr>
 <tr>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Installer for Windows and Visual C++ 2015</td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-windows10-vc14-64bit.exe">admb-11.6-windows10-vc14-64bit.exe</a></td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-windows10-vc14-32bit.exe">admb-11.6-windows10-vc14-32bit.exe</a></td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartVisualC.html">QuickStartVisualC.html</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartVisualC.html">QuickStartVisualC.html</a></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;">Installer for Windows and Visual C++ 2013</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-windows10-vc12-64bit.exe">admb-11.6-windows10-vc12-64bit.exe</a></td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-windows10-vc12-32bit.exe">admb-11.6-windows10-vc12-32bit.exe</a></td>
-<td style="border: 1px solid black;"><a href="QuickStartVisualC.html">QuickStartVisualC.html</a></td>
+<td style="border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartVisualC.html">QuickStartVisualC.html</a></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;">Zip for Windows and MinGW</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-windows10-mingw64.zip">admb-11.6-windows10-mingw64.zip</a></td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-windows10-mingw32.zip">admb-11.6-windows10-mingw32.zip</a></td>
-<td style="border: 1px solid black;"><a href="QuickStartWindowsZip.html">QuickStartWindowsZip.html</a></td>
+<td style="border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartWindowsZip.html">QuickStartWindowsZip.html</a></td>
 </tr>
 <tr>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Zip for Windows and Visual C++ 2015</td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-windows10-vc14-64bit.zip">admb-11.6-windows10-vc14-64bit.zip</a></td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-windows10-vc14-32bit.zip">admb-11.6-windows10-vc14-32bit.zip</a></td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartVisualCZip.html">QuickStartVisualCZip.html</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartVisualCZip.html">QuickStartVisualCZip.html</a></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;">Zip for Windows and Visual C++ 2013</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-windows10-vc12-64bit.zip">admb-11.6-windows10-vc12-64bit.zip</a></td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-windows10-vc12-32bit.zip">admb-11.6-windows10-vc12-32bit.zip</a></td>
-<td style="border: 1px solid black;"><a href="QuickStartVisualCZip.html">QuickStartVisualCZip.html</a></td>
+<td style="border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartVisualCZip.html">QuickStartVisualCZip.html</a></td>
 </tr>
 </tbody>
 </table>
@@ -121,13 +121,13 @@ The portable (.zip) distribution is for users who like to configure the software
 <td style="border: 1px solid black;">Installer for MacOS(Sierra) Application</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-ADMBTerminal-macos10-xcode8-64bit.dmg">admb-11.6-ADMBTerminal-macos10-xcode8-64bit.dmg</a></td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-ADMBTerminal-macos10-xcode8-32bit.dmg">admb-11.6-ADMBTerminal-macos10-xcode8-32bit.dmg</a></td>
-<td style="border: 1px solid black;"><a href="QuickStartMacOS.html">QuickStartMacOS.html</a></td>
+<td style="border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartMacOS.html">QuickStartMacOS.html</a></td>
 </tr>
 <tr>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Zip for MacOS and Xcode</td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-macos10-xcode8-64bit.zip">admb-11.6-macos10-xcode8-64bit.zip</a></td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-macos10-xcode8-32bit.zip">admb-11.6-macos10-xcode8-32bit.zip</a></td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartUnix.html">QuickStartUnix.html</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartUnix.html">QuickStartUnix.html</a></td>
 </tr>
 </tbody>
 </table>
@@ -144,49 +144,49 @@ The portable (.zip) distribution is for users who like to configure the software
 <td style="border: 1px solid black;">Zip for Ubuntu 16 and GNU C++</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-ubuntu16-64bit.zip">admb-11.6-ubuntu16-64bit.zip</a></td>
 <td style="border: 1px solid black;">Not Available</td>
-<td style="border: 1px solid black;"><a href="QuickStartUnix.html">QuickStartUnix.html</a></td>
+<td style="border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartUnix.html">QuickStartUnix.html</a></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;">Zip for Ubuntu 14 and GNU C++</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-ubuntu14-64bit.zip">admb-11.6-ubuntu14-64bit.zip</a></td>
 <td style="border: 1px solid black;">Not Available</td>
-<td style="border: 1px solid black;"><a href="QuickStartUnix.html">QuickStartUnix.html</a></td>
+<td style="border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartUnix.html">QuickStartUnix.html</a></td>
 </tr>
 <tr>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Zip for Fedora and GNU C++</td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-fedora25-gcc6.2-64bit.zip">admb-11.6-fedora25-gcc6.2-64bit.zip</a></td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-fedora25-gcc6.2-32bit.zip">admb-11.6-fedora25-gcc6.2-32bit.zip</a></td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartUnix.html">QuickStartUnix.html</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartUnix.html">QuickStartUnix.html</a></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;">Zip for Centos6 and Intel C++ 2017</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-centos6-intelicpc2017-64bit.zip">admb-11.6-centos6-intelicpc2017-64bit.zip</a></td>
 <td style="border: 1px solid black;">Not Available</td>
-<td style="border: 1px solid black;"><a href="QuickStartUnix.html">QuickStartUnix.html</a></td>
+<td style="border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartUnix.html">QuickStartUnix.html</a></td>
 </tr>
 <tr>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Zip for Centos6 and Intel C++ 2013</td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-centos6-intelicpc2013-64bit.zip">admb-11.6-centos6-intelicpc2013-64bit.zip</a></td>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Not Available</td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartUnix.html">QuickStartUnix.html</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartUnix.html">QuickStartUnix.html</a></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;">Zip for Centos6 and Oracle Solaris Studio</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-centos6-solarisstudio12.5-64bit.zip">admb-11.6-centos6-solarisstudio12.5-64bit.zip</a></td>
 <td style="border: 1px solid black;">Not Available</td>
-<td style="border: 1px solid black;"><a href="QuickStartUnix.html">QuickStartUnix.html</a></td>
+<td style="border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartUnix.html">QuickStartUnix.html</a></td>
 </tr>
 <tr>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Experimental &#8211; Debian package for Ubuntu16</td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-ubuntu16-64bit_11.6.deb">admb-11.6-ubuntu16-64bit-experimental_11.6.deb</a></td>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Not Available</td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartUbuntu.html">QuickStartUbuntu.html</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartUbuntu.html">QuickStartUbuntu.html</a></td>
 </tr>
 <tr>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Experimental &#8211; Debian package for Ubuntu14</td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-ubuntu14-64bit_11.6.deb">admb-11.6-ubuntu14-64bit-experimental_11.6.deb</a></td>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Not Available</td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="QuickStartUbuntu.html">QuickStartUbuntu.html</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartUbuntu.html">QuickStartUbuntu.html</a></td>
 </tr>
 </tbody>
 </table>
