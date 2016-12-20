@@ -191,7 +191,7 @@ The portable (.zip) distribution is for users who like to configure the software
 </tbody>
 </table>
 <h3></h3>
-<h3>4 Older versions of ADMB software can be found in the <a href="https://github.com/admb-project/admb/releases/">archives</a>.</h3>
+<h3>4 Older versions of ADMB software can be found in the <a href="http://www.admb-project.org/downloads/archives.html">archives</a>.</h3>
 <h3>License</h3>
 <p>AD Model Builder (ADMB) is free software, released under the <a href="https://raw.githubusercontent.com/admb-project/admb/master/LICENSE.txt">BSD License</a>.</p>
 <h3>ADMB News</h3>
