@@ -159,6 +159,12 @@ The portable (.zip) distribution is for users who like to configure the software
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartUnix.html">QuickStartUnix.html</a></td>
 </tr>
 <tr>
+<td style="background-color: #f2f2f2;border: 1px solid black;">Zip for Centos7 and GNU C++</td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-centos7-gcc-64bit.zip">admb-11.6-centos7-gcc-64bit.zip</a></td>
+<td style="border: 1px solid black;">Not Available</td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-11.6/QuickStartUnix.html">QuickStartUnix.html</a></td>
+</tr>
+<tr>
 <td style="border: 1px solid black;">Zip for Centos6 and Intel C++ 2017</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-11.6/admb-11.6-centos6-intelicpc2017-64bit.zip">admb-11.6-centos6-intelicpc2017-64bit.zip</a></td>
 <td style="border: 1px solid black;">Not Available</td>
