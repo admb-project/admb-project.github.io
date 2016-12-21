@@ -13,3 +13,6 @@ Links to older versions of ADMB.
 
 [GitHub Releases](https://github.com/admb-project/admb/releases/)
 : For versions of ADMB 11.2 and newer
+
+[ADMB-11.5](admb-11.5)
+: For ADMB-11.5
