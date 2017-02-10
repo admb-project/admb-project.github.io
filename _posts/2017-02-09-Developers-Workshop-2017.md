@@ -11,9 +11,7 @@ The [ADMB Foundation](http://admb-foundation.org/) will be having the next devel
 
 The agenda and workshop information will soon become available.
 
-If you are interested in attending, please contact the ADMB Foundation Secretary <secretary@admb-foundation.org>.
+If you are interested in attending, please email the [ADMB Foundation Secretary](secretary@admb-foundation.org).
 
 
-Cheers,
 ADMB Foundation
-
