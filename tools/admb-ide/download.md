@@ -10,8 +10,11 @@ layout: default
 ADMB-IDE 11.2 is available for 32 and 64 bit Windows:
 
 [admb-ide-112-win32.exe](http://ftp.admb-project.org/admb-11.2/admb-ide-112-win32.exe)
+
 [admb-ide-112-win32.zip](http://ftp.admb-project.org/admb-11.2/admb-ide-112-win32.zip)
+
 [admb-ide-112-win64.exe](http://ftp.admb-project.org/admb-11.2/admb-ide-112-win64.exe)
+
 [admb-ide-112-win64.zip](http://ftp.admb-project.org/admb-11.2/admb-ide-112-win64.zip)
 
 The main changes since ADMB-IDE 10.1 (LTS) are:
