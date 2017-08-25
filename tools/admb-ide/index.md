@@ -22,7 +22,7 @@ User-friendly development environment for AD Model Builder
 
 ### Development area
 
-#### Files that ADMB-IDE build procedure needs to wget
+Files required for the ADMB-IDE build procedure:
 
 [admb116-gcc493-win64.zip](admb116-gcc493-win64.zip)
 
