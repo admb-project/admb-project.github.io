@@ -432,14 +432,14 @@ And many discussions in the <a href="https://groups.google.com/d/forum/admb-user
 <p>An <a href="https://en.wikipedia.org/wiki/Integrated_development_environment">Integrated
     Developement Environment</a> which augments a text editor with a variety of
   tools for compiling, running, and debugging ADMB models.
-  See <a href="/tools/admb-ide/manual.pdf">the
+  See <a href="/tools/admb-ide/admb-ide.pdf">the
     ADMB-IDE manual</a> for details, including screenshots.</p>
     
 <a name="ADMB-IDE-platforms"/>
 <h4>Is ADMB-IDE available for Mac or Linux as well as Windows?</h4>
 <p>Yes, although there is no installer, so the user has to do a little
   setup.
-  See <a href="/tools/admb-ide/manual.pdf#page=6">Section
+  See <a href="/tools/admb-ide/admb-ide.pdf#page=6">Section
     1.3 of the ADMB-IDE user manual</a> for details.</p>
 
 <a name="ADMB-IDE-uses"/>
