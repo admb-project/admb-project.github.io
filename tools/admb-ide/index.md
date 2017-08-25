@@ -8,7 +8,7 @@ ADMB-IDE
 
 User-friendly development environment for AD Model Builder
 
-[Download](download.html)
+**[Download]**(download.html)
 
 [Manual](manual.pdf)
 : User manual for ADMB-IDE 11.2
