@@ -13,10 +13,10 @@ ADMB
 
 Manuals
 
+- [admb-ide.pdf](admb-ide.pdf)
 - [admb.pdf](admb.pdf)
 - [admbre.pdf](admbre.pdf)
 - [autodif.pdf](autodif.pdf)
-- [admb-ide.pdf](admb-ide.pdf)
 
 Build tools
 
