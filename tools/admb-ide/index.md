@@ -21,4 +21,4 @@ already installed ADMB, Emacs, admb-mode, GCC, and optionally GDB
 
 ---
 
-[Components](components) (development area)
+[Components](components/) (development area)
