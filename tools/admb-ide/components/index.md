@@ -18,6 +18,10 @@ Manuals
 - [admbre.pdf](admbre.pdf)
 - [autodif.pdf](autodif.pdf)
 
+Emacs mode
+
+- [auctex-1191-texsite.zip](auctex-1191-texsite.zip)
+
 Build tools
 
 - [innounp.exe](innounp.exe)
