@@ -23,3 +23,6 @@ Developers' Workshops
 
 [Seattle 2016](seattle-2016/)
 : Developers' Workshop, University of Washington, June 20-24, 2016
+
+[Copenhagen 2017](copenhagen-2017/)
+: International Council for the Exploration of the Sea (ICES), August 14-18, 2017
