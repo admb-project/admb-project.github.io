@@ -6,7 +6,7 @@ title: ADMB Frequently Asked Questions
 <p>If you have ideas for additions or modifications, please send them to
   <a href="mailto:Ian.Taylor@noaa.gov">Ian.Taylor@noaa.gov</a>.<br />
   ADMB developers with editing privileges are welcome
-  to make changes, but should read the 
+  to make changes, but should read the
   <a href="/developers/contribute-documentation/faq/">
   Note on Editing the FAQ before doing so.</p>
 
@@ -113,7 +113,7 @@ creation date: 2016-09-08 17:08:19
   GAUSS, MATLAB, S-PLUS, and R. In one example, ADMB solved a minimization
   problem with 100 parameters in 3 seconds, while the "nlminb" function in R
   took 93 minutes to achieve the same solution
-  (see <a href="http://www.otter-rsch.com/tresults.htm">http://www.otter-rsch.com/tresults.htm</a> 
+  (see <a href="http://www.otter-rsch.com/tresults.htm">http://www.otter-rsch.com/tresults.htm</a>
   for code of both models).</p>
 <h2><a name="why-better">Why is AD Model builder better than using spreadsheet solvers or other statistical packages?</a></h2>
 <p>The major problem in nonlinear statistical modeling is fitting the model to
@@ -214,11 +214,11 @@ This list is displayed when a user runs 'mymodel -info'.</p>
 <p>The ADMB Project is currently supported by the ADMB Foundation, and a grant from NOAA Fisheries to the Joint Institute of Marine and Atmospheric Research. In the past it has received&nbsp;support from the National Center for Ecological
   Analysis and Synthesis, and the Pelagic Fisheries Research Program.</p>
 <h2><a name="citations">How can I cite ADMB?</a></h2>
-<p>Fournier, D.A., H.J. Skaug, J. Ancheta, J. Ianelli, A. Magnusson, 
-  M.N. Maunder, A. Nielsen, and J. Sibert. 2012. AD Model Builder: 
-  using automatic differentiation for statistical inference of highly 
+<p>Fournier, D.A., H.J. Skaug, J. Ancheta, J. Ianelli, A. Magnusson,
+  M.N. Maunder, A. Nielsen, and J. Sibert. 2012. AD Model Builder:
+  using automatic differentiation for statistical inference of highly
   parameterized complex nonlinear models. Optim. Methods Softw. 27:233-249.</p>
-<p>The paper is freely available through open access at 
+<p>The paper is freely available through open access at
   <a href="http://www.tandfonline.com/doi/abs/10.1080/10556788.2011.597854">
     http://www.tandfonline.com/doi/abs/10.1080/10556788.2011.597854</a>.</p>
 <h2><a name="GUI">Is there a GUI for ADMB?</a></h2>
@@ -247,33 +247,33 @@ This list is displayed when a user runs 'mymodel -info'.</p>
 <h2><a name="which-version">Which version is best for my computer?</a></h2>
 <p>Obviously this depends on the type of computer you have. For Windows
   users, there are multiple compiler options. Among the three, the
-  installer for GCC compiler is the only one for which the compiler is 
-  included with the ADMB installer (because it is open source and can be 
-  distributed in this way). For this reason, the Windows GCC installer 
+  installer for GCC compiler is the only one for which the compiler is
+  included with the ADMB installer (because it is open source and can be
+  distributed in this way). For this reason, the Windows GCC installer
   is the recommended choice. <a href="/developers/benchmarks/">Some
     benchmarks</a> have been completed to compare compilers, and more will
   likely be added in the future.</p>
 <h2><a name="linux-packages">Is there a .rpm or .deb package for easy Linux installation?</a></h2>
-<p>Not yet. Folks are attempting to put a Debian package together (see discussions 
+<p>Not yet. Folks are attempting to put a Debian package together (see discussions
   <a href="https://groups.google.com/d/topic/admb-developers/4uUbXzPua60/discussion">
-    here</a> and 
+    here</a> and
   <a href="https://groups.google.com/d/topic/admb-developers/OmAjf0KWKy0/discussion">
     here</a>). And hopefully this will be available in the near future.</p>
 <h2><a name="borland">Does ADMB work with Borland compilers?</a></h2>
 <p>As of March 2012, the use of Borland compilers is no longer supported by the ADMB Project. Although Borland was a common compiler for ADMB in the past, the number of ADMB users working with Borland had declined and the effort that had been spent on maintaining compatibility was directed elsewhere. TPL files that worked under Borland should in general work with other compilers. Also see notes below under "<a href="#migrating-from-borland">How do I compile old Borland TPL’s in MinGW?</a>" for more information.</p>
 <h2><a name="environment-variables">How do I set the PATH and other environment variables?</a></h2>
-<p>In some cases the environment variables that point 
-  to the ADMB files may not have been set correctly, e.g. when installing as a 
+<p>In some cases the environment variables that point
+  to the ADMB files may not have been set correctly, e.g. when installing as a
   non-administrator. In Windows this is indicated by an error message like</p>
 <pre>'admb' is not recognized as an internal or external command,
 operable program or batch file.</pre>
-<p> Discussion of this point, with instructions for setting 
+<p> Discussion of this point, with instructions for setting
   Environment Variables, are in the email archives,
-  <a href="https://groups.google.com/d/topic/admb-users/BeDlgA0cs2s/discussion">here</a>, 
+  <a href="https://groups.google.com/d/topic/admb-users/BeDlgA0cs2s/discussion">here</a>,
   <a href="https://groups.google.com/d/topic/admb-users/WQHFLAzy4C0/discussion">here</a>, and <a class="external-link" href="https://groups.google.com/d/topic/admb-users/KSKd6uapxhc/discussion">here</a>.</p>
-<p>The key is to make sure that the PATH environment variable includes the 
-  directory where the ADMB files are located. In DOS, if you type "echo %PATH%", 
-  you should see the folder with ADMB files. If you don't, follow the links above 
+<p>The key is to make sure that the PATH environment variable includes the
+  directory where the ADMB files are located. In DOS, if you type "echo %PATH%",
+  you should see the folder with ADMB files. If you don't, follow the links above
   for suggestions on how to set those variables.</p>
 <h2><a name="install-fail">Why did my installation of ADMB fail?</a></h2>
 <p>Installation of ADMB is getting easier and easier, but problems may still
@@ -282,25 +282,25 @@ operable program or batch file.</pre>
   providing details of your computer, what version of ADMB you downloaded, and
   a description of the problem.</p>
 <h2><a name="source">Is the ADMB source code available?</a></h2>
-<p>Yes. You can download all source files for the latest release of ADMB from 
-  <a href="/downloads/">downloads</a>. 
-  Or you can check out the latest development version of the source code using 
+<p>Yes. You can download all source files for the latest release of ADMB from
+  <a href="/downloads/">downloads</a>.
+  Or you can check out the latest development version of the source code using
   the information
   <a href="/2011/04/11/services.html">
     here</a>. To learn about keeping synchronized with the development code, you may
   want to read about <a href="http://subversion.apache.org/">Subversion (SVN)</a>.</p>
 <h2><a name="build">Can I build ADMB directly from the source code?</a></h2>
-<p>Yes. There are instructions in the README file included with the source code. 
+<p>Yes. There are instructions in the README file included with the source code.
   It has been <a href="https://groups.google.com/d/topic/admb-users/DTnWU7mW3Ak/discussion">
-    suggested</a> (at least for those familiar with the compiling process) that 
+    suggested</a> (at least for those familiar with the compiling process) that
   "if you experience a strange crash recompile and get a coffee before you waste time
-  thinking about it." Obviously the determination of what constitutes "strange" 
+  thinking about it." Obviously the determination of what constitutes "strange"
   may be somewhat subjective.</p>
 <h2><a name="conflicts">How can I avoid conflicts between C++ compilers?</a></h2>
-<p>The precompiled "Windows and GCC" version of ADMB comes with the C++ compiler 
-  included. This has the potential to conflict with the compilers included with 
+<p>The precompiled "Windows and GCC" version of ADMB comes with the C++ compiler
+  included. This has the potential to conflict with the compilers included with
   other programs, such as <a href="http://cran.r-project.org/bin/windows/Rtools/">Rtools</a>.
-  Some ideas for avoiding such conflicts are discussed in an email 
+  Some ideas for avoiding such conflicts are discussed in an email
   <a href="https://groups.google.com/d/topic/admb-developers/2hEMzi3I1u0/discussion">
     here</a>.</p>
 <hr />
@@ -320,7 +320,7 @@ operable program or batch file.</pre>
   is <a href="/developers/workshops/la-jolla-2010/ADMBGettingStartedGuide.pdf#page=45" class="internal-link" title="ADMB Getting Started Guide (draft)">Chapter
     6 of the draft ADMB Getting Started Guide</a>.</p>
 <h2><a name="memory">How do I control memory use in ADMB?</a></h2>
-<p>ADMB has inputs to allocate memory for different types of calculations. These are controlled 
+<p>ADMB has inputs to allocate memory for different types of calculations. These are controlled
   either via lines in the TPL file such as</p>
 <pre>  arrmblsize = 200000; // use instead of gradient_structure::set_ARRAY_MEMBLOCK_SIZE
   gradient_structure::set_GRADSTACK_BUFFER_SIZE(100000000);
@@ -328,10 +328,10 @@ operable program or batch file.</pre>
 Or via command line inputs such as
 <pre>    mymodel.exe -ams 200000 -gbs 100000000 -cbs 50000000</pre>
 The numbers are in bytes except for the GRADSTACK_BUFFER_SIZE, which is in chuncks of about 36 bytes depending on the context
-(a quirk that can be avoided by using the new set_GRADSTACK_BUFFER_BYTES instead). See Section 1.28 
-"The TOP OF MAIN section" and Chapter 12 "Command line options" in the 
+(a quirk that can be avoided by using the new set_GRADSTACK_BUFFER_BYTES instead). See Section 1.28
+"The TOP OF MAIN section" and Chapter 12 "Command line options" in the
 <a href="/docs/manuals/">ADMB User Manual</a> for more
-information. 
+information.
 
 There are a few things to watch out for:
 <ul>
@@ -339,7 +339,7 @@ There are a few things to watch out for:
   <li>Don't use scientific notation when using command line options</li>
   <li>Watch out for large temporary files associated with insufficient memory use</li></ul>
 There is more detailed information on this topic within this website
-<a href="/developers/benchmarks/">here</a>, and 
+<a href="/developers/benchmarks/">here</a>, and
 <a href="/users/tutorials-and-examples/memory-management">here</a>.
 
 And many discussions in the <a href="https://groups.google.com/d/forum/admb-users">archives of the ADMB Users email list</a>.
@@ -355,13 +355,13 @@ And many discussions in the <a href="https://groups.google.com/d/forum/admb-user
 <p>This generally happens if a minimum has not been found. The are various
   possible causes. Probably the most common is that the model has been written
   incorrectly so the objective function is not differentiable with respect to
-  all the parameters. Another common cause is parameters hitting bounds. 
-  Non-positive-definite Hessians can also occur if the data are too perfect 
-  (see discussion 
+  all the parameters. Another common cause is parameters hitting bounds.
+  Non-positive-definite Hessians can also occur if the data are too perfect
+  (see discussion
   <a href="https://groups.google.com/d/topic/admb-users/74AA16IWQNk/discussion">here</a>).</p>
 <h2><a name="debugging">Are there tips on debugging code that doesn't seem to be working right?</a></h2>
-<p>An example of the debugging process applied by Dave Fournier (for a model 
-  with the error "Function minimizer not making progress") is described 
+<p>An example of the debugging process applied by Dave Fournier (for a model
+  with the error "Function minimizer not making progress") is described
   <a href="https://groups.google.com/d/topic/admb-users/OmBngvxRIzE/discussion">
     here</a>.</p>
 <h2><a name="migrating-from-borland">How do I compile old Borland TPL’s in MinGW?</a></h2>
@@ -372,9 +372,9 @@ And many discussions in the <a href="https://groups.google.com/d/forum/admb-user
 <p>MCMC is easy to implement in ADMB using the -mcmc N -mcsave N2
   commands when running a model to run a chain of length N and save
   the output every N2 steps. To get output of parameter values that
-  have been saved, you need to either read the binary .psv file 
-  (i.e. using the readBin function in R--see 
-  <a href="/courses/previous/admb-workshop-at-international-statistical-ecology-conference-2010-5-july-2010/uncertainty.pdf">example code</a>), 
+  have been saved, you need to either read the binary .psv file
+  (i.e. using the readBin function in R--see
+  <a href="/courses/previous/admb-workshop-at-international-statistical-ecology-conference-2010-5-july-2010/uncertainty.pdf">example code</a>),
   or include in the code some commands to
   write to a file which are conditioned on the
   statement if(mceval_phase()) and then run the model again using the -mceval command. Finally, it is necessary to have at
@@ -392,34 +392,34 @@ And many discussions in the <a href="https://groups.google.com/d/forum/admb-user
   through the -hybrid command, but thorough benchmarks have not
   been conducted for this method.</p>
 <h2><a name="splines">Can I do interpolation?</a></h2>
-<p>Cubic splines are available in ADMB, but haven't yet been documented. 
+<p>Cubic splines are available in ADMB, but haven't yet been documented.
   Some example code is on this website <a href="/users/tutorials-and-examples/splines/">here</a> and in <a href="https://groups.google.com/d/topic/admb-users/5roZavNHjcA/discussion">this email</a>. <a href="http://buildbot.admb-project.org/api/group__cub__spline.html">Here</a> is another useful source of information.</p>
 <h2><a name="parallel">Can ADMB do parallel processing?</a></h2>
-<p>Parallel processing capabilities are currently in development. To see a 
-  description of current capabilities, see 
+<p>Parallel processing capabilities are currently in development. To see a
+  description of current capabilities, see
   <a href="">
-    "Open MPI Presentation"</a> and 
+    "Open MPI Presentation"</a> and
   <a href="/developers/workshops/honolulu-2012/openmpi.pdf">"
-    Parallelization in ADMB"</a> in the folder 
+    Parallelization in ADMB"</a> in the folder
   <a href="/developers/workshops/honolulu-2012/">
     commmunity/admb-developers-workshop-march-13-16-2012</a>.</p>
 <h2><a name="dll">Can ADMB produce DLLs (dynamic-link libraries)?</a></h2>
-<p><em>Note: this information is from 
+<p><em>Note: this information is from
     <a href="https://groups.google.com/d/topic/admb-users/zlQVyAFJ28U/discussion">
       an email by Arni Magnusson</a> sent to the ADMB-Users email list.</em></p>
-<p>At this time (January 2011) the DLL compilation is broken on most platforms 
+<p>At this time (January 2011) the DLL compilation is broken on most platforms
   - but probably not all.</p>
-<p>Many years ago, Dave Fournier implemented fully working DLL compilation on all 
-  ADMB platforms (e.g. ADMB 5.0 in 2000). My understanding is that Dave did not 
-  continue to maintain this feature, because it took a lot of effort and it 
+<p>Many years ago, Dave Fournier implemented fully working DLL compilation on all
+  ADMB platforms (e.g. ADMB 5.0 in 2000). My understanding is that Dave did not
+  continue to maintain this feature, because it took a lot of effort and it
   looked like few or no users were compiling ADMB DLLs.</p>
-<p>When I wrote the adcomp/adlink/admb scripts in 2009, I decided to provide 
-  the -d option, knowing that the feature was at least half-broken. The idea is 
-  to highlight a feature that can probably be resurrected - and of course to 
+<p>When I wrote the adcomp/adlink/admb scripts in 2009, I decided to provide
+  the -d option, knowing that the feature was at least half-broken. The idea is
+  to highlight a feature that can probably be resurrected - and of course to
   provide DLL compilation on the few platforms where it still works.</p>
-<p>The development team has only allocated limited efforts to examine the 
-  issue of DLL compilation, but encourages interested users to do so. Several 
-  discussions can be found 
+<p>The development team has only allocated limited efforts to examine the
+  issue of DLL compilation, but encourages interested users to do so. Several
+  discussions can be found
   <a href="https://groups.google.com/a/admb-project.org/d/forum/users">
     here</a>.</p>
 
@@ -432,14 +432,14 @@ And many discussions in the <a href="https://groups.google.com/d/forum/admb-user
 <p>An <a href="https://en.wikipedia.org/wiki/Integrated_development_environment">Integrated
     Developement Environment</a> which augments a text editor with a variety of
   tools for compiling, running, and debugging ADMB models.
-  See <a href="/tools/admb-ide/manual.pdf">the
+  See <a href="/tools/admb-ide/admb-ide.pdf">the
     ADMB-IDE manual</a> for details, including screenshots.</p>
-    
+
 <a name="ADMB-IDE-platforms"/>
 <h4>Is ADMB-IDE available for Mac or Linux as well as Windows?</h4>
 <p>Yes, although there is no installer, so the user has to do a little
   setup.
-  See <a href="/tools/admb-ide/manual.pdf#page=6">Section
+  See <a href="/tools/admb-ide/admb-ide.pdf#page=6">Section
     1.3 of the ADMB-IDE user manual</a> for details.</p>
 
 <a name="ADMB-IDE-uses"/>
@@ -454,5 +454,5 @@ And many discussions in the <a href="https://groups.google.com/d/forum/admb-user
 ====================================================================
 copyright, disclaimers, and whatnot should go down here if required
 
-==================================================================== 
+====================================================================
 --->
