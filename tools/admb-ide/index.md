@@ -9,7 +9,7 @@ User-friendly development environment for AD Model Builder
 
 [**Download**](download.html)
 
-[Manual](manual.pdf)
+[Manual](admb-ide.pdf)
 : User manual for ADMB-IDE
 
 [Readme](readme.html)

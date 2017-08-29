@@ -14,13 +14,9 @@ ADMB
 
 Manuals
 
-- [admb-ide.pdf](admb-ide.pdf)
-- [admb.pdf](admb.pdf)
-  (official manual is older)
-- [admbre.pdf](admbre.pdf)
-  (official manual is older)
-- [autodif.pdf](autodif.pdf)
-  (official manual is older)
+- [admb.pdf](admb.pdf) (official manual is older)
+- [admbre.pdf](admbre.pdf) (official manual is older)
+- [autodif.pdf](autodif.pdf) (official manual is older)
 
 Emacs mode
 
