@@ -13,4 +13,6 @@ ADMB Developers' Workshop, University of Washington, June 4-7, 2013
 
 [Workshop Agenda](June2013workshopagenda.pdf)
 
+[Parallel Development](../../parallel/)
+
 [BBQ photos](bbq-photos/)
