@@ -40,15 +40,21 @@ _**Note**_ &mdash; A free version is available go to [Visual Studio Express](htt
 
      - Change to admb directory.
 
-	    C:\> cd admb
+       ````
+       C:\> cd admb
+       ````
 
      - To build ADMB, use the commands below.
 
-	    C:\admb\> nmake
+       ````
+       C:\admb\> nmake
+       ````
 
      - If debug symbols are needed, use the command below.
 
-	    C:\admb\> nmake debug
+       ````
+       C:\admb\> nmake debug
+       ````
 
      - Close Visual Studio **Developer Command Prompt** window.
 
