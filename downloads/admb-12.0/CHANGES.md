@@ -24,7 +24,7 @@ ADMB-12.0
 
 *Released December 21, 2017*  
 
-####New Supported Compilers
+#### New Supported Compilers
 
 * GNU C++ 7
 * Intel C++ Compiler 2018
@@ -32,7 +32,7 @@ ADMB-12.0
 
   __Note__ Microsoft Visual C++ 2013 is no longer supported.
 
-####New Feature
+#### New Feature
 
 * Dr. Cole Monnahan has developed a new MCMC functionality into ADMB. The
   current Metropolis algorithm was updated to have more meaningful console
@@ -47,7 +47,7 @@ ADMB-12.0
   diagnostic checking, and inference. See adnuts package vignette for more
   information.
 
-####Changes and Improvements
+#### Changes and Improvements
 
 There were approximately 900 commits to improve ADMB.
 Below are some of the changes.
@@ -64,14 +64,14 @@ Below are some of the changes.
 ADMB-11.6
 ---------
 
-####New Supported Compilers
+#### New Supported Compilers
 
 * GNU C++ 6.2 and 5.3
 * Rtools 3.4
 * Oracle Developer Studio 12.5
 * Intel C++ Compiler 2017
 
-####Changes and Improvements
+#### Changes and Improvements
 
 * Added floating point checking into tpl2cpp and tpl2rem.
 
@@ -122,26 +122,26 @@ ADMB-11.6
 * MinGW-w64 Windows installers now include GNU GCC 6.2 compiler.
 * Other bug fixes and improvements
 
-####Developers changes
+#### Developers changes
 
 * Added tool for checking for [testing code coverage](https://codecov.io/gh/admb-project/admb).
 
-####Website changes
+#### Website changes
 
 * Moved website to GitHub pages (see [repository](https://github.com/admb-project/admb-project.github.io)).
 
 ADMB-11.5
 ---------
 
-####New Supported Compilers
+#### New Supported Compilers
 * Microsoft Visual C++ 14.0
 * Intel C++ 2016
 * GNU C++ 5.1
 
-####Compilers no longer supported
+#### Compilers no longer supported
 * Microsoft Visual C++ 11.0
 
-####Changes and Improvements
+#### Changes and Improvements
 * Change to Dave Fournier's version of cspline.cpp.
 * Added Dave Fournier's memory leak patches.
 * Fixed memory leaks reported by Valgrind and XCode.
@@ -154,21 +154,21 @@ ADMB-11.5
 ADMB-11.4
 ---------
 
-####Changes and Improvements
+#### Changes and Improvements
 * Fixed unix shared builds. 
 * Other bug fixes and improvements
 
 ADMB-11.3
 ---------
 
-####Changes and Improvements
+#### Changes and Improvements
 * Steve Martell's changes to gamma function.
 * Other bug fixes and improvements
 
 ADMB-11.2
 ---------
 
-####Changes and Improvements
+#### Changes and Improvements
 * Default safe libs include overflows checks.
 * Changes to derivative checker prompts.
 * Added description documentation to the programming interface.
@@ -219,7 +219,7 @@ ADMB-11.2
 * Separate build/dist and build/debug for easily switching between the both.
 * Allow > 2GB buffers for MinGW-w64 builds.
 
-####New Supported Compilers
+#### New Supported Compilers
 
 * GNU C++ 4.8 compiler
 * Apple XCode 6
@@ -228,7 +228,7 @@ ADMB-11.2
 
  _Note: Borland 5.5 compiler is no longer supported._
 
-####New Features
+#### New Features
 
 * Add debug target to build files.
 
@@ -284,7 +284,7 @@ ADMB-11.2
 
     _Note: This is the almost the same as using 'adcomp mysource'._
 
-####Priorities: Next Release
+#### Priorities: Next Release
 
 The following are planned or requested features for the next release.
 
@@ -299,7 +299,7 @@ ADMB-11.1
 *ADMB-11.1*  
 *Released May 10, 2013*  
 
-####Changes
+#### Changes
 
 * Updated Visual Studio nmake build files.
 
@@ -328,7 +328,7 @@ ADMB-11.1
   
 * Improved documentation.
 
-####New Features
+#### New Features
 * admb script can now build tpl models without the need to set ADMB_HOME
   or PATH. For example, 
 
@@ -357,7 +357,7 @@ ADMB-11.1
 
     Output is executable 'model'.
 
-####Bug Fixes
+#### Bug Fixes
 
 * Catch exit errors for adlink and adcomp.
 * Watch out for spaces in admb scripts
