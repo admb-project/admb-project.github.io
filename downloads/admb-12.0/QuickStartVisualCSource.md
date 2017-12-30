@@ -28,29 +28,29 @@ _**Note**_ &mdash; A free version is available go to [Visual Studio Express](htt
 
 2. **Build** ADMB source
 
-       Open Visual Studio **Developer Command Prompt** window
+   - Open Visual Studio **Developer Command Prompt** window
 
-       * For Visual C++ 2015, Double click **Developer Command Prompt for VS2015** in **Visual Studio Tools**.
+     * For Visual C++ 2015, Double click **Developer Command Prompt for VS2015** in **Visual Studio Tools**.
 
-       * For Visual C++ 2013, Double click **Developer Command Prompt for VS2013** in **Visual Studio Tools**.
+     * For Visual C++ 2013, Double click **Developer Command Prompt for VS2013** in **Visual Studio Tools**.
 
-       * For Visual C++ 2012, Double click **Developer Command Prompt for VS2012** in **Visual Studio Tools**.
+     * For Visual C++ 2012, Double click **Developer Command Prompt for VS2012** in **Visual Studio Tools**.
 
-       In the Visual Studio **Developer Command Prompt** window, use the steps below to build ADMB.
+   - In the Visual Studio **Developer Command Prompt** window, use the steps below to build ADMB.
 
-       Change to admb directory.
+     - Change to admb directory.
 
 	    C:\> cd admb
 
-       To build ADMB, use the commands below.
+     - To build ADMB, use the commands below.
 
 	    C:\admb\> nmake
 
-       If debug symbols are needed, use the command below.
+     - If debug symbols are needed, use the command below.
 
 	    C:\admb\> nmake debug
 
-       Close Visual Studio **Developer Command Prompt** window.
+     - Close Visual Studio **Developer Command Prompt** window.
 
 3. **Use** ADMB
 
