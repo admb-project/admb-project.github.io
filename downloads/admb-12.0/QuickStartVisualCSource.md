@@ -13,9 +13,6 @@ ADMB source build and usage procedures for Windows and Visual C++ compilers.
 
 ---
 
-_**Note** &mdash; For Microsoft Visual C++ 2010, read [installation][help] documentation._
-[help]: http://www.admb-project.org/documentation/installation/admb-installation-visual-c
-
 Quick Start
 -----------
 
@@ -25,9 +22,9 @@ _**Note**_ &mdash; A free version is available go to [Visual Studio Express](htt
 
 1. **Download** ADMB source
 
-   Download source distribution [admb-12.0-src.zip](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-src.zip).
+   - Download source distribution [admb-12.0-src.zip](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-src.zip).
 
-   Double click downloaded zip file and copy admb directory to **C:\\admb\\>**.
+   - Double click downloaded zip file and copy admb directory to **C:\\admb\\>**.
 
 2. **Build** ADMB source
 
