@@ -60,23 +60,29 @@ _**Note**_ &mdash; A free version is available go to [Visual Studio Express](htt
 
 3. **Use** ADMB
 
-       Using Windows Explorer, double click the **ADMB Command Prompt** shortcut located in **C:\admb\>**.
+   - Using Windows Explorer, double click the **ADMB Command Prompt** shortcut located in **C:\admb\>**.
 
-       In the **ADMB Command Prompt** window, use the steps below to build and run the simple example.
+   - In the **ADMB Command Prompt** window, use the steps below to build and run the simple example.
  
-       Change to simple example directory.       
+   - Change to simple example directory.       
 
-           C:\> cd admb\examples\admb\simple
+     ````
+     C:\> cd admb\examples\admb\simple
+     ````
 
-       Build simple example.
+   - Build simple example.
 
-           C:\admb\examples\admb\simple\> admb simple
+     ````
+     C:\admb\examples\admb\simple\> admb simple
+     ````
 
-       Run simple example.
+   - Run simple example.
 
-           C:\admb\examples\admb\simple\> simple
+     ````
+     C:\admb\examples\admb\simple\> simple
+     ````
 
-       Read [manuals](https://github.com/admb-project/admb/releases/tag/admb-12.0/) for more information.
+   - Read [manuals](https://github.com/admb-project/admb/releases/tag/admb-12.0/) for more information.
 
 ---
 For help and support, contact <users@admb-project.org>.
