@@ -1,23 +1,23 @@
 ---
 layout: default
-title: ADMB-IDE
+title: AD Studio
 ---
 
-## ADMB-IDE
+## AD Studio
 
-User-friendly development environment for AD Model Builder
+Statistical modelling in ADMB and TMB
 
 [**Download**](download.html)
 
-[Manual](admb-ide.pdf)
-: User manual for ADMB-IDE
+[Manual](adstudio.pdf)
+: User manual for AD Studio
 
 [Readme](readme.html)
 : "Emacs admb-mode without the Emacs"
 
-[.emacs](https://github.com/admb-project/admb/blob/master/contrib/ide/dot/.emacs)
-: Emacs settings for ADMB-IDE (Windows, Linux) - all you need if you have
-already installed ADMB, Emacs, admb-mode, GCC, and optionally GDB
+[.emacs](https://github.com/admb-project/admb/blob/master/contrib/adstudio/dot/.emacs)
+: Emacs settings for AD Studio (Windows, Linux) - all you need if you have
+already installed ADMB, GCC, GDB, and Emacs with packages
 
 ---
 

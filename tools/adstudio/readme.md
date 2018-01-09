@@ -6,6 +6,13 @@ title: Readme
 <h2>Readme</h2>
 
 "Emacs admb-mode without the Emacs"
-The purpose of ADMB-IDE is to make the convenient features of [Emacs](http://www.admb-project.org/tools/editors/emacs/) admb-mode available to non-Emacs users. In other words, to disable the standard Emacs behavior.
 
-Experienced Emacs users may prefer to ignore the ADMB-IDE .emacs file, and simply install and load [admb.el](/tools/editors/emacs/admb.el) like other Emacs packages. It is a standard "major mode'' that follows all Emacs mode conventions. 
+The main purpose of AD Studio is to make the convenient Emacs
+[Emacs](/tools/editors/emacs/) features of admb-mode and tmb-mode available to
+non-Emacs users. In other words, to disable the standard Emacs behavior.
+
+Experienced Emacs users may prefer to ignore the AD Studio .emacs file, and
+simply install and load ADMB Mode ([admb.el](/tools/editors/emacs/admb.el)) and
+TMB Mode ([tmb.el](https://github.com/kaskr/adcomp/blob/master/emacs/tmb.el))
+like other Emacs packages. They are written as standard "major modes'' that
+follow all Emacs mode conventions.
