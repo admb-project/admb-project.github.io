@@ -35,8 +35,8 @@ title: Downloads ADMB-11.6
 </table>
 <h3><a name="admb-ide"></a>2  ADMB-IDE</h3>
 <p>See the release <a href="http://www.admb-project.org/2015/07/13/ADMB-IDE-11.2-released.html">announcement</a> (13 January 2015) for an overview of the main features of ADMB-IDE 11.2.</p>
-<p>The installer (.exe) is a &#8220;click-next-next-done&#8221; solution to set up ADMB with a compiler and editor, ready to use.<br />
-The portable (.zip) distribution is for users who like to configure the software themselves, and dislike installers.</p>
+<p>The installer (.exe) is a &#8220;click-next-next-done&#8221; solution to set up ADMB with a compiler and editor, ready to use.</p>
+<p>The portable (.zip) distribution is for users who prefer to configure the software themselves.</p>
 <table class="grid listing" summary="ADMB-IDE">
 <tbody>
 <tr>
