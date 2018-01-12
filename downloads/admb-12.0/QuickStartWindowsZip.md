@@ -25,41 +25,41 @@ _**Note**_ &mdash; Installed MinGW C++ 32Bit must support **posix threading** an
 
 1. **Download** ADMB
 
-       * For Windows 64Bit, download [admb-12.0-windows10-mingw64](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-windows10-mingw64.zip).
+   * For Windows 64Bit, download [admb-12.0-windows10-mingw64](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-windows10-mingw64.zip).
 
-       * For Windows 32Bit, download [admb-12.0-windows10-mingw32](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-windows10-mingw32.zip).
+   * For Windows 32Bit, download [admb-12.0-windows10-mingw32](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-windows10-mingw32.zip).
 
 2. **Install** ADMB
 
-       Double click downloaded file to open, then copy **admb** folder to Local Disk (**C:\\>**).
+   Double click downloaded file to open, then copy **admb** folder to Local Disk (**C:\\>**).
 
 3. **Use** ADMB
 
-       Using Windows Explorer, double click the **ADMB Command Prompt** shortcut located in **C:\\admb\\>**.
+   Using Windows Explorer, double click the **ADMB Command Prompt** shortcut located in **C:\\admb\\>**.
 
-       In the **ADMB Command Prompt** window, use the steps below to build and run the simple example.
+   In the **ADMB Command Prompt** window, use the steps below to build and run the simple example.
 
-       Check C++ compiler (g++).
+   Check C++ compiler (g++).
 
            C:\> g++ --version
 
-       If g++ compiler is not recognized, then configure search **PATH** with location of **g++.exe**.
+   If g++ compiler is not recognized, then configure search **PATH** with location of **g++.exe**.
 
            C:\> set PATH=C:\MinGW\bin;%PATH%
  
-       Change simple example directory.
+   Change simple example directory.
 
            C:\> cd admb\examples\admb\simple
 
-       Build simple example.
+   Build simple example.
 
            C:\admb\examples\admb\simple\> admb simple
 
-       Run simple example.
+   Run simple example.
 
            C:\admb\examples\admb\simple\> simple
 
-       Read [manuals](https://github.com/admb-project/admb/releases/tag/admb-12.0/) for more information.
+   Read [manuals](https://github.com/admb-project/admb/releases/tag/admb-12.0/) for more information.
 
 ---
 For help and support, contact <users@admb-project.org>.
