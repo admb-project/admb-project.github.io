@@ -55,65 +55,65 @@ Quick Start
 
 3. **Build** ADMB source
 
-       Change to admb directory.
+   Change to admb directory.
 
            [~]$ cd admb
 
-       To build ADMB, use the commands below.
+   To build ADMB, use the commands below.
 
            [~/admb/]$ make
 
-       If debug symbols are needed, use the commands below.
+   If debug symbols are needed, use the commands below.
 
            [~/admb/]$ make debug
 
-       _**Note**_ &mdash; When the build is completed, **~/admb/build/dist/** is the binary distribution directory.
+   _**Note**_ &mdash; When the build is completed, **~/admb/build/dist/** is the binary distribution directory.
 
 4. **Use** ADMB
 
-       In the **Terminal** window, use the steps below to build and run the simple example.
+   In the **Terminal** window, use the steps below to build and run the simple example.
 
-       Change to simple example directory.       
+   Change to simple example directory.       
 
            [~/admb/]$ cd examples/admb/simple
 
-       Build simple example.
+   Build simple example.
 
            [~/admb/examples/admb/simple/]$ ~/admb/admb simple.tpl
 
-       _**Note**_ &mdash; For MinGW-Msys and Cygwin shells, use the **'admb.sh'** script.
+   _**Note**_ &mdash; For MinGW-Msys and Cygwin shells, use the **'admb.sh'** script.
 
            [~/admb/examples/admb/simple/]$ ~/admb/admb.sh simple.tpl
 
-       Run simple example.
+   Run simple example.
 
            [~/admb/examples/admb/simple/]$ ./simple
 
-       Read [manuals](https://github.com/admb-project/admb/releases/tag/admb-12.0/) for more information.
+   Read [manuals](https://github.com/admb-project/admb/releases/tag/admb-12.0/) for more information.
 
 5. _**Optional**_ &mdash; Multi-User Installation    
 
-       Installs binary distribution folder to /usr/local/ as super-user.
+   Installs binary distribution folder to /usr/local/ as super-user.
 
            [~/admb/]$ sudo make install
 
-       Build and run the simple example without the directory prefix.
+   Build and run the simple example without the directory prefix.
 
            [~/admb/]$ cd examples/admb/simple
            [~/admb/examples/admb/simple/]$ admb simple.tpl
            [~/admb/examples/admb/simple/]$ ./simple
 
-       _If unable to build simple example, then use the Manual Installation below._
+   _If unable to build simple example, then use the Manual Installation below._
 
-       _**Alternative**_ &mdash; Manual Installation    
+   _**Alternative**_ &mdash; Manual Installation    
 
-       Copy binary distribution folder to /usr/local/ as super-user.
+   Copy binary distribution folder to /usr/local/ as super-user.
 
            [~/admb/]$ sudo cp -Rvf build/dist /usr/local/admb
 
-       _**Note**_ &mdash; The dist folder can be copied to other computers with similar configurations.
+   _**Note**_ &mdash; The dist folder can be copied to other computers with similar configurations.
 
-       Create symlink to main admb script.  Directory **/usr/local/bin/** should already exist.
+   Create symlink to main admb script.  Directory **/usr/local/bin/** should already exist.
 
            [~/admb/]$ sudo ln -sf /usr/local/admb/admb /usr/local/bin/admb
 
