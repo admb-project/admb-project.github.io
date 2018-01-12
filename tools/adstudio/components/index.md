@@ -9,8 +9,8 @@ title: Components
 
 ADMB
 
-- [admb116-gcc493-win64.zip](admb116-gcc493-win64.zip)
-  (official release was built with another GCC)
+- [admb120-gcc493-win64.zip](admb120-gcc493-win64.zip)
+  (official release was not built with Rtools)
 
 Manuals
 
