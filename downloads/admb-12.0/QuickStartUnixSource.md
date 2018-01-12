@@ -20,11 +20,11 @@ The following programs should be installed on the local computer.
 
 * C++ compiler
 
-      Supported C++ Compilers for Unix
+  Supported C++ Compilers for Unix
 
-      * GNU C++
-      * Intel C++ Compiler
-      * Oracle Solaris Studio 12.3     
+  * GNU C++
+  * Intel C++ Compiler
+  * Oracle Solaris Studio 12.3     
     
     
 * GNU make
@@ -41,17 +41,17 @@ Quick Start
 
 2. **Download** ADMB source distribution
 
-       Download ADMB source distribution [admb-12.0-src.zip](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-src.zip).
+   Download ADMB source distribution [admb-12.0-src.zip](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-src.zip).
 
-       Use the command below to extract contents of zip file to _~/admb/_. 
+   Use the command below to extract contents of zip file to _~/admb/_. 
 
            [~]$ unzip admb-12.0-src.zip
 
-       _**Alternative**_ &mdash; Use Git client (see command below) to download directly from ADMB version control repository.
+   _**Alternative**_ &mdash; Use Git client (see command below) to download directly from ADMB version control repository.
 
            [~]$ git clone https://github.com/admb-project/admb.git
 
-       This will download latest source repository to _~/admb/_.
+   This will download latest source repository to _~/admb/_.
 
 3. **Build** ADMB source
 
