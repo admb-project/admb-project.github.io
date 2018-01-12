@@ -1,11 +1,4 @@
----
-layout: default
-title: Quick Start Ubuntu
----
-
-Quick Start Ubuntu
-==================
-
+#ADMB Project
 *ADMB-12.0*  
 *Released December 21, 2017*  
 
@@ -16,28 +9,27 @@ __Note__ &mdash; Installing ADMB with dpkg is still experimental.
 ---
 
 Installation
-------------
+============
 
 __Note__ &mdash; The installation will copy the admb script to /usr/local/bin and put the distribution in /usr/local/admb.  It is no longer necessary to append the PATH or to set ADMB_HOME system variables.
 
 1. Download ADMB debian package
 
-   For Ubuntu 14LTS (64Bit), download [admb-12.0-ubuntu14-64bit_12.0.deb](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-ubuntu14-64bit_12.0.deb).
-
-   For Ubuntu 16LTS (64Bit), download [admb-12.0-ubuntu16-64bit_12.0.deb](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-ubuntu16-64bit_12.0.deb).
+       For Ubuntu 14LTS (64Bit), download [admb-12.0-ubuntu14-64bit_12.0.deb](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-ubuntu14-64bit_12.0.deb).
+       For Ubuntu 16LTS (64Bit), download [admb-12.0-ubuntu16-64bit_12.0.deb](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-ubuntu16-64bit_12.0.deb).
 
 2. Install ADMB using Debian package manager (dpkg) as super-user.
 
-   For Ubuntu 14LTS (64Bit), type command
+        For Ubuntu 14LTS (64Bit), type command
 
         $ sudo dpkg -i admb-12.0-ubuntu14-64bit_12.0.deb
 
-   For Ubuntu 16LTS (64Bit), type command
+        For Ubuntu 16LTS (64Bit), type command
 
         $ sudo dpkg -i admb-12.0-ubuntu16-64bit_12.0.deb
 
 Quick Start
------------
+===========
 
 Build and run the simple example.
 
