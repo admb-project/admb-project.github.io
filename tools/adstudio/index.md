@@ -13,7 +13,7 @@ Statistical modelling in ADMB and TMB
 : User manual for AD Studio
 
 [Readme](readme.html)
-: "Emacs admb-mode without the Emacs"
+: "Emacs admb-mode and tmb-mode, without the Emacs"
 
 [.emacs](https://github.com/admb-project/admb/blob/master/contrib/adstudio/dot/.emacs)
 : Emacs settings for AD Studio (Windows, Linux) - all you need if you have

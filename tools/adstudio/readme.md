@@ -5,7 +5,7 @@ title: Readme
 
 <h2>Readme</h2>
 
-"Emacs admb-mode without the Emacs"
+"Emacs admb-mode and tmb-mode, without the Emacs"
 
 The main purpose of AD Studio is to make the convenient Emacs
 [Emacs](/tools/editors/emacs/) features of admb-mode and tmb-mode available to
