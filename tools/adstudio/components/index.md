@@ -20,13 +20,11 @@ Manuals
 
 Emacs mode
 
-- [auctex-1191-texsite.zip](auctex-1191-texsite.zip)
+- [auctex-121-built.zip](auctex-121-built.zip)
   (official release needs to be built)
-- [ess-1610-github.zip](ess-1610-github.zip)
-  (official release hangs at startup)
 
 Build tools
 
-- [innounp.exe](innounp.exe)
+- [innoextract.exe](innoextract.exe)
 - [unzip.exe](unzip.exe)
 - [zip.exe](zip.exe)
