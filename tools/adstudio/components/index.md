@@ -25,6 +25,5 @@ Emacs mode
 
 Build tools
 
-- [innoextract.exe](innoextract.exe)
 - [unzip.exe](unzip.exe)
 - [zip.exe](zip.exe)
