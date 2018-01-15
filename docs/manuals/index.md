@@ -10,7 +10,7 @@ _Downloaded from github repository._
 * [ADMB Random Effects 12.0 Manual](https://github.com/admb-project/admb/releases/download/admb-12.0/admbre-12.0.pdf)
 * [Autodif 12.0 Manual](https://github.com/admb-project/admb/releases/download/admb-12.0/autodif-12.0.pdf)
 
-<h2>Previous manuals</h2>
+<h3>Previous Manuals</h3>
 
 <b>ADMB 11.5 Manuals</b>
 
