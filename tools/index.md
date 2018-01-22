@@ -9,7 +9,7 @@ Tools
 [ADMB-IDE](admb-ide/)
 : User-friendly development environment for AD Model Builder
 
-[AD Studio](adstudio/)
+[AD Studio](https://github.com/admb-project/adstudio)
 : Statistical modelling in ADMB and TMB
 
 [Editors](editors/)
