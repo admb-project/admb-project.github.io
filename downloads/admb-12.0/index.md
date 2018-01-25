@@ -16,8 +16,8 @@ title: Downloads ADMB-12.0
 <em>Mainly for the Mac OS platform, as well as Windows users whose needs are not met by AD Studio.</em></li>
 </ol>
 <h3>Newest release</h3>
-<p>ADMB-12.0 was released on 20 December 2017.  Read release notes in &#8216;<a href="https://raw.githubusercontent.com/admb-project/admb/admb-12.0/CHANGES.txt">CHANGES</a>&#8216; and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-12.0/">manuals</a>.</p>
-<p>Additional binaries can be downloaded directly from <a href="https://github.com/admb-project/admb/releases/tag/admb-12.0/">ADMB-Project@Github</a>.</p>
+<p>ADMB-12.0 was released on 20 December 2017.  Read release notes in <a href="https://raw.githubusercontent.com/admb-project/admb/admb-12.0/CHANGES.txt">CHANGES</a> and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-12.0/">manuals</a>.</p>
+<p>Additional binaries can be downloaded directly from <a href="https://github.com/admb-project/admb/releases/tag/admb-12.0/">github.com/admb-project/admb</a>.</p>
 <h3><a name="source"></a>1  Source</h3>
 <table style="border: 1px solid black;">
 <tbody>
@@ -35,8 +35,8 @@ title: Downloads ADMB-12.0
 </table>
 <h3><a name="adstudio"></a>2  AD Studio</h3>
 <p>See the release <a href="http://www.admb-project.org/2018/01/22/AD-Studio-1.0-Release.html">announcement</a> (22 January 2018) for an overview of the main features of AD Studio 1.0.</p>
-<p>The installer (.exe) is a &#8220;click-next-next-done&#8221; solution to set up ADMB with a compiler and editor, ready to use.</p>
-<p>The portable (.zip) distribution is for users who prefer to configure the software themselves.</p>
+<p>The installer (.exe) is a &#8220;click-next-next-done&#8221; solution to set up ADMB with a compiler and editor, ready to use.
+The portable (.zip) distribution is for users who prefer to configure the software themselves.</p>
 <table class="grid listing" summary="ADMB-IDE">
 <tbody>
 <tr>
