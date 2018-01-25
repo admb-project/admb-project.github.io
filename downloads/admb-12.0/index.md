@@ -10,10 +10,10 @@ title: Downloads ADMB-12.0
 <ol>
 <li><a href="#source"><strong>Source</strong></a> distribution, to build the ADMB libraries from scratch.<br />
 <em>Mainly for the Linux platform and advanced users.</em></li>
-<li><a href="#admb-ide"><strong>ADMB-IDE</strong></a> easy and efficient user interface, bundles ADMB with C++ compiler and dedicated ADMB editor.<br />
+<li><a href="#adstudio"><strong>AD Studio</strong></a> easy and efficient user interface, bundles ADMB with C++ compiler and dedicated ADMB editor.<br />
 <em>Highly recommended for the Windows platform, although not released frequently. Works in Linux and Mac, too.</em></li>
 <li><a href="#binaries"><strong>Binaries</strong></a> precompiled for various platforms, C++ compiler not included.<br />
-<em>Mainly for the Mac OS platform, as well as Windows users whose needs are not met by ADMB-IDE</em></li>
+<em>Mainly for the Mac OS platform, as well as Windows users whose needs are not met by AD Studio.</em></li>
 </ol>
 <h3>Newest release</h3>
 <p>ADMB-12.0 was released on 20 December 2017.  Read release notes in &#8216;<a href="https://raw.githubusercontent.com/admb-project/admb/admb-12.0/CHANGES.txt">CHANGES</a>&#8216; and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-12.0/">manuals</a>.</p>
@@ -33,8 +33,8 @@ title: Downloads ADMB-12.0
 </tr>
 </tbody>
 </table>
-<h3><a name="admb-ide"></a>2  ADMB-IDE</h3>
-<p>See the release <a href="http://www.admb-project.org/2015/07/13/ADMB-IDE-11.2-released.html">announcement</a> (13 January 2015) for an overview of the main features of ADMB-IDE 11.2.</p>
+<h3><a name="adstudio"></a>2  AD Studio</h3>
+<p>See the release <a href="https://github.com/admb-project/adstudio/releases/tag/1.0">announcement</a> (22 January 2018) for an overview of the main features of AD Studio 1.0.</p>
 <p>The installer (.exe) is a &#8220;click-next-next-done&#8221; solution to set up ADMB with a compiler and editor, ready to use.</p>
 <p>The portable (.zip) distribution is for users who prefer to configure the software themselves.</p>
 <table class="grid listing" summary="ADMB-IDE">
@@ -46,20 +46,20 @@ title: Downloads ADMB-12.0
 <th style="background-color: lightgreen;border: 1px solid black;">User Manual</th>
 </tr>
 <tr>
-<td style="border: 1px solid black;">ADMB-IDE installer (.exe)</td>
-<td style="border: 1px solid black;"><a href="http://ftp.admb-project.org/admb-11.2/admb-ide-112-win64.exe">admb-ide-112-win64.exe</a></td>
+<td style="border: 1px solid black;">AD Studio installer (.exe)</td>
+<td style="border: 1px solid black;"><a href="https://github.com/admb-project/adstudio/releases/download/1.0/adstudio-10.exe">adstudio-10.exe</a></td>
 <td style="border: 1px solid black;"><a href="http://ftp.admb-project.org/admb-11.2/admb-ide-112-win32.exe">admb-ide-112-win32.exe</a></td>
-<td style="border: 1px solid black;"><a class="internal-link" href="/tools/admb-ide/admb-ide.pdf">admb-ide-112.pdf</a></td>
+<td style="border: 1px solid black;"><a href="https://github.com/admb-project/adstudio/releases/download/manual/adstudio.pdf">adstudio.pdf</a></td>
 </tr>
 <tr>
-<td style="background-color: #f2f2f2;border: 1px solid black;">ADMB-IDE portable (.zip)</td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="http://ftp.admb-project.org/admb-11.2/admb-ide-112-win64.zip">admb-ide-112-win64.zip</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;">AD Studio portable (.zip)</td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/adstudio/releases/download/1.0/adstudio-10.zip">adstudio-10.zip</a></td>
 <td style="background-color: #f2f2f2;border: 1px solid black;"><a href="http://ftp.admb-project.org/admb-11.2/admb-ide-112-win32.zip">admb-ide-112-win32.zip</a></td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a class="internal-link" href="/tools/admb-ide/admb-ide.pdf">admb-ide-112.pdf</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/adstudio/releases/download/manual/adstudio.pdf">adstudio.pdf</a></td>
 </tr>
 </tbody>
 </table>
-<p>ADMB-IDE can be set up manually in Linux and Mac OS (see <a class="internal-link" href="/tools/admb-ide/admb-ide.pdf">manual</a>), but experienced Emacs users may prefer to use <a class="internal-link" href="/tools/editors/emacs/admb.el">admb.el</a> with traditional Emacs keybindings.</p>
+<p>AD Studio can be set up manually in Linux and Mac OS (see <a href="https://github.com/admb-project/adstudio/releases/download/manual/adstudio.pdf">manual</a>), but experienced Emacs users may prefer to use <a href="https://github.com/admb-project/admb/tree/master/contrib/emacs/admb.el">admb.el</a> with traditional Emacs keybindings.</p>
 <h3><a name="binaries"></a>3 Binaries</h3>
 <h3>3.1  Windows</h3>
 <table class="grid listing">
