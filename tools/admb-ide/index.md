@@ -5,20 +5,10 @@ title: ADMB-IDE
 
 ## ADMB-IDE
 
-User-friendly development environment for AD Model Builder
+Please note that [AD Studio](https://github.com/admb-project/adstudio) is the
+successor of both ADMB-IDE and TMB-IDE.
 
-[**Download**](download.html)
+<hr>
 
-[Manual](admb-ide.pdf)
-: User manual for ADMB-IDE
-
-[Readme](readme.html)
-: "Emacs admb-mode without the Emacs"
-
-[.emacs](https://github.com/admb-project/admb/blob/master/contrib/ide/dot/.emacs)
-: Emacs settings for ADMB-IDE (Windows, Linux) - all you need if you have
-already installed ADMB, Emacs, admb-mode, GCC, and optionally GDB
-
----
-
-[Components](components/) (development area)
+The old [ADMB-IDE 11.2](download.html) release from 2015 is still available,
+along with the user [manual](admb-ide.pdf).
