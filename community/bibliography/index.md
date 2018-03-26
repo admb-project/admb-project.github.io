@@ -16,6 +16,7 @@ title: Journal papers and Formal publications
 <p>Benjamin, D.M., and J.R. Bence. 2003. Statistical catch-at-age assessment of Chinook salmon in Lake Michigan, 1985-1996. Michigan Department of Natural Resources, Fisheries Division, Fisheries Research Report 2066.</p>
 <p>Berger, A.M., M.L. Jones, Y. Zhao, and J.R. Bence. 2012. Accounting for spatial population structure at scales relevant to life history improves stock assessment: the case for Lake Erie walleye <em>Sander vitreus</em>. Fisheries Research 115-116:44-59.</p>
 <p>Bigelow, K.A., and M.N. Maunder. 2007. Does habitat or depth influence catch rates of pelagic species? Can. J. Fish. Aqu. Sci. 64:1581−1594.</p>
+<p>Bolker, B., B. Gardner, M. Maunder, C. Berg, M. Brooks, L. Comita, E. Crone, S. Cubaynes, T. Davies, P. de Valpine, J. Ford, O. Gimenez, M. Kéry, E. Kim, C. Lennert-Cody, A. Magnusson, S. Martell, J. Nash, A. Nielsen, J. Regetz, H. Skaug, and E. Zipkin. 2013. Strategies for fitting nonlinear ecological models in R, AD Model Builder, and BUGS. Methods in Ecology and Evolution 4:501-512.</p>
 <p><a href="http://www.int-res.com/articles/ab2009/8/b008p115.pdf">Bonfil, R., Francis, M.P, Duffy, C., Manning, M.J., O'Brien, S.M. 2010. Large-scale tropical migrations, temperature preferences and diving behavior of great white sharks (<em>Carcharodon carcharias</em>) from New Zealand. Aquat. Biol. 8: 115-123.</a></p>
 <p>Booth, A.J. and Quinn II, T.J. 2006. Bayesian and maximum likelihood approaches to stock assessment when abundance indices are questionable. Fisheries Research 80:169-181. (ADMB was used because of the ease of switching between frequentist and Bayesian paradigms.)</p>
 <p>Booth, A.J. and Potts, W.M.. 2006. Estimating gill-net selectivity for <em>Labeo umbratus</em> (Pisces:Cyprinidae) and an evaluation of using fyke-nets as a non-destructive sampling gear in small reservoirs. Fisheries Research 79:202-209. (ADMB was used as it is straight-forward to estimate standard errors of derived variables.)</p>
@@ -95,6 +96,7 @@ title: Journal papers and Formal publications
 <p>Irwin, B.J., T. Wagner, J.R. Bence, M. Kepler, W.Liu and D. Hayes. 2013. Estimating spatial and temporal components of variation for fisheries count data using negative binomial mixed models. Transactions of the American Fisheries Society 142:171-183. (Hierarchical mixed-effect models for survey catch data using ADMB-RE.)</p>
 <a name="J"></a>
 <p>Jensen, O.P., Gilroy, D.J., Hogan, Z., Allen, B.C., Hrabik, T.R., Weidel, B.C., Chandra, S., and Vander Zanden, M.J. 2009. Evaluating recreational fisheries for an endangered species: a case study of taimen, <em>Hucho taimen</em>, in Mongolia Can. J. Fish. Aquat. Sci. 66:1707–1718.</p>
+<p>Jonsdottir, I.G., A. Magnusson, and U. Skuladottir. 2013. Influence of increased cod abundance and temperature on recruitment of northern shrimp <em>(Pandalus borealis)</em>. Mar. Biol. 160:1203-1211.</p>
 <p>Jurado-Molina, J. Livingston, P.A. and Ianelli, J.N. 2005. Incorporating predation interactions in a statistical catch-at-age model for a predator–prey system in the eastern Bering Sea. Can. J. Fish. Aquat. Sci. 62:1865–1873.</p>
 <a name="K"></a>
 <p>Kanaiwa, M., Y. Chen, and M. Hunter. 2005. An evaluation of a complex length-based fisheries stock assessment model for the green sea urchin fishery in Maine, USA. Fisheries Research 74:96-115.</p>
@@ -208,6 +210,7 @@ title: Journal papers and Formal publications
 <p><a href="http://icesjms.oxfordjournals.org/content/62/8/1543.full.pdf">Trenkel, V., Skaug, H.J. 2005. Disentangling the effects of trawl efficiency and population abundance on catch data using random effects models. ICES Journal of Marine Science 62:1543-1555.</a></p>
 <a name="U"></a>
 <a name="V"></a>
+<p>van der Hammen, T., J.J. Poos, H. van Overzee, H.J.L. Heessen, A. Magnusson, and A.D. Rijnsdorp. 2013. Population ecology of turbot and brill: what can we learn from two rare flatfish species? J. Sea Res. 84:96-108.</p>
 <p>van Poorten, B. T., C. J. Walters, and N. G. Taylor. 2012. A field-based bioenergetics model for estimating time-varying food consumption and growth. Transactions of the American Fisheries Society 141:943-961.</p>
 <a name="W"></a>
 <p>Walsh, C.T., Pease, B.C., Hoyle, S.D., and Booth, D.J. 2006. Variability in growth of longfinned eels among coastal catchments of south-eastern Australia. Journal of Fish Biology 68:1693-1706.</p>
