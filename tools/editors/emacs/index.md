@@ -17,7 +17,7 @@ Powerful and complex editor (Windows, Linux, Mac)
 [Configure](configure)
 : Advanced Emacs configuration
 
-[ADMB-IDE](/tools/admb-ide/)
+[AD Studio](https://github.com/admb-project/adstudio)
 : Special customization of Emacs in admb-mode
 
 [ESS](ess)

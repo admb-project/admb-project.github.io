@@ -4,7 +4,7 @@ title: ADMB Frequently Asked Questions
 ---
 <h2>ADMB Frequently Asked Questions (FAQs)</h2>
 <p>If you have ideas for additions or modifications, please send them to
-  <a href="mailto:Ian.Taylor@noaa.gov">Ian.Taylor@noaa.gov</a>.<br />
+  <a href="mailto:Ian.Taylor@noaa.gov">Ian.Taylor@noaa.gov</a>.<br>
   ADMB developers with editing privileges are welcome
   to make changes, but should read the
   <a href="/developers/contribute-documentation/faq/">
@@ -71,13 +71,13 @@ creation date: 2016-09-08 17:08:19
       <li><a href="#parallel">Can ADMB do parallel processing?</a></li>
       <li><a href="#dll">Can ADMB produce DLLs (dynamic-link libraries)?</a></li>
 </ol>
-<h3><a href="#ADMB-IDE">ADMB-IDE</a></h3>
+<h3><a href="#ad-studio">AD Studio</a></h3>
 <ol>
-      <li><a href="#what-is-ADMB-IDE">What is ADMB-IDE?</a></li>
-      <li><a href="#ADMB-IDE-platforms">Is ADMB-IDE available for Mac or Linux as well as Windows?</a></li>
-      <li><a href="#ADMB-IDE-uses">Can I use ADMB-IDE for compiling C++?</a></li>
+      <li><a href="#what-is-ad-studio">What is AD Studio?</a></li>
+      <li><a href="#ad-studio-platforms">Is AD Studio available for Mac or Linux, as well as Windows?</a></li>
+      <li><a href="#ad-studio-uses">Can I use AD Studio for compiling C++?</a></li>
 </ol>
-<hr />
+<hr>
 <!-- end of Table of Contents -->
 
 <!-- Start of FAQ -->
@@ -204,9 +204,9 @@ creation date: 2016-09-08 17:08:19
   1980s. More information on the history of ADMB is
   available <a href="/background.html">here</a>.</p>
 <h2><a name="core-team">Who is currently developing ADMB?</a></h2>
-<p>The ADMB core-team is currently about 20 people. They are listed in two places:<br/>
-<a href="/developers/core-team">core-team</a><br/>
-<a href="https://github.com/admb-project/admb/blob/master/src/nh99/model7.cpp">model7.cpp</a><br />
+<p>The ADMB core-team is currently about 20 people. They are listed in two places:<br>
+<a href="/developers/core-team">core-team</a><br>
+<a href="https://github.com/admb-project/admb/blob/master/src/nh99/model7.cpp">model7.cpp</a><br>
 This list is displayed when a user runs 'mymodel -info'.</p>
 <h2><a name="improving">Can I help improve ADMB?</a></h2>
 <p>Yes. Please consider attending one of the <a href="/developers/workshops/" class="external-link">ADMB developers workshops</a> and joining the&nbsp;<a href="mailto:users@admb-project.org">users@admb-project.org</a>. You can also e-mail the developers core team:&nbsp;developers@admb-project.org.</p>
@@ -224,7 +224,7 @@ This list is displayed when a user runs 'mymodel -info'.</p>
 <h2><a name="GUI">Is there a GUI for ADMB?</a></h2>
 <p>There is a GUI that runs in R, through the PBSadmb package.</p>
 <h2><a name="editors">What editors work with ADMB?</a></h2>
-<p>An integrated development environment (ADMB-IDE) is available on
+<p>An integrated development environment (AD Studio) is available on
   the <a href="/downloads/">downloads page</a>. It is
   based on Emacs but configured to be easy to learn. Many other editors have
   been used by ADMB programs.
@@ -239,7 +239,7 @@ This list is displayed when a user runs 'mymodel -info'.</p>
   available <a href="/tools/r/">here</a>).
   There is a package glmmADMB for R that utilizes ADMB and some users have
   compiled ADMB models as DLLs to help it interact with other software.</p>
-<hr />
+<hr>
 
 <h1><a name="installation">Installation</a></h1>
 <h2><a name="install">How do I install ADMB?</a></h2>
@@ -303,7 +303,7 @@ operable program or batch file.</pre>
   Some ideas for avoiding such conflicts are discussed in an email
   <a href="https://groups.google.com/d/topic/admb-developers/2hEMzi3I1u0/discussion">
     here</a>.</p>
-<hr />
+<hr>
 
 
 <h1><a name="usage">Usage</a></h1>
@@ -423,28 +423,28 @@ And many discussions in the <a href="https://groups.google.com/d/forum/admb-user
   <a href="https://groups.google.com/a/admb-project.org/d/forum/users">
     here</a>.</p>
 
-<a name="ADMB-IDE"/>
-<h3>ADMB-IDE</h3>
+<a name="ad-studio">
+<h3>AD Studio</h3>
 --------
 
-<a name="what-is-ADMB-IDE/">
-<h4>What is ADMB-IDE?</h4>
+<a name="what-is-ad-studio">
+<h4>What is AD Studio?</h4>
 <p>An <a href="https://en.wikipedia.org/wiki/Integrated_development_environment">Integrated
-    Developement Environment</a> which augments a text editor with a variety of
+    Development Environment</a> which augments a text editor with a variety of
   tools for compiling, running, and debugging ADMB models.
-  See <a href="/tools/admb-ide/admb-ide.pdf">the
-    ADMB-IDE manual</a> for details, including screenshots.</p>
+  See the <a href="https://github.com/admb-project/adstudio/releases/download/manual/adstudio.pdf">AD
+    Studio manual</a> for details, including screenshots.</p>
 
-<a name="ADMB-IDE-platforms"/>
-<h4>Is ADMB-IDE available for Mac or Linux as well as Windows?</h4>
+<a name="ad-studio-platforms">
+<h4>Is AD Studio available for Mac or Linux as well as Windows?</h4>
 <p>Yes, although there is no installer, so the user has to do a little
   setup.
-  See <a href="/tools/admb-ide/admb-ide.pdf#page=6">Section
-    1.3 of the ADMB-IDE user manual</a> for details.</p>
+  See the <a href="https://github.com/admb-project/adstudio/releases/download/manual/adstudio.pdf">AD
+    Studio manual</a> for details.</p>
 
-<a name="ADMB-IDE-uses"/>
-<h4>Can I use ADMB-IDE for compiling C++?</h4>
-<p>Definitely. To see some suggestions on configuring the ADMB-IDE to make
+<a name="ad-studio-uses">
+<h4>Can I use AD Studio for compiling C++?</h4>
+<p>Definitely. To see some suggestions on configuring AD Studio to make
   this easier,
   see <a href="https://groups.google.com/d/topic/admb-users/dx2WwoL6M-k/discussion">this
     discussion</a> on the ADMB-users email list.</p>

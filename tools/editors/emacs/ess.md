@@ -12,4 +12,4 @@ The [ESS](http://ess.r-project.org/) (Emacs Speaks Statistics) website provides 
 
 Users can run statistical programs like R inside Emacs, or simply edit source code (functions and help pages) with syntax highlighting and indentation.
 
-As of version 11.2, ADMB-IDE comes with ESS.
+AD Studio comes with ESS.

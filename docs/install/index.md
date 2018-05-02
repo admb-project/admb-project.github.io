@@ -6,10 +6,10 @@ title: Installation
 Installation
 ------------
 
-**ADMB-IDE**
+**AD Studio**
 
-The easiest way to start using ADMB in Windows is to install [ADMB-IDE](/tools/admb-ide/), which sets up ADMB with an editor, compiler, and debugger.
-Read no further if ADMB-IDE suits your needs.
+The easiest way to start using ADMB in Windows is to install [AD Studio](https://github.com/admb-project/adstudio), which sets up ADMB with an editor, compiler, and debugger.
+Read no further if AD Studio suits your needs.
 
 **Downloading**
 Precompiled binaries and the source distribution can be downloaded from the [downloads](/downloads/) tab of this website.  Installation instructions are also in the downloads tab.

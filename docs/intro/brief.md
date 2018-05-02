@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Brief Introduction (Magnusson 2013)
+title: Brief Introduction
 ---
 
-Brief Introduction (Magnusson 2013)
------------------------------------
+Brief Introduction
+------------------
 
 ADMB on one page
 
@@ -12,10 +12,9 @@ ADMB on one page
 
 The [NCEAS benchmark](/developers/benchmarks/optimization/nceas.pdf) shows that ADMB outperforms R and BUGS by a wide margin, when fitting a variety of non-trivial models.
 
-Try it out
-ADMB is free software.
+Try it out - ADMB is free software.
 
-The easiest way to start using ADMB in Windows is to install [ADMB-IDE](http://code.google.com/p/admb-project/downloads/list?&q=admb-ide), which sets up ADMB with an editor, compiler, and debugger.
+The easiest way to start using ADMB in Windows is to install [AD Studio](https://github.com/admb-project/adstudio), which sets up ADMB with an editor, compiler, and debugger.
 
 Linux and Mac users can download the [source code](http://code.google.com/p/admb-project/downloads/list?can=2&q=source) and build ADMB from source, following the instructions included.
 
@@ -23,7 +22,7 @@ Linux and Mac users can download the [source code](http://code.google.com/p/admb
 
 After installing ADMB, navigate to the ‘examples’ directory (by default, c:/admb/examples in Windows) and copy the ‘simple’ example to a working directory, such as c:/test/simple.
 
-If you have ADMB-IDE installed, double-click ‘simple.tpl’, go to the ADMB menu and select Build. Wait for the compiler to build the model and then select Run and View Point Estimates.
+If you have AD Studio installed, double-click ‘simple.tpl’, go to the ADMB menu and select Build. Wait for the compiler to build the model and then select Run and View Point Estimates.
 
 Alternatively, open a shell and run admb simple to build the model and type simple to run the model. Then open ‘simple.par’ in a text editor to view the point estimates.
 
