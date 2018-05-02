@@ -10,7 +10,7 @@ ADMB on one page
 
 **ADMB is fast**
 
-The [NCEAS benchmark](/developers/benchmarks/optimization/nceas.png) shows that ADMB outperforms R and BUGS by a wide margin, when fitting a variety of non-trivial models.
+The [NCEAS benchmark](/developers/benchmarks/optimization/nceas.pdf) shows that ADMB outperforms R and BUGS by a wide margin, when fitting a variety of non-trivial models.
 
 Try it out
 ADMB is free software.
