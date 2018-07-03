@@ -37,7 +37,7 @@ title: Downloads ADMB-12.0
 <p>See the release <a href="http://www.admb-project.org/2018/01/22/AD-Studio-1.0-Release.html">announcement</a> (22 January 2018) for an overview of the main features of AD Studio 1.0.</p>
 <p>The installer (.exe) is a &#8220;click-next-next-done&#8221; solution to set up ADMB with a compiler and editor, ready to use.
 The portable (.zip) distribution is for users who prefer to configure the software themselves.</p>
-<table class="grid listing" summary="ADMB-IDE">
+<table class="grid listing" summary="AD Studio">
 <tbody>
 <tr>
 <th style="background-color: lightgreen;border: 1px solid black;">Description</th>

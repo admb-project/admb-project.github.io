@@ -27,4 +27,4 @@ Perhaps the best way to make your Emacs working environment more efficient is to
 
 Note that they're machine-specific, so you need to adapt to your machine and personal preferences.
 
-[ADMB-IDE](/tools/admb-ide/) comes with a .emacs configuration file that has some unusual settings worth checking out.
+[AD Studio](https://github.com/admb-project/adstudio) comes with a .emacs configuration file that has some unusual settings worth checking out.

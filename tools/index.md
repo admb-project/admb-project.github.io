@@ -6,11 +6,9 @@ title: Tools
 Tools
 -----
 
-[ADMB-IDE](admb-ide/)
-: User-friendly development environment for AD Model Builder
-
 [AD Studio](https://github.com/admb-project/adstudio)
-: Statistical modelling in ADMB and TMB
+: Statistical modelling in ADMB and TMB<br>
+: (development environment, successor of [ADMB-IDE](admb-ide/))
 
 [Editors](editors/)
 : Information about editors, syntax highlighting, etc.
@@ -40,7 +38,7 @@ Tools
 : A length-based, age and spatially-structured model for fisheries stock assessment
 
 [Otter Research](http://otter-rsch.com/product.htm)
-: Original Commercial version of ADMB 
+: Original Commercial version of ADMB
 
 [Valgrind](valgrind.html)
 : Describe the procedure for using Valgrind to profile and check memory leaks.

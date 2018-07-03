@@ -11,7 +11,7 @@ Shows the procedure to install, build and run ADMB with GCC.
 
 The Windows GCC version of ADMB works with an open source GNU Compiler Collection (GCC) implemented in Windows using a software port called MinGW.  Follow the procedure to install and build ADMB programs.
 
-Note: the ADMB-IDE (integrated development environment) installs GCC along with ADMB and therefore may be an easier place for new users to start.
+Note: the AD Studio (integrated development environment) installs GCC along with ADMB and therefore may be an easier place for new users to start.
 
 **Procedure**
 

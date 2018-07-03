@@ -9,7 +9,6 @@ Optimization software
 ADMB, R, BUGS, etc.
 
 * [NCEAS benchmark (Bolker et al. 2013)](nceas.pdf):  ADMB vs. R. vs. BUGS
-* [nceas.png][nceas.png]
 
 
 Obsolete benchmark (1998/2006)
