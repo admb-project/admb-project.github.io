@@ -20,6 +20,8 @@ Installation
 
 1. Download ADMB installer
 
+   For 64Bit, download [admb-12.0-ADMBTerminal-macos10.4-xcode10-64bit](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-ADMBTerminal-macos10.4-xcode10-64bit.dmg).
+
    For 64Bit, download [admb-12.0-ADMBTerminal-macos10-xcode8-64bit](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-ADMBTerminal-macos10-xcode8-64bit.dmg).
 
 
