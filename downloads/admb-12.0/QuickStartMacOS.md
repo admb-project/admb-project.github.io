@@ -20,10 +20,10 @@ Installation
 
 1. Download ADMB installer
 
-   For 64Bit, download [admb-12.0-ADMBTerminal-macos10-xcode7-64bit](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-ADMBTerminal-macos10-xcode7-64bit.dmg).
+   For 64Bit, download [admb-12.0-ADMBTerminal-macos10-xcode8-64bit](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-ADMBTerminal-macos10-xcode8-64bit.dmg).
 
 
-   For 32Bit, download [admb-12.0-ADMBTerminal-macos10-xcode7-32bit](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-ADMBTerminal-macos10-xcode7-32bit.dmg).  
+   For 32Bit, download [admb-12.0-ADMBTerminal-macos10-xcode8-32bit](https://github.com/admb-project/admb/releases/download/admb-12.0/admb-12.0-ADMBTerminal-macos10-xcode8-32bit.dmg).  
 
 2. Double click downloaded ADMB dmg file. 
 
