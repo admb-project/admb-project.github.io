@@ -13,7 +13,7 @@ title: Downloads ADMB-12.0
 <li><a href="#adstudio"><strong>AD Studio</strong></a> easy and efficient user interface, bundles ADMB with C++ compiler and dedicated ADMB editor.<br />
 <em>Highly recommended for the Windows platform, although not released frequently. Works in Linux and Mac, too.</em></li>
 <li><a href="#binaries"><strong>Binaries</strong></a> precompiled for various platforms, C++ compiler not included.<br />
-<em>Mainly for the Mac OS platform, as well as Windows users whose needs are not met by AD Studio.</em></li>
+<li><a href="http://www.admb-project.org/downloads/counts.html"><strong>Download Counts</strong></a></li>
 </ol>
 <h3>Newest release</h3>
 <p>ADMB-12.0 was released on 20 December 2017.  Read release notes in <a href="https://raw.githubusercontent.com/admb-project/admb/admb-12.0/CHANGES.txt">CHANGES</a> and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-12.0/">manuals</a>.</p>
