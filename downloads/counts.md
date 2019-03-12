@@ -6,11 +6,11 @@ title: counts
 <h3>ADMB Download Counts</h3>
 <table id="mytable">
 <tr>
-  <th>{{ Version }}</th>
-  <th>{{ Date(YYY-MM-DD) }}</th>
-  <th>{{ Time(HST) }}</th>
-  <th>{{ File or Group }}</th>
-  <th>{{ Counts }}</th>
+  <th>Versionth>
+  <th>Date(YYY-MM-DD)th>
+  <th>Time(HST)th>
+  <th>File or Groupth>
+  <th>Countsth>
 </tr>
 {% for row in site.data.counts%}
 <tr>
