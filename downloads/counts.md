@@ -3,8 +3,11 @@ layout: default
 title: counts
 ---
 
-<ul>
+<table>
 {% for date in site.data.counts%}
-  <li>{{ date.Version" }}-{{ date.Counts}}</li>
+<tr>
+  <th>{{ date.Version }}</th>
+  <th>{{ date.Counts}}</th>
+</tr>
 {% endfor %}
-</ul>
+</table>

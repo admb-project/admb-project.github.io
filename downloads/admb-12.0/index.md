@@ -12,7 +12,7 @@ title: Downloads ADMB-12.0
 <em>Mainly for the Linux platform and advanced users.</em></li>
 <li><a href="#adstudio"><strong>AD Studio</strong></a> easy and efficient user interface, bundles ADMB with C++ compiler and dedicated ADMB editor.<br />
 <em>Highly recommended for the Windows platform, although not released frequently. Works in Linux and Mac, too.</em></li>
-<li><a href="#binaries"><strong>Binaries</strong></a> precompiled for various platforms, C++ compiler not included.<br />
+<li><a href="#binaries"><strong>Binaries</strong></a> precompiled for various platforms, C++ compiler not included.<br /></li>
 <li><a href="http://www.admb-project.org/downloads/counts.html"><strong>Download Counts</strong></a></li>
 </ol>
 <h3>Newest release</h3>
