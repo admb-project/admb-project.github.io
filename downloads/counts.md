@@ -4,7 +4,7 @@ title: counts
 ---
 
 <h3>ADMB Distribution Download Counts</h3>
-<table class="js-csv-data csv-data js-file-line-container">
+<table id="mytable">
 {% for row in site.data.counts%}
 <tr>
   <th>{{ row.Version }}</th>
