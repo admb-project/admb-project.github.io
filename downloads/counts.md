@@ -6,11 +6,11 @@ title: counts
 <h3>ADMB Download Counts</h3>
 <table id="mytable">
 <tr>
-  <th>Versionth>
-  <th>Date(YYY-MM-DD)th>
-  <th>Time(HST)th>
-  <th>File or Groupth>
-  <th>Countsth>
+  <th>Version</th>
+  <th>Date(YYY-MM-DD)</th>
+  <th>Time(HST)</th>
+  <th>File or Group</th>
+  <th>Counts</th>
 </tr>
 {% for row in site.data.counts%}
 <tr>
