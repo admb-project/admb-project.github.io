@@ -7,9 +7,9 @@ title: counts
 <table id="mytable">
 <tr>
   <th>Version</th>
-  <th>Date(YYY-MM-DD)</th>
-  <th>Time(HST)</th>
-  <th>File or Group</th>
+  <th>Date</th>
+  <th>Time</th>
+  <th>File Group</th>
   <th>Counts</th>
 </tr>
 {% for row in site.data.counts%}
