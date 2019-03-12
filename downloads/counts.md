@@ -4,14 +4,14 @@ title: counts
 ---
 
 <h3>ADMB Distribution Download Counts</h3>
-<table>
-{% for date in site.data.counts%}
+<table class="js-csv-data csv-data js-file-line-container">
+{% for row in site.data.counts%}
 <tr>
-  <th>{{ date.Version }}</th>
-  <th>{{ date.Date }}</th>
-  <th>{{ date.Time }}</th>
-  <th>{{ date.File_or_Group }}</th>
-  <th>{{ date.Counts }}</th>
+  <th>{{ row.Version }}</th>
+  <th>{{ row.Date }}</th>
+  <th>{{ row.Time }}</th>
+  <th>{{ row.File_or_Group }}</th>
+  <th>{{ row.Counts }}</th>
 </tr>
 {% endfor %}
 </table>
