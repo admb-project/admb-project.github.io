@@ -7,11 +7,11 @@ title: counts
 <table id="mytable">
 {% for row in site.data.counts%}
 <tr>
-  <th>{{ row.Version }}</th>
-  <th>{{ row.Date }}</th>
-  <th>{{ row.Time }}</th>
-  <th>{{ row.File_or_Group }}</th>
-  <th>{{ row.Counts }}</th>
+  <td>{{ row.Version }}</td>
+  <td>{{ row.Date }}</td>
+  <td>{{ row.Time }}</td>
+  <td>{{ row.File_or_Group }}</td>
+  <td>{{ row.Counts }}</td>
 </tr>
 {% endfor %}
 </table>
