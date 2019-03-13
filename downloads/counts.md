@@ -9,7 +9,7 @@ title: counts
   <th>Version</th>
   <th>Date</th>
   <th>Time</th>
-  <th>File Group</th>
+  <th>File Or Group</th>
   <th>Counts</th>
 </tr>
 {% for row in site.data.counts%}
