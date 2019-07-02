@@ -2,10 +2,12 @@
 layout: default
 ---
 <h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date: "%B %-d, %Y" }}</p>
 
-<hr style="border: 1px solid black;" />
 
 <div class="post">
   {{ content }}
 </div>
+
+<hr style="border: 1px solid black;" />
+
+<p style="text-align:right;" class="meta"><small><i>Posted on {{ page.date | date: "%B %-d, %Y" }}</i></small></p>
