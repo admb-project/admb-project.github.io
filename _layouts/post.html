@@ -3,11 +3,8 @@ layout: default
 ---
 <h2>{{ page.title }}</h2>
 
+<p style="text-align:right;" class="meta"><small><i>Posted on {{ page.date | date: "%B %-d, %Y" }}</i></small></p>
 
 <div class="post">
   {{ content }}
 </div>
-
-<hr style="border: 1px solid black;" />
-
-<p style="text-align:right;" class="meta"><small><i>Posted on {{ page.date | date: "%B %-d, %Y" }}</i></small></p>
