@@ -19,9 +19,10 @@ The course will be taught using R Studio, R, and AD Studio.  This software is al
 *Cost*
 
 $750 ($150 discount given to student and employees of QFC Supporting Partners*)
-Purchasing the class
 
-    By credit card or ACH: go to the [QFC online store](https://commerce.cashnet.com/msu_3902?&itemcode=3902-SOFTMLE)
-    By check: contact Charlie at belinsky@msu.edu
+*Purchasing the class*
+
+By credit card or ACH: go to the [QFC online store](https://commerce.cashnet.com/msu_3902?&itemcode=3902-SOFTMLE)
+By check: contact Charlie at belinsky@msu.edu
 
 *Supporting partners - employee or student of a QFC Supporting Partner agency or institution (MSU, GLFC, Michigan DNR, Ohio DNR, Minnesota DNR, Wisconsin DNR, New York DEC, Ontario MNRF, Illinois DNR, Pennsylvania FBC, GLIFWC)
