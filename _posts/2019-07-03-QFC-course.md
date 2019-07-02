@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QFC Course - Software Tools for Maximum Likelihood Estimation
+title: QFC Online Course - Software Tools for Maximum Likelihood Estimation
 date: 2019-07-02
 ---
 

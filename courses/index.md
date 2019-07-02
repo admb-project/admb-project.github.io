@@ -6,6 +6,7 @@ title: courses
 
 See [instructor contact](contact/) list about organizing an ADMB course.
 
+* [QFC Online Course - Software Tools for Maximum Likelihood Estimation](http://www.admb-project.org/2019/07/02/QFC-course.html) <br/>July 15, 2019 to October 8, 2019
 * [Introductory TMB (and ADMB comparison) workshop](previous/february-2016/) <br/>February 8 - 12, 2016
 * [ADMB/TMB training course](previous/november-2015/ices-course-in-admb-tmb.html) <br/>November 2 - 6, 2015 at ICES, Copenhagen, Denmark
 * [FISH 559: Numerical Computing for the Natural Resources ](previous//september-2014/course-material.html)  <br/>September 2014
