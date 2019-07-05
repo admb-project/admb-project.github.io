@@ -17,3 +17,17 @@ To subscribe, email **users-request@admb-project.org** with subject **subscribe 
 Also check out the [FAQs](/docs/faq/), where you may find an answer to your question.
 
 This is the **main mailing list** for discussing problems and solutions using ADMB, as well as announcements.
+
+<iframe id="forum_embed"
+  src="javascript:void(0)"
+  scrolling="no"
+  frameborder="0"
+  width="900"
+  height="700">
+</iframe>
+<script type="text/javascript">
+  document.getElementById('forum_embed').src =
+     'https://groups.google.com/a/admb-project.org/forum/embed/?place=forum/users'
+     + '&showsearch=true&showpopout=true&showtabs=false'
+     + '&parenturl=' + encodeURIComponent(window.location.href);
+</script> 
