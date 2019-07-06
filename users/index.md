@@ -1,16 +1,10 @@
 ---
 layout: default
-title: Users
+title: Others
 ---
 
-Users
------
-
-This is the user's community page for ADMB. If you would like to contribute to this section, please email a request for an account to users@admb-project.org.
-
-[Users mailing list](users-mailing-list.html)
-
-[User Base](/community/)
+Others
+------
 
 [Outreach](outreach/)
 : Posters, brochures and other material to promote ADMB
