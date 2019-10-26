@@ -22,4 +22,7 @@ Documentation
 [FAQ](faq/)  
 : _ADMB Frequently Asked Questions_
 
+[Tutorials, Tricks and Tips for using ADMB](tips/)
+
+
 [User-contributed tutorials](user-contributed-tutorials/)

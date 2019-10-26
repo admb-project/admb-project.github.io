@@ -3,13 +3,11 @@ layout: default
 title: Others
 ---
 
-Others
-------
+Outreach
+--------
 
 [Outreach](outreach/)
 : Posters, brochures and other material to promote ADMB
-
-[Tutorials, Tricks and Tips for using ADMB](tutorials-and-examples/)
 
 [ADMB Newsletter](http://admb-foundation.org/?page_id=39)
 
