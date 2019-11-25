@@ -14,4 +14,4 @@ The following is a list of instructors that you can contact about organizing an 
 * Jim Bence (bence@msu.edu)
 * Steve Martell (s.martell@fisheries.ubc.ca)
 * Jim Ianelli (Jim.Ianelli@noaa.gov)
-* Mollie Brooks (mollie.brooks@uzh.ch)
+* Mollie Brooks (molbr@aqua.dtu.dk)
