@@ -16,7 +16,7 @@ title: Downloads ADMB-12.1
 <li><a href="http://www.admb-project.org/downloads/counts.html"><strong>Download Counts</strong></a></li>
 </ol>
 <h3>Latest Release</h3>
-<p>ADMB-12.1 was released on 30 December 2019.  Read release notes in <a href="https://raw.githubusercontent.com/admb-project/admb/admb-12.1/CHANGES.md">CHANGES</a> and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-12.1/">manuals</a>.</p>
+<p>ADMB-12.1 was released on 30 December 2019.  Read release notes in <a href="https://github.com/admb-project/admb/blob/master/CHANGES.md >CHANGES</a> and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-12.1/">manuals</a>.</p>
 <p>Additional binaries can be downloaded directly from <a href="https://github.com/admb-project/admb/releases/tag/admb-12.1/">releases</a>.</p>
 <h3><a name="source"></a>1  Source</h3>
 <table style="border: 1px solid black;">
@@ -29,7 +29,7 @@ title: Downloads ADMB-12.1
 <tr>
 <td style="border: 1px solid black;">ADMB source code distribution</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-src.zip">admb-12.1-src.zip</a></td>
-<td style="border: 1px solid black;"><a href="https://raw.githubusercontent.com/admb-project/admb/admb-12.1/INSTALL.md">INSTALL.html</a></td>
+<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/blob/master/INSTALL.md">INSTALL.html</a></td>
 </tr>
 </tbody>
 </table>
@@ -70,7 +70,7 @@ The portable (.zip) distribution is for users who prefer to configure the softwa
 <tr>
 <td style="border: 1px solid black;">Zip</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-windows-64bit.zip">admb-12.1-windows-64bit.zip</a></td>
-<td style="border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-12.1/QuickStartWindows.html">QuickStartWindows.html</a></td>
+<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/blob/master/docs/install/QuickStartWindows.md">QuickStartWindows</a></td>
 </tr>
 </tbody>
 </table>
@@ -84,13 +84,14 @@ The portable (.zip) distribution is for users who prefer to configure the softwa
 </tr>
 <tr>
 <td style="border: 1px solid black;">ADMBTerminal</td>
-<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-ADMBTerminal-macos-clang11-64bit.dmg">admb-12.1-ADMBTerminal-macos-clang11-64bit.dmg</a></td>
+<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-ADMBTerminal-macos-64bit.dmg">admb-12.1-ADMBTerminal-macos-64bit.dmg</a></td>
 <td style="border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-12.1/QuickStartMacOS.html">QuickStartMacOS.html</a></td>
+<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/blob/master/docs/install/QuickStartMacOS.md ">QuickStartMacOS</a></td>
 </tr>
 <tr>
 <td style="background-color: #f2f2f2;border: 1px solid black;">Zip</td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-macos-clang11-64bit.zip">admb-12.1-macos-clang11-64bit.zip</a></td>
-<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-12.1/QuickStartUnix.html">QuickStartUnix.html</a></td>
+<td style="background-color: #f2f2f2;border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-macos-64bit.zip">admb-12.1-macos-64bit.zip</a></td>
+<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/blob/master/docs/install/QuickStartMacOS.md">QuickStartMacOS</a></td>
 </tr>
 </tbody>
 </table>
@@ -106,6 +107,7 @@ The portable (.zip) distribution is for users who prefer to configure the softwa
 <td style="border: 1px solid black;">Zip</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-linux-64bit.zip">admb-12.1-linux-64bit.zip</a></td>
 <td style="border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-12.1/QuickStartUnix.html">QuickStartUnix.html</a></td>
+<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/blob/master/docs/install/QuickStartUnix.md">QuickStartUnix</a></td>
 </tr>
 </tbody>
 </table>
