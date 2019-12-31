@@ -85,7 +85,6 @@ The portable (.zip) distribution is for users who prefer to configure the softwa
 <tr>
 <td style="border: 1px solid black;">ADMBTerminal</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-ADMBTerminal-macos-64bit.dmg">admb-12.1-ADMBTerminal-macos-64bit.dmg</a></td>
-<td style="border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-12.1/QuickStartMacOS.html">QuickStartMacOS.html</a></td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/blob/master/docs/install/QuickStartMacOS.md ">QuickStartMacOS</a></td>
 </tr>
 <tr>
