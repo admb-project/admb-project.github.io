@@ -16,7 +16,7 @@ title: Downloads ADMB-12.1
 <li><a href="http://www.admb-project.org/downloads/counts.html"><strong>Download Counts</strong></a></li>
 </ol>
 <h3>Latest Release</h3>
-<p>ADMB-12.1 was released on 30 December 2019.  Read release notes in <a href="https://github.com/admb-project/admb/blob/master/CHANGES.md >CHANGES</a> and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-12.1/">manuals</a>.</p>
+<p>ADMB-12.1 was released on 30 December 2019.  Read release notes in <a href="https://github.com/admb-project/admb/blob/master/CHANGES.md">CHANGES</a> and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-12.1/">manuals</a>.</p>
 <p>Additional binaries can be downloaded directly from <a href="https://github.com/admb-project/admb/releases/tag/admb-12.1/">releases</a>.</p>
 <h3><a name="source"></a>1  Source</h3>
 <table style="border: 1px solid black;">
