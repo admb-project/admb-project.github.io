@@ -27,7 +27,7 @@ title: Downloads ADMB-12.1
 <th style="background-color: lightgreen;border: 1px solid black;">Documentation</th>
 </tr>
 <tr>
-<td style="border: 1px solid black;">ADMB source code distribution</td>
+<td style="border: 1px solid black;">source</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-src.zip">admb-12.1-src.zip</a></td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/blob/master/INSTALL.md">INSTALL</a></td>
 </tr>
