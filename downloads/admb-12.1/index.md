@@ -15,7 +15,7 @@ title: Downloads ADMB-12.1
 <li><a href="#binaries"><strong>Binaries</strong></a> precompiled for various platforms, C++ compiler not included.<br /></li>
 <li><a href="http://www.admb-project.org/downloads/counts.html"><strong>Download Counts</strong></a></li>
 </ol>
-<h3>Newest release</h3>
+<h3>Latest Release</h3>
 <p>ADMB-12.1 was released on 30 December 2019.  Read release notes in <a href="https://raw.githubusercontent.com/admb-project/admb/admb-12.1/CHANGES.md">CHANGES</a> and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-12.1/">manuals</a>.</p>
 <p>Additional binaries can be downloaded directly from <a href="https://github.com/admb-project/admb/releases/tag/admb-12.1/">releases</a>.</p>
 <h3><a name="source"></a>1  Source</h3>
@@ -105,7 +105,6 @@ The portable (.zip) distribution is for users who prefer to configure the softwa
 <tr>
 <td style="border: 1px solid black;">Zip</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-linux-64bit.zip">admb-12.1-linux-64bit.zip</a></td>
-<td style="border: 1px solid black;">Not Available</td>
 <td style="border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-12.1/QuickStartUnix.html">QuickStartUnix.html</a></td>
 </tr>
 </tbody>
