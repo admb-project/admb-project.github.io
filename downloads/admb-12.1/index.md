@@ -24,12 +24,12 @@ title: Downloads ADMB-12.1
 <tr>
 <th style="background-color: lightgreen;border: 1px solid black;">Description</th>
 <th style="background-color: lightgreen;border: 1px solid black;">Download</th>
-<th style="background-color: lightgreen;border: 1px solid black;">Source Build Documentation</th>
+<th style="background-color: lightgreen;border: 1px solid black;">Documentation</th>
 </tr>
 <tr>
 <td style="border: 1px solid black;">ADMB source code distribution</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-src.zip">admb-12.1-src.zip</a></td>
-<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/blob/master/INSTALL.md">INSTALL.html</a></td>
+<td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/blob/master/INSTALL.md">INSTALL</a></td>
 </tr>
 </tbody>
 </table>
@@ -105,7 +105,6 @@ The portable (.zip) distribution is for users who prefer to configure the softwa
 <tr>
 <td style="border: 1px solid black;">Zip</td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-linux-64bit.zip">admb-12.1-linux-64bit.zip</a></td>
-<td style="border: 1px solid black;"><a href="http://www.admb-project.org/downloads/admb-12.1/QuickStartUnix.html">QuickStartUnix.html</a></td>
 <td style="border: 1px solid black;"><a href="https://github.com/admb-project/admb/blob/master/docs/install/QuickStartUnix.md">QuickStartUnix</a></td>
 </tr>
 </tbody>
