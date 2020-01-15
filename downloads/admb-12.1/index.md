@@ -8,17 +8,21 @@ Downloads ADMB-12.1
 
 ADMB-12.1 was released on January 16, 2020.
 
-_Release Notes_
+**Release Notes**
 
 Read release [CHANGES](https://github.com/admb-project/admb/blob/master/CHANGES.md).
 
 Read documentation in the [manuals](https://github.com/admb-project/admb/releases/tag/admb-12.1/).
 
-_License_
+**License**
 
 AD Model Builder (ADMB) is free software, released under the [BSD License](https://raw.githubusercontent.com/admb-project/admb/master/LICENSE.txt).
 
+**Announcement**
+
 For the announcement of new ADMB releases, read the [ADMB News](http://www.admb-project.org/news/).
+
+**Previous Versions**
 
 The [archives](http://www.admb-project.org/downloads/archives.html) has links to previous versions of ADMB software.
 
