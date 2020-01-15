@@ -6,7 +6,15 @@ title: Downloads ADMB-12.1
 Downloads ADMB-12.1
 -------------------
 
-**License**
+ADMB-12.1 was released on January 16, 2020.
+
+Read release notes in [CHANGES](https://github.com/admb-project/admb/blob/master/CHANGES.md) and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-12.1/">manuals</a>.</p>
+
+For the announcement of new ADMB releases, read the [ADMB News](http://www.admb-project.org/news/).
+
+The [archives](http://www.admb-project.org/downloads/archives.html) has previous versions of ADMB software.
+
+__License__
 
 AD Model Builder (ADMB) is free software, released under the [BSD License](https://raw.githubusercontent.com/admb-project/admb/master/LICENSE.txt).
 
@@ -24,13 +32,8 @@ ADMB is released in three different forms:
 
 * [Binaries](#binaries) precompiled for various platforms
 
-**Latest Release**
+  Additional binaries can be downloaded directly from [GitHub Releases](https://github.com/admb-project/admb/releases/tag/admb-12.1/)
 
-ADMB-12.1 was released on 30 December 2019.
-
-Read release notes in [CHANGES](https://github.com/admb-project/admb/blob/master/CHANGES.md) and documentation in the <a href="https://github.com/admb-project/admb/releases/tag/admb-12.1/">manuals</a>.</p>
-
-Additional binaries can be downloaded directly from [GitHub Releases](https://github.com/admb-project/admb/releases/tag/admb-12.1/)
 
 **Source**
 
@@ -84,19 +87,12 @@ Download [admb-12.1-linux-64bit.zip](https://github.com/admb-project/admb/releas
 
 Read [Quick Start for Unix](https://github.com/admb-project/admb/blob/master/docs/install/QuickStartUnix.md)
 
-Previous Releases
------------------
 
-The [archives](http://www.admb-project.org/downloads/archives.html) has previous versions of ADMB software.
-
-ADMB News
----------
-For the announcement of new ADMB releases, read the [ADMB News](http://www.admb-project.org/news/).
 
 Statistics
 ----------
 See [Download Counts](http://www.admb-project.org/downloads/counts.html)
 
-Contact
--------
+Help
+----
 For questions and comments, please contact users@admb-project.org.
