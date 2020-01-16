@@ -22,17 +22,6 @@ AD Model Builder (ADMB) is free software, released under the [BSD License](https
 
 For the announcement of new ADMB releases, read the [ADMB News](http://www.admb-project.org/news/).
 
-**Previous Versions**
-
-The [archives](http://www.admb-project.org/downloads/archives.html) has links to previous versions of ADMB software.
-
-Overview
---------
-
-ADMB is released in three different forms:
-
-
-
 AD Studio
 ---------
 
@@ -97,6 +86,10 @@ The source distribution is available for building the ADMB libraries from scratc
 Download [admb-12.1-src.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-src.zip)
 
 To build ADMB, read procedures for [Unix]() and [Windows]().
+
+**Previous Versions**
+
+The [archives](http://www.admb-project.org/downloads/archives.html) has links to previous versions of ADMB software.
 
 <!--
 Statistics
