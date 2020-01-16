@@ -90,8 +90,7 @@ Download [admb-12.1-linux-64bit.zip](https://github.com/admb-project/admb/releas
 
 Read [Quick Start for Unix](https://github.com/admb-project/admb/blob/master/docs/install/QuickStartUnix.md)
 
-Source
-------
+**Source**
 
 The source distribution is available for building the ADMB libraries from scratch.
 
@@ -99,10 +98,11 @@ Download [admb-12.1-src.zip](https://github.com/admb-project/admb/releases/downl
 
 To build ADMB, read procedures for [Unix]() and [Windows]().
 
-
+<!--
 Statistics
 ----------
 See [Download Counts](http://www.admb-project.org/downloads/counts.html)
+-->
 
 Help
 ----
