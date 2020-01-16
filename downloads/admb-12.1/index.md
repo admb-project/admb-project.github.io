@@ -10,7 +10,7 @@ ADMB-12.1 was released on January 16, 2020.
 
 **Release Notes**
 
-Read [changes](https://github.com/admb-project/admb/blob/master/CHANGES.md) for the relase..
+Read [changes](https://github.com/admb-project/admb/blob/master/CHANGES.md) for the release.
 
 Read documentation in the [manuals](https://github.com/admb-project/admb/releases/tag/admb-12.1/).
 
