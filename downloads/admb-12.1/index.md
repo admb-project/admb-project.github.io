@@ -30,9 +30,13 @@ Releases are available for Windows, MacOS and Linux.
 Additional downloads are [available](https://github.com/admb-project/admb/releases/tag/admb-12.1/) on the ADMB GitHub project site.
 
 **AD Studio**
+
 AD Studio is an easy and efficient user interface. It bundles ADMB with C++ compiler and dedicated ADMB editor.
 
-Download recent release of [AD Studio](https://github.com/admb-project/adstudio/releases).
+Download lastest release installer [adstudio-10.exe](https://github.com/admb-project/adstudio/releases/download/1.0/adstudio-10.exe) or 
+[adstudio-10.zip](https://github.com/admb-project/adstudio/releases/download/1.0/adstudio-10.zip).
+
+Read manual [adstudio-10.pdf](https://github.com/admb-project/adstudio/releases/download/1.0/adstudio-10.pdf)
 
 **Windows**
 
