@@ -6,7 +6,7 @@ title: Downloads ADMB-12.1
 Downloads ADMB-12.1
 -------------------
 
-ADMB-12.1 was released on January 16, 2020.
+ADMB-12.1 was released on January 17, 2020.
 
 **Release Notes**
 
