@@ -70,7 +70,7 @@ The source distribution is available for building the ADMB libraries from scratc
 
 Download [admb-12.1-src.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-src.zip).
 
-To build ADMB, read procedures for [Unix](https://github.com/admb-project/admb/blob/admb-12.1/docs/install/BuildingSourceUnix.md) and [Windows and Visual Studio](https://github.com/admb-project/admb/blob/admb-12.1/docs/install/BuildingSourceVisualStudio.md).
+To build ADMB, read procedures for [Unix](https://github.com/admb-project/admb/blob/admb-12.1/docs/install/BuildingSourceUnix.md) and [Windows and Visual Studio](https://github.com/admb-project/admb/blob/master/docs/install/BuildingSourceVisualStudio.md).
 
 **Previous Versions**
 
