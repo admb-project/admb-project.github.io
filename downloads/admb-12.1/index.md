@@ -48,13 +48,13 @@ Read [Quick Start for Windows](https://github.com/admb-project/admb/blob/master/
 
 **MacOS**
 
-_Check back later for download links._
+_Supported MacOS Version: Catalina_
 
-<!--
-Download [admb-12.1-macos-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-macos-64bit.zip)
+Download [admb-12.1-ADMBTerminal-macos-64bit.dmg](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-ADMBTerminal-macos-64bit.dmg)
 
 Read [Quick Start for MacOS](https://github.com/admb-project/admb/blob/master/docs/install/QuickStartMacOS.md)
--->
+
+_Note: ADMBTerminal will have to be allowed in the MacOS Security & Privacy._
 
 **Linux**
 
