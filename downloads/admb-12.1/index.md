@@ -40,21 +40,32 @@ Read manual [adstudio-10.pdf](https://github.com/admb-project/adstudio/releases/
 
 **Windows**
 
+_Check back later for download._
+
+<!--
 Download [admb-12.1-windows-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-windows-64bit.zip)
 
 Read [Quick Start for Windows](https://github.com/admb-project/admb/blob/master/docs/install/QuickStartWindows.md)
+-->
 
 **MacOS**
 
+_Check back later for download._
+<!--
 Download [admb-12.1-macos-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-macos-64bit.zip)
 
 Read [Quick Start for MacOS](https://github.com/admb-project/admb/blob/master/docs/install/QuickStartMacOS.md)
+-->
 
 **Linux**
 
+_Check back later for download._
+
+<!--
 Download [admb-12.1-linux-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-linux-64bit.zip)
 
 Read [Quick Start for Unix](https://github.com/admb-project/admb/blob/master/docs/install/QuickStartUnix.md)
+-->
 
 **Source**
 
