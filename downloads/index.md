@@ -1,1 +1,0 @@
-admb-12.0/index.md
