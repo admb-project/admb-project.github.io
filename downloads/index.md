@@ -47,8 +47,6 @@ Read [Quick Start for Windows](https://github.com/admb-project/admb/blob/master/
 -->
 
 **MacOS**
-
-<div style="outline: 1px solid gray">
   
 _Supported MacOS Version: Catalina with XCode installed._
 
@@ -57,8 +55,6 @@ Download [admb-12.1-ADMBTerminal-macos-64bit.dmg](https://github.com/admb-projec
 Read [Quick Start for MacOS](https://github.com/admb-project/admb/blob/master/scripts/installers/packagemaker/QuickStartADMBTerminal.md) to install and use ADMB.
 
 _Note: ADMBTerminal will have to be allowed in the MacOS Security & Privacy._
-
-</div>
 
 **Linux**
 
