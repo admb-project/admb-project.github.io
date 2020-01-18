@@ -8,17 +8,17 @@ Downloads ADMB-12.1
 
 ADMB-12.1 was released on January 17, 2020.
 
-Read the [changes](https://github.com/admb-project/admb/blob/master/CHANGES.md) for the release.
+Read the [announcement](http://www.admb-project.org/2020/01/17/ADMB-12.1-release.html) and other [ADMB News](http://www.admb-project.org/news/).
 
-Additional documentation in the [manuals](https://github.com/admb-project/admb/releases/tag/admb-12.1/).
+Read the release [changes](https://github.com/admb-project/admb/blob/master/CHANGES.md).
+
+Additional documentation in the [manuals](http://www.admb-project.org/docs/manuals/).
+
 
 **License**
 
 AD Model Builder (ADMB) is free software, released under the [BSD License](https://raw.githubusercontent.com/admb-project/admb/master/LICENSE.txt).
 
-**Announcement**
-
-For the announcement of new ADMB releases, read the [ADMB News](http://www.admb-project.org/news/).
 
 Releases
 --------
@@ -38,7 +38,7 @@ Read manual [adstudio-10.pdf](https://github.com/admb-project/adstudio/releases/
 
 **Windows**
 
-_Check back later for download._
+_Check back later for download links._
 
 <!--
 Download [admb-12.1-windows-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-windows-64bit.zip)
@@ -48,7 +48,7 @@ Read [Quick Start for Windows](https://github.com/admb-project/admb/blob/master/
 
 **MacOS**
 
-_Check back later for download._
+_Check back later for download links._
 
 <!--
 Download [admb-12.1-macos-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-macos-64bit.zip)
@@ -58,7 +58,7 @@ Read [Quick Start for MacOS](https://github.com/admb-project/admb/blob/master/do
 
 **Linux**
 
-_Check back later for download._
+_Check back later for download links._
 
 <!--
 Download [admb-12.1-linux-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-linux-64bit.zip)
