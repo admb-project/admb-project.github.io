@@ -4,6 +4,14 @@ title: ADMB 11.5 Manuals
 ---
 <h2>Manuals</h2>
 
+<b>ADMB 12.1</b>
+
+_Download from github repository._
+
+* [ADMB 12.1 Manual](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1.pdf)
+* [ADMB Random Effects 12.1 Manual](https://github.com/admb-project/admb/releases/download/admb-12.1/admbre-12.1.pdf)
+* [Autodif 12.1 Manual](https://github.com/admb-project/admb/releases/download/admb-12.1/autodif-12.1.pdf)
+
 <b>ADMB 12.0</b>
 
 _Download from github repository._
