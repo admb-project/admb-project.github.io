@@ -38,7 +38,7 @@ Read manual [adstudio-10.pdf](https://github.com/admb-project/adstudio/releases/
 
 **Windows**
 
-_Check back later for download links._
+_Check back next week for download links._
 
 <!--
 Download [admb-12.1-windows-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-windows-64bit.zip)
