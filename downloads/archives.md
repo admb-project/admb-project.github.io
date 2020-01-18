@@ -23,5 +23,8 @@ Links to older versions of ADMB.
 [ADMB-11.5](http://ftp.admb-project.org/admb-11.5/)
 : For ADMB-11.5
 
+[ADMB-12.0](http://ftp.admb-project.org/admb-12.0/)
+: For ADMB-12.0
+
 [GitHub Releases](https://github.com/admb-project/admb/releases/)
 : For all other recent versions of ADMB
