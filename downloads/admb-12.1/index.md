@@ -50,7 +50,7 @@ Read [Quick Start for Windows](https://github.com/admb-project/admb/blob/master/
 
 _Supported MacOS Version: Catalina_
 
-Download [admb-12.1-ADMBTerminal-macos-64bit.dmg](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-ADMBTerminal-macos-64bit.dmg)
+Download [admb-12.1-ADMBTerminal-macos-64bit.dmg](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-ADMBTerminal-macos-64bit.dmg) includes debug symbols.
 
 Read [Quick Start for MacOS](https://github.com/admb-project/admb/blob/master/docs/install/QuickStartMacOS.md)
 
