@@ -58,13 +58,13 @@ Read [Quick Start for MacOS](https://github.com/admb-project/admb/blob/master/do
 
 **Linux**
 
-_Check back later for download links._
+_Supported Linux Distributions: RedHat 7 and Ubuntu 18_
 
-<!--
-Download [admb-12.1-linux-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-linux-64bit.zip)
+Download [admb-12.1-linux-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-linux-64bit.zip).
+
+Download [admb-12.1-linux-debug-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-linux-debug-64bit.zip) with debug symbols.
 
 Read [Quick Start for Unix](https://github.com/admb-project/admb/blob/master/docs/install/QuickStartUnix.md)
--->
 
 **Source**
 
