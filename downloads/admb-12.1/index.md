@@ -8,11 +8,9 @@ Downloads ADMB-12.1
 
 ADMB-12.1 was released on January 17, 2020.
 
-**Release Notes**
+Read the [changes](https://github.com/admb-project/admb/blob/master/CHANGES.md) for the release.
 
-Read [changes](https://github.com/admb-project/admb/blob/master/CHANGES.md) for the release.
-
-Read documentation in the [manuals](https://github.com/admb-project/admb/releases/tag/admb-12.1/).
+Additional documentation in the [manuals](https://github.com/admb-project/admb/releases/tag/admb-12.1/).
 
 **License**
 
@@ -51,6 +49,7 @@ Read [Quick Start for Windows](https://github.com/admb-project/admb/blob/master/
 **MacOS**
 
 _Check back later for download._
+
 <!--
 Download [admb-12.1-macos-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-macos-64bit.zip)
 
