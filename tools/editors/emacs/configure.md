@@ -19,11 +19,11 @@ The hefty PDF versions of the [Emacs manual](http://www.gnu.org/software/emacs/m
 **Examples**
 Perhaps the best way to make your Emacs working environment more efficient is to borrow ideas and code from other users. A web search for "dot emacs" or "my emacs" returns many examples. Here are links to mine:
 
-[.emacs](http://www.hafro.is/~arnima/.emacs)
+[.emacs](https://raw.githubusercontent.com/arni-magnusson/dot/master/.emacs)
 
-[.emacs-linux.el](http://www.hafro.is/~arnima/.emacs-linux.el)
+[.emacs-linux.el](https://raw.githubusercontent.com/arni-magnusson/dot/master/.emacs-linux.el)
 
-[.emacs-windows.el](http://www.hafro.is/~arnima/.emacs-windows.el)
+[.emacs-windows.el](https://raw.githubusercontent.com/arni-magnusson/dot/master/.emacs-windows.el)
 
 Note that they're machine-specific, so you need to adapt to your machine and personal preferences.
 
