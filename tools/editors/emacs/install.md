@@ -172,7 +172,7 @@ See the [Configure](configure) notes for more details on Emacs configuration.
 Open a web browser and download
 
 ```
-http://admb-project.org/community/editing-tools/emacs/admb.el
+https://raw.githubusercontent.com/admb-project/admb/master/contrib/emacs/admb.el
 ```
 
 Move the file to a folder called 'admb'. The full path of the file could be
