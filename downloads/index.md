@@ -47,14 +47,12 @@ Read [Quick Start for Windows](https://github.com/admb-project/admb/blob/master/
 -->
 
 **MacOS**
-
+  
 _Supported MacOS Version: Catalina with XCode installed._
 
-Download [admb-12.1-ADMBTerminal-macos-64bit.dmg](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-ADMBTerminal-macos-64bit.dmg).
+Download [admb-12.1-ADMBTerminal-macos-64bit.dmg](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-ADMBTerminal-macos-64bit.dmg) or [admb-12.1-ADMBTerminal-macos-debug-64bit.dmg](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-ADMBTerminal-macos-debug-64bit.dmg) with debug symbols.
 
-Download [admb-12.1-ADMBTerminal-macos-debug-64bit.dmg](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-ADMBTerminal-macos-debug-64bit.dmg) with debug symbols.
-
-Read [Quick Start for MacOS](https://github.com/admb-project/admb/blob/master/docs/install/QuickStartMacOS.md)
+Read [Quick Start for MacOS](https://github.com/admb-project/admb/blob/master/scripts/installers/packagemaker/QuickStartADMBTerminal.md) to install and use ADMB.
 
 _Note: ADMBTerminal will have to be allowed in the MacOS Security & Privacy._
 
@@ -62,11 +60,9 @@ _Note: ADMBTerminal will have to be allowed in the MacOS Security & Privacy._
 
 _Supported Linux Distributions: RedHat 7 and Ubuntu 18_
 
-Download [admb-12.1-linux-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-linux-64bit.zip).
+Download [admb-12.1-linux-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-linux-64bit.zip) or [admb-12.1-linux-debug-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-linux-debug-64bit.zip) with debug symbols.
 
-Download [admb-12.1-linux-debug-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-linux-debug-64bit.zip) with debug symbols.
-
-Read [Quick Start for Unix](https://github.com/admb-project/admb/blob/master/docs/install/QuickStartUnix.md)
+Read [Quick Start for Unix](https://github.com/admb-project/admb/blob/master/docs/install/QuickStartUnix.md) to install and use ADMB.
 
 **Source**
 
@@ -74,7 +70,7 @@ The source distribution is available for building the ADMB libraries from scratc
 
 Download [admb-12.1-src.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-src.zip).
 
-To build ADMB, read procedures for [Unix](https://github.com/admb-project/admb/blob/admb-12.1/docs/install/BuildingSourceUnix.md) and [Windows and Visual Studio](https://github.com/admb-project/admb/blob/admb-12.1/docs/install/BuildingSourceVisualStudio.md).
+To build ADMB, read procedures for [Unix](https://github.com/admb-project/admb/blob/admb-12.1/docs/install/BuildingSourceUnix.md) and [Windows and Visual Studio](https://github.com/admb-project/admb/blob/master/docs/install/BuildingSourceVisualStudio.md).
 
 **Previous Versions**
 
