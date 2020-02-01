@@ -38,13 +38,11 @@ Read manual [adstudio-10.pdf](https://github.com/admb-project/adstudio/releases/
 
 **Windows**
 
-_Check back next week for download links._
+_Supported Windows C++ 64-Bit Compilers: Rtools 3.5, Rtools 4.0, Msys2 and Microsoft Visual Studio 2015, 2017 and 2019._
 
-<!--
-Download [admb-12.1-windows-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-windows-64bit.zip)
+Download Zip File ([-12.1-windows-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-windows-64bit.zip))
 
 Read [Quick Start for Windows](https://github.com/admb-project/admb/blob/master/docs/install/QuickStartWindows.md)
--->
 
 **MacOS**
   
