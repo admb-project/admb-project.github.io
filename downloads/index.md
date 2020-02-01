@@ -42,6 +42,8 @@ _Supported Windows C++ 64-Bit Compilers: Rtools 3.5, Rtools 4.0, Msys2 and Micro
 
 Download Zip File ([admb-12.1-windows-64bit.zip](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-windows-64bit.zip))
 
+Download Self Extracting File ([admb-12.1-windows-64bit.exe](https://github.com/admb-project/admb/releases/download/admb-12.1/admb-12.1-windows-64bit.exe))
+
 Read [Quick Start for Windows](https://github.com/admb-project/admb/blob/master/docs/install/QuickStartWindows.md)
 
 **MacOS**
