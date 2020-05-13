@@ -10,6 +10,9 @@ AD Model Builder was originally developed by David Fournier in the early 1990s, 
 
 The ADMB Core Team, responsible for maintaining the source code, consists of the following people:
 
+**David Fournier** (Canada)  
+**John Sibert** (USA)  
+
 **Allan Hicks** (USA)  
 **Anders Nielsen** (Denmark)  
 **Arni Magnusson** (Iceland)  
@@ -17,11 +20,10 @@ The ADMB Core Team, responsible for maintaining the source code, consists of the
 **Ben Bolker** (Canada)  
 **Casper Berg** (Denmark)  
 **Chris Grandin** (Canada)  
-**David Fournier** (Canada)  
+**Cole Monnahan** (USA)
 **Hans Skaug** (Norway)  
 **Ian Taylor** (USA)  
 **Jim Ianelli** (USA)  
-**John Sibert** (USA)  
 **Johnoel Ancheta** (USA)  
 **Juan Carlos Quiroz** (Chile)  
 **Juan Valero** (Argentina)  
