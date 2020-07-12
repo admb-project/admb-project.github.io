@@ -10,16 +10,6 @@ Links to older versions of ADMB.
 
 [Code Google](https://code.google.com/archive/p/admb-project/downloads)
 : For versions of ADMB 11.1 and older
-
-[ADMB-11.2](http://www.admb-project.org/downloads/admb-11.2/)
-: For ADMB-11.2
-
-[ADMB-11.3](http://www.admb-project.org/downloads/admb-11.3/)
-: For ADMB-11.3
-
-[ADMB-11.4](http://www.admb-project.org/downloads/admb-11.4/)
-: For ADMB-11.4
-
 [ADMB-11.5](http://www.admb-project.org/downloads/admb-11.5/)
 : For ADMB-11.5
 
