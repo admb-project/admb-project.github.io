@@ -6,19 +6,19 @@ title: Downloads ADMB-12.2
 Downloads ADMB-12.2
 -------------------
 
-ADMB-12.2 was released on July 7, 2020.
+ADMB-12.2 was released on July 31, 2020.
 
-Releases are available for Windows, MacOS and Linux. 
+Binary releases will available for Windows, MacOS and Linux next week.
 
 Additional downloads are [available](https://github.com/admb-project/admb/releases/tag/admb-12.2/) on the ADMB GitHub project site.
 
-Read the [announcement](http://www.admb-project.org/2020/01/17/ADMB-12.2-release.html) and other [ADMB News](http://www.admb-project.org/news/).
+Read the [announcement](http://www.admb-project.org/2020/01/31/ADMB-12.2-release.html) and other [ADMB News](http://www.admb-project.org/news/).
 
-Read the release [changes](https://github.com/admb-project/admb/blob/master/CHANGES.md).
+Read the release [changes](https://github.com/admb-project/admb/blob/admb-12.2/CHANGES.md).
 
 Additional documentation in the [manuals](http://www.admb-project.org/docs/manuals/).
 
-AD Model Builder (ADMB) is free software, released under the [BSD License](https://raw.githubusercontent.com/admb-project/admb/master/LICENSE.txt).
+AD Model Builder (ADMB) is free software, released under the [BSD License](https://raw.githubusercontent.com/admb-project/admb/admb-12.2/LICENSE.txt).
 
 **AD Studio**
 
@@ -28,6 +28,8 @@ Download lastest release installer [adstudio-10.exe](https://github.com/admb-pro
 [adstudio-10.zip](https://github.com/admb-project/adstudio/releases/download/1.0/adstudio-10.zip).
 
 Read manual [adstudio-10.pdf](https://github.com/admb-project/adstudio/releases/download/1.0/adstudio-10.pdf)
+
+<!--
 
 **Windows**
 
@@ -57,23 +59,23 @@ Download [admb-12.2pre3-linux.zip](https://github.com/admb-project/admb/releases
 
 Read [Quick Start for Unix](https://github.com/admb-project/admb/blob/admb-12.2/docs/install/QuickStartUnix.md) to install and use ADMB.
 
+-->
+
 **Source**
 
 The source distribution is available for building the ADMB libraries from scratch.
 
-Download [admb-12.2pre3-src.zip](https://github.com/admb-project/admb/releases/download/admb-12.2pre3/admb-12.2pre3-src.zip).
+Download [admb-12.2-src.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-src.zip).
 
-To build ADMB, read procedures for [Unix](https://github.com/admb-project/admb/blob/admb-12.2pre3/docs/install/BuildingSourceUnix.md) and [Windows and Visual Studio](https://github.com/admb-project/admb/blob/admb-12.2pre3/docs/install/BuildingSourceVisualStudio.md).
+To build ADMB, read procedures for [Unix](https://github.com/admb-project/admb/blob/admb-12.2/docs/install/BuildingSourceUnix.md) and [Windows and Visual Studio](https://github.com/admb-project/admb/blob/admb-12.2/docs/install/BuildingSourceVisualStudio.md).
 
 **Previous Versions**
 
 The [archives](http://www.admb-project.org/downloads/archives.html) has links to previous versions of ADMB software.
 
-<!--
 Statistics
 ----------
 See [Download Counts](http://www.admb-project.org/downloads/counts.html)
--->
 
 Help
 ----
