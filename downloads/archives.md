@@ -8,6 +8,9 @@ ADMB Archives
 
 Links to older versions of ADMB.
 
+[ADMB-12.1](http://www.admb-project.org/downloads/admb-12.1/)
+: For ADMB-12.1
+
 [ADMB-12.0](http://www.admb-project.org/downloads/admb-12.0/)
 : For ADMB-12.0
 
