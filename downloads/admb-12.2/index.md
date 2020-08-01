@@ -43,7 +43,9 @@ Read [Quick Start for Windows](https://github.com/admb-project/admb/blob/admb-12
   
 _Supported MacOS Version: Catalina and XCode 11 with command line tools installed._
 
-Download [admb-12.2-macos.dmg](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.dmg) or [admb-12.2-macos.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.zip).
+Download [admb-12.2-macos.dmg](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.dmg).
+
+Download zip [admb-12.2-macos.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.zip) or [admb-12.2-macos-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos-debug.zip) with debugging symbols.
 
 Read [Quick Start for MacOS](https://github.com/admb-project/admb/blob/admb-12.2/scripts/installers/packagemaker/QuickStartADMBTerminal.md) to install and use ADMB.
 
