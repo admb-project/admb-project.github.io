@@ -29,15 +29,13 @@ Download lastest release installer [adstudio-10.exe](https://github.com/admb-pro
 
 Read manual [adstudio-10.pdf](https://github.com/admb-project/adstudio/releases/download/1.0/adstudio-10.pdf)
 
-<!--
-
 **Windows**
 
 _Supported Windows C++ 64-Bit Compilers: Rtools 3.5, Rtools 4.0, Msys2 and Microsoft Visual Studio 2015, 2017 and 2019._
 
-Download Zip File ([admb-12.2pre3-windows.zip](https://github.com/admb-project/admb/releases/download/admb-12.2pre3/admb-12.2pre3-windows.zip))
+Download Zip File ([admb-12.2-win64.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-win64.zip))
 
-Download Self Extracting File ([admb-12.2-windows-64bit.exe](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2pre3-windows.exe))
+Download Self Extracting File ([admb-12.2-win64.exe](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-win64.exe))
 
 Read [Quick Start for Windows](https://github.com/admb-project/admb/blob/admb-12.2/docs/install/QuickStartWindows.md)
 
@@ -45,12 +43,13 @@ Read [Quick Start for Windows](https://github.com/admb-project/admb/blob/admb-12
   
 _Supported MacOS Version: Catalina and XCode 11 with command line tools installed._
 
-Download [admb-12.2pre3.dmg](https://github.com/admb-project/admb/releases/download/admb-12.2pre3/admb-12.2pre3.dmg) or [admb-12.2pre3-debug.dmg](https://github.com/admb-project/admb/releases/download/admb-12.2pre3/admb-12.2pre3-debug.dmg) with debug symbols.
+Download [admb-12.2-macos.dmg](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.dmg) or [admb-12.2-macos-debug.dmg](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos-debug.dmg) with debug symbols.
 
 Read [Quick Start for MacOS](https://github.com/admb-project/admb/blob/admb-12.2/scripts/installers/packagemaker/QuickStartADMBTerminal.md) to install and use ADMB.
 
 _Note: ADMBTerminal will have to be allowed in the MacOS Security & Privacy._
 
+<!--
 **Linux**
 
 _Supported Linux Distributions: RedHat 7 and Ubuntu 18_
