@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Downloads ADMB-12.2
+title: ADMB-12.2: Downloads
 ---
 
 Downloads ADMB-12.2

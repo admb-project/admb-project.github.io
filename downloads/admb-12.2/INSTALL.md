@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ADMB-12.2 INSTALL
+title: ADMB-12.2: Installation Procedures
 ---
 
 ADMB Project  
@@ -15,17 +15,17 @@ Installation
 
 **Windows**
 
-Read the [QuickStartWindows](docs/install/QuickStartWindows.md).  
+Read the [QuickStartWindows](QuickStartWindows.html).  
 
 **MacOS**
 
-_Recommended_ &mdash; To install using dmg file, read the [QuickStartADMBTerminal](docs/install/QuickStartADMBTerminal.md).
+_Recommended_ &mdash; To install using dmg file, read the [QuickStartADMBTerminal](QuickStartADMBTerminal.html).
 
-To install using zip file for command line only, read the [QuickStartMacOSZip](docs/install/QuickStartMacOSZip.md).
+To install using zip file for command line only, read the [QuickStartMacOSZip](QuickStartMacOSZip.html).
 
 **Unix**
 
-Read the [QuickStartUnix](docs/install/QuickStartUnix.md).
+Read the [QuickStartUnix](QuickStartUnix.html).
 
 
 For all others, read the building source procedures below.
@@ -35,11 +35,11 @@ Building Source
 
 **Windows**
 
-To build with Windows and Visual Studio, read the [BuildingSourceVisualStudio](docs/install/BuildingSourceVisualStudio.md).   
+To build with Windows and Visual Studio, read the [BuildingSourceVisualStudio](BuildingSourceVisualStudio.html).   
 
 **Unix**
 
-For Unix (Linux, MacOS, Solaris and BSD) computers, read the [BuildingSourceUnix](docs/install/BuildingSourceUnix.md).
+For Unix (Linux, MacOS, Solaris and BSD) computers, read the [BuildingSourceUnix](BuildingSourceUnix.html).
 
 ---
 For help and support, email <users@admb-project.org>.
