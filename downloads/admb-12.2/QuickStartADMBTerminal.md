@@ -3,7 +3,7 @@ layout: default
 title: ADMB-12.2: Quick Start for ADMB Terminal
 ---
 
-# ADMB Quick Start for ADMBTerminal
+# ADMB Quick Start MacOS and ADMBTerminal
 
 *ADMB-12.2*  
 *Released July 31, 2020*  
@@ -59,5 +59,7 @@ Quick Start
 
    Read [manuals](http://www.admb-project.org/docs/manuals/) for more information.
 
----
+Help
+----
+
 For help and support, contact <users@admb-project.org>.

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: ADMB-12.2: Building Source with Visual Studio
+title: ADMB-12.2: Building Source for Windows with Visual Studio
 ---
 
-# ADMB Building Source with Visual Studio
+# ADMB Building Source for Windows with Visual Studio
 
 *ADMB-12.2*  
 *Released July 31, 2020*  
@@ -60,5 +60,7 @@ Building Source
 
    Read [manuals](http://www.admb-project.org/docs/manuals/) for more information.
 
----
+Help
+----
+
 For help and support, contact <users@admb-project.org>.

@@ -53,5 +53,7 @@ Quick Start
 
    Read [manuals](http://www.admb-project.org/docs/manuals/) for more information.
 
----
+Help
+----
+
 For help and support, contact <users@admb-project.org>.
