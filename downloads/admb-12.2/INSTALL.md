@@ -3,10 +3,9 @@ layout: default
 title: ADMB-12.2: Installation Procedures
 ---
 
-ADMB Project  
-============
+ADMB-12.2
+=========
 
-*ADMB-12.2*  
 *Released July 31, 2020*  
 
 ADMB Installation procedures
