@@ -25,11 +25,11 @@ Quick Start
 
 1. **Download**
 
-   Download linux ZIP file [admb-12.2-linux.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-linux.zip).
+   Download [admb-12.2-linux.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-linux.zip) or [admb-12.2-linux-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-linux-debug.zip) with debugging symbols.
 
 2. **Install**
 
-   Open a **Terminal**, then use the command below to extract contents of downloaded zip file to _~/admb/_. 
+   Open a **Terminal**, then use the command below to extract contents of downloaded zip file to _~/admb-12.2/_. 
 
    ```
    [~]$ unzip admb-12.2-linux.zip
@@ -42,19 +42,19 @@ Quick Start
    Change to simple example directory.       
 
    ```
-   [~]$ cd ~/admb/examples/admb/simple
+   [~]$ cd ~/admb-12.2/examples/admb/simple
    ```
 
    Build simple example.
 
    ```
-   [~/admb/examples/admb/simple/]$ ~/admb/admb simple.tpl
+   [~/admb-12.2/examples/admb/simple/]$ ~/admb-12.2/admb simple.tpl
    ```
 
    Run simple example.
 
    ```
-   [~/admb/examples/admb/simple/]$ ./simple
+   [~/admb-12.2/examples/admb/simple/]$ ./simple
    ```
 
    Read [manuals](http://www.admb-project.org/docs/manuals/) for more information.

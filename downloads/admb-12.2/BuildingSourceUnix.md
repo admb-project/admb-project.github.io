@@ -40,7 +40,7 @@ Building Source
 
    Open a **Terminal** window
 
-   Use the command below to extract contents of zip file to _~/admb/_. 
+   Use the command below to extract contents of zip file to _~/admb-12.2/_. 
 
    ```
    [~]$ unzip admb-12.2-src.zip
@@ -60,13 +60,13 @@ Building Source
    Change to admb directory.
 
    ```
-   [~]$ cd admb
+   [~]$ cd admb-12.2
    ```
 
    To build ADMB, use the commands below.
    
    ```
-   [~/admb/]$ make
+   [~/admb-12.2/]$ make
    ```
 
    _**Note**_ &mdash; When the build is completed, **~/admb/build/admb/** is the binary distribution directory.
@@ -78,7 +78,7 @@ Building Source
    Build examples
 
    ```
-   [~/admb/]$ make --directory=examples all
+   [~/admb-12.2/]$ make --directory=examples all
    ```
 
 4. _**Optional**_ &mdash; Multi-User Installation    
@@ -86,15 +86,15 @@ Building Source
    Installs binary distribution folder to /usr/local/ as super-user.
 
    ```
-   [~/admb/]$ sudo make install
+   [~/admb-12.2/]$ sudo make install
    ```
 
    Build and run the simple example without the directory prefix.
 
    ```
-   [~/admb/]$ cd examples/admb/simple
-   [~/admb/examples/admb/simple/]$ admb simple.tpl
-   [~/admb/examples/admb/simple/]$ ./simple
+   [~/admb-12.2/]$ cd examples/admb/simple
+   [~/admb-12.2/examples/admb/simple/]$ admb simple.tpl
+   [~/admb-12.2/examples/admb/simple/]$ ./simple
    ```
 
    _If unable to build simple example, then use the Manual Installation below._
@@ -104,7 +104,7 @@ Building Source
    Copy binary distribution folder to /usr/local/ as super-user.
 
    ```
-   [~/admb/]$ sudo cp -Rvf build/dist /usr/local/admb
+   [~/admb-12.2/]$ sudo cp -Rvf build/admb /usr/local/admb-12.2
    ```
 
    _**Note**_ &mdash; The dist folder can be copied to other computers with similar configurations.
@@ -112,7 +112,7 @@ Building Source
    Create symlink to main admb script.  Directory **/usr/local/bin/** should already exist.
 
    ```
-   [~/admb/]$ sudo ln -sf /usr/local/admb/admb /usr/local/bin/admb
+   [~/admb-12.2/]$ sudo ln -sf /usr/local/admb-12.2/admb /usr/local/bin/admb
    ```
 
    Read [manuals](http://www.admb-project.org/docs/manuals/) for more information.

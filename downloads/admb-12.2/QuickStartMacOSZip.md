@@ -3,12 +3,12 @@ layout: default
 title: ADMB-12.2: Quick Start MacOS
 ---
 
-# ADMB Quick Start MacOS
+# ADMB Quick Start MacOS from zip
 
 *ADMB-12.2*  
 *Released July 31, 2020*  
 
-Describe downloading, installing and using ADMB from binary release for MacOS.
+Using ADMB zip release for MacOS, describe downloading, installing and using ADMB.
 
 ---
 
@@ -19,11 +19,11 @@ Quick Start
 
 1. **Download**
 
-   Download zip file [admb-12.2-macos.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.zip).
+   Download [admb-12.2-macos.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.zip) or [admb-12.2-macos-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos-debug.zip) with debugging symbols.
 
 2. **Install**
 
-   Open a Terminal, then use the command below to extract contents of zip file to **~/admb/**. 
+   Open a Terminal, then use the command below to extract contents of zip file to **~/admb-12.2/**. 
 
    ```
    [~]$ unzip admb-12.2-macos.zip
@@ -36,19 +36,19 @@ Quick Start
    Change to simple example directory.       
 
    ```
-   [~]$ cd ~/admb/examples/admb/simple
+   [~]$ cd ~/admb-12.2/examples/admb/simple
    ```
 
    Build simple example.
 
    ```
-   [~/admb/examples/admb/simple/]$ ~/admb/admb simple.tpl
+   [~/admb-12.2/examples/admb/simple/]$ ~/admb-12.2/admb simple.tpl
    ```
 
    Run simple example.
 
    ```
-   [~/admb/examples/admb/simple/]$ ./simple
+   [~/admb-12.2/examples/admb/simple/]$ ./simple
    ```
 
    Read [manuals](http://www.admb-project.org/docs/manuals/) for more information.

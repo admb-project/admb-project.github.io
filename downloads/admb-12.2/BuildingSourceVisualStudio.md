@@ -21,7 +21,7 @@ Building Source
 
    Download source distribution [admb-12.2-src.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-src.zip).
 
-   Double click downloaded zip file and extract admb directory to **C:\\admb\\>**.
+   Double click downloaded zip file and extract admb directory to **C:\\admb-12.2\\>**.
 
 2. **Build**
 
@@ -38,13 +38,13 @@ Building Source
    Change to admb directory.
 
    ```
-   C:\> cd admb
+   C:\> cd admb-12.2
    ```
 
    To build ADMB, use the command below.
 
    ```
-   C:\admb\> nmake
+   C:\admb-12.2\> nmake
    ```
 
 3. **Test**
@@ -54,8 +54,8 @@ Building Source
    Build examples
 
    ```
-   C:\admb\> cd examples
-   C:\admb\examples\> nmake all
+   C:\admb-12.2\> cd examples
+   C:\admb-12.2\examples\> nmake all
    ```
 
    Read [manuals](http://www.admb-project.org/docs/manuals/) for more information.
