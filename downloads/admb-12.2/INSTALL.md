@@ -15,15 +15,15 @@ Installation
 
 **Windows**
 
-  Read [QuickStartWindows](QuickStartWindows.html).  
+Read [QuickStartWindows](QuickStartWindows.html).  
 
 **MacOS**
 
-  Read [QuickStartADMBTerminal](QuickStartADMBTerminal.html).
+Read [QuickStartADMBTerminal](QuickStartADMBTerminal.html).
 
 **Linux**
 
-  Read [QuickStartLinux](QuickStartLinux.html).
+Read [QuickStartLinux](QuickStartLinux.html).
 
 
 For all others, read the building source procedures below.
@@ -33,11 +33,11 @@ Building Source
 
 **Windows**
 
-  To build with Windows and Visual Studio, read the [BuildingSourceVisualStudio](BuildingSourceVisualStudio.html).   
+To build with Windows and Visual Studio, read [BuildingSourceVisualStudio](BuildingSourceVisualStudio.html).   
 
 **Unix**
 
-  For Linux, MacOS, Solaris BSD and Windows with Msys2, read the [BuildingSourceUnix](BuildingSourceUnix.html).
+For Linux, MacOS, Solaris BSD and Windows with Msys2, read [BuildingSourceUnix](BuildingSourceUnix.html).
 
 Help
 ----
