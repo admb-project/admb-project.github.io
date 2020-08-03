@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Archives
+title: Releases
 ---
 
-ADMB Archives
+ADMB Releases
 -------------
 
-Links to older versions of ADMB.
+[ADMB-12.2](http://www.admb-project.org/downloads/admb-12.2/)
+: For ADMB-12.2
 
 [ADMB-12.1](http://www.admb-project.org/downloads/admb-12.1/)
 : For ADMB-12.1
