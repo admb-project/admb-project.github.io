@@ -38,7 +38,7 @@ Download Self Extracting File ([admb-12.2-win64.exe](https://github.com/admb-pro
 Download Zip File ([admb-12.2-win64.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-win64.zip)).
 
 
-Read [Quick Start for Windows](admb-12.2/QuickStartWindows.md)
+Read [Quick Start for Windows](QuickStartWindows.md)
 
 **MacOS**
   
@@ -48,7 +48,7 @@ Download [admb-12.2-macos.dmg](https://github.com/admb-project/admb/releases/dow
 
 Download zip [admb-12.2-macos.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.zip) or [admb-12.2-macos-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos-debug.zip) with debugging symbols.
 
-Read [Quick Start for MacOS](admb-12.2/QuickStartADMBTerminal.md) to install and use ADMB.
+Read [Quick Start for MacOS](QuickStartADMBTerminal.md) to install and use ADMB.
 
 _Note: ADMBTerminal will have to be allowed in the MacOS Security & Privacy._
 
@@ -58,7 +58,7 @@ _Supported Linux Distributions: RedHat 7 and Ubuntu 18_
 
 Download [admb-12.2pre3-linux.zip](https://github.com/admb-project/admb/releases/download/admb-12.2pre3/admb-12.2pre3-linux.zip) or [admb-12.2pre3-linux-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2pre3/admb-12.2pre3-linux-debug.zip) with debug symbols.
 
-Read [Quick Start for Unix](admb-12.2/QuickStartLinux.md) to install and use ADMB.
+Read [Quick Start for Unix](QuickStartLinux.md) to install and use ADMB.
 
 **Source**
 
