@@ -20,7 +20,8 @@ Additional documentation in the [manuals](http://www.admb-project.org/docs/manua
 
 AD Model Builder (ADMB) is free software, released under the [BSD License](https://raw.githubusercontent.com/admb-project/admb/admb-12.2/LICENSE.txt).
 
-**AD Studio**
+AD Studio
+---------
 
 AD Studio is an easy and efficient user interface. It bundles ADMB with C++ compiler and dedicated ADMB editor.
 
@@ -29,13 +30,15 @@ Download lastest release installer [adstudio-10.exe](https://github.com/admb-pro
 
 Read manual [adstudio-10.pdf](https://github.com/admb-project/adstudio/releases/download/1.0/adstudio-10.pdf)
 
-**Windows**
+Windows
+-------
 
 _Supported Windows C++ 64-Bit Compilers: Rtools 3.5, Rtools 4.0, Msys2 and Microsoft Visual Studio 2015, 2017 and 2019._
 
 Download installer [admb-12.2-win64.exe](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-win64.exe) or zip file ([admb-12.2-win64.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-win64.zip)), then read [Quick Start for Windows](QuickStartWindows.md).
 
-**MacOS**
+MacOS
+-----
   
 _Supported MacOS Version: Catalina and XCode 11 with command line tools installed._
 
@@ -44,15 +47,17 @@ Download [admb-12.2-macos.dmg](https://github.com/admb-project/admb/releases/dow
 For command line only installation, download zip [admb-12.2-macos.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.zip) or [admb-12.2-macos-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos-debug.zip) with debugging symbols, then read [Quick Start for MacOS with Zip](QuickStartMacOSZip.md).
 
 
-> **Note** &mdash; ADMBTerminal will have to be allowed in the MacOS Security & Privacy._
+**Note** &mdash; ADMBTerminal will have to be allowed in the MacOS Security & Privacy._
 
-**Linux**
+Linux
+-----
 
 _Supported Linux Distributions: RedHat 7 and Ubuntu 18_
 
 Download [admb-12.2pre3-linux.zip](https://github.com/admb-project/admb/releases/download/admb-12.2pre3/admb-12.2pre3-linux.zip) or [admb-12.2pre3-linux-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2pre3/admb-12.2pre3-linux-debug.zip) with debug symbols, then read [Quick Start for Linux](QuickStartLinux.md).
 
-**Source**
+Source
+------
 
 The src distribution is available for building the ADMB libraries from source code.
 
