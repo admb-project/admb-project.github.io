@@ -48,7 +48,7 @@ Linux
 
 _Supported Linux Distributions: RedHat 7 and Ubuntu 18_
 
-Download [admb-12.2pre3-linux.zip](https://github.com/admb-project/admb/releases/download/admb-12.2pre3/admb-12.2pre3-linux.zip) or [admb-12.2pre3-linux-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2pre3/admb-12.2pre3-linux-debug.zip) with debug symbols, then read [Quick Start for Linux](QuickStartLinux.md).
+Download [admb-12.2-linux.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-linux.zip) or [admb-12.2-linux-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-linux-debug.zip) with debug symbols, then read [Quick Start for Linux](QuickStartLinux.md).
 
 Source
 ------
