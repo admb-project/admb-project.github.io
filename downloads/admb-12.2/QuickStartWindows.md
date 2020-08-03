@@ -1,9 +1,9 @@
 ---
 layout: default
-title: ADMB-12.2: Quick Start Windows from Zip
+title: ADMB-12.2: Quick Start Windows
 ---
 
-# ADMB Quick Start Windows from Zip
+# ADMB Quick Start Windows
 
 *ADMB-12.2*  
 *Released July 31, 2020*
@@ -12,10 +12,10 @@ Describe downloading, installing and using ADMB from binary release for Windows.
 
 ---
 
+> **Alternative** &mdash; To install from zip file, read [QuickStartWindowsZip](QuickStartWindowsZip.html).
+
 Quick Start
 -----------
-
-> **Note** &mdash; To install from zip file, read [QuickStartWindowsZip](QuickStartWindowsZip.html).
 
 1. **Download**
 
@@ -51,7 +51,7 @@ Quick Start
 
    Read [manuals](http://www.admb-project.org/docs/manuals/) for more information.
 
-4. **Configure PATH** Optional
+4. _Optional_ &mdash; **Configure PATH**
 
    An alternative to using the **ADMB-12.2 Command Prompt** is to add the ADMB directories **C:\ADMB-12.2\bin** and **C:\ADMB-12.2\utilities** to the system enviroment **PATH** variable.  This will allow admb to be used in every **Windows Command Prompt**.
 

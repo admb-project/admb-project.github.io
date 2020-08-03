@@ -19,7 +19,7 @@ Quick Start
 
 1. **Download**
 
-   Download [admb-12.2-windows.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-windows.zip) or [admb-12.2-windows-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-windows-debug.zip).
+   Download [admb-12.2-windows.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-windows.zip) or [admb-12.2-windows-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-windows-debug.zip) with debugging symbols.
 
 2. **Install**
 
@@ -47,7 +47,7 @@ Quick Start
 
    Read [manuals](http://www.admb-project.org/docs/manuals/) for more information.
 
-4. **Configure PATH** &mdash; _Optional_
+4. _Optional_ &mdash; **Configure PATH**
 
    Add the ADMB directories **C:\ADMB-12.2\bin** and **C:\ADMB-12.2\utilities** to the system enviroment **PATH** variable.  This will allow admb to be used in every **Windows Command Prompt**.
 

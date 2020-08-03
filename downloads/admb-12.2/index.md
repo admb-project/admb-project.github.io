@@ -55,7 +55,7 @@ Source
 
 If binaries are not available for a operating system or compiler, the src distribution is available for building the ADMB libraries from source code.
 
-Download [admb-12.2-src.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-src.zip), then read build procedures for [Unix](admb-12.2/BuildingSourceUnix.md) or [Windows with Visual Studio](admb-12.2/BuildingSourceVisualStudio.md).
+Download [admb-12.2-src.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-src.zip), then read build procedures for [Unix](BuildingSourceUnix.md) or [Windows with Visual Studio](BuildingSourceVisualStudio.md).
 
 Help
 ----
