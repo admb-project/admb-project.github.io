@@ -6,17 +6,9 @@ title: ADMB-12.2: Downloads
 ADMB-12.2 Downloads
 -------------------
 
-ADMB-12.2 was released on July 31, 2020.
+ADMB-12.2 was released on July 31, 2020.  Read [announcement](http://www.admb-project.org/2020/01/31/ADMB-12.2-release.html).  Downloads are [available](https://github.com/admb-project/admb/releases/tag/admb-12.2/) on the ADMB GitHub project site.  [Archives](http://www.admb-project.org/downloads/archives.html) has links to previous ADMB versions.
 
-Binary releases will available for Windows, MacOS and Linux next week.
-
-Additional downloads are [available](https://github.com/admb-project/admb/releases/tag/admb-12.2/) on the ADMB GitHub project site.  The [archives](http://www.admb-project.org/downloads/archives.html) has links to previous ADMB versions.
-
-Read the [announcement](http://www.admb-project.org/2020/01/31/ADMB-12.2-release.html) and other [ADMB News](http://www.admb-project.org/news/).
-
-Read the release [changes](https://github.com/admb-project/admb/blob/admb-12.2/CHANGES.md).
-
-Additional documentation in the [manuals](http://www.admb-project.org/docs/manuals/).
+Read the [changes](https://github.com/admb-project/admb/blob/admb-12.2/CHANGES.md) for the release.  Additional documentation in the [manuals](http://www.admb-project.org/docs/manuals/).
 
 AD Model Builder (ADMB) is free software, released under the [BSD License](https://raw.githubusercontent.com/admb-project/admb/admb-12.2/LICENSE.txt).
 
@@ -47,7 +39,7 @@ Download [admb-12.2-macos.dmg](https://github.com/admb-project/admb/releases/dow
 For command line only installation, download zip [admb-12.2-macos.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.zip) or [admb-12.2-macos-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos-debug.zip) with debugging symbols, then read [Quick Start for MacOS with Zip](QuickStartMacOSZip.md).
 
 
-**Note** &mdash; ADMBTerminal will have to be allowed in the MacOS Security & Privacy._
+**Note** &mdash; ADMBTerminal will have to be allowed in the MacOS Security & Privacy.
 
 Linux
 -----
