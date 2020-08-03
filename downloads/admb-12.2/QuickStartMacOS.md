@@ -3,7 +3,7 @@ layout: default
 title: ADMB-12.2: Quick Start for ADMB Terminal
 ---
 
-# ADMB Quick Start MacOS and ADMBTerminal
+# ADMB Quick Start MacOS
 
 *ADMB-12.2*  
 *Released July 31, 2020*  
@@ -23,7 +23,7 @@ To install or update command line tools, use the command below in the MacOS Term
 Quick Start
 -----------
 
-> Note: To install from zip file, read [QuickStartMacOSZip](QuickStartMacOSZip.html).
+> **Note** &mdash; To install from zip file, read [QuickStartMacOSZip](QuickStartMacOSZip.html).
 
 1. **Download**
 

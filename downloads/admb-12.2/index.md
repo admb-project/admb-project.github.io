@@ -50,7 +50,7 @@ Download zip [admb-12.2-macos.zip](https://github.com/admb-project/admb/releases
 
 Read [Quick Start for MacOS](QuickStartMacOS.md) to install and use ADMB.
 
-_Note: ADMBTerminal will have to be allowed in the MacOS Security & Privacy._
+> **Note** &mdash; ADMBTerminal will have to be allowed in the MacOS Security & Privacy._
 
 **Linux**
 
