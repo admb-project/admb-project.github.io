@@ -19,14 +19,13 @@ Read the [QuickStartWindows](QuickStartWindows.html).
 
 **MacOS**
 
-_Recommended_ &mdash; To install using dmg file, read the [QuickStartADMBTerminal](QuickStartADMBTerminal.html).
+_Recommended_ &mdash; To install MacOS ADMB Terminal application, read the [QuickStartADMBTerminal](QuickStartADMBTerminal.html).
 
-To install using zip file for command line only, read the [QuickStartMacOSZip](QuickStartMacOSZip.html).
+To install on a command line, read the [QuickStartMacOSZip](QuickStartMacOSZip.html).
 
-**Unix**
+**Linux**
 
-Read the [QuickStartUnix](QuickStartUnix.html).
-
+Read the [QuickStartLinux](QuickStartLinux.html).
 
 For all others, read the building source procedures below.
 

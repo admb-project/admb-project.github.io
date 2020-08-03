@@ -1,9 +1,9 @@
 ---
 layout: default
-title: ADMB-12.2: Quick Start Unix
+title: ADMB-12.2: Quick Start Linux
 ---
 
-# ADMB Quick Start Unix
+# ADMB Quick Start Linux
 
 *ADMB-12.2*  
 *Released July 31, 2020*  
