@@ -81,7 +81,7 @@ Building Source
    [~/admb-12.2/]$ make --directory=examples all
    ```
 
-4. _**Optional**_ &mdash; Multi-User Installation    
+4. _Optional_ &mdash; **Multi-User Installation**    
 
    Installs binary distribution folder to /usr/local/ as super-user.
 
