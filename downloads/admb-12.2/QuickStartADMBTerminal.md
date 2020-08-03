@@ -23,9 +23,11 @@ To install or update command line tools, use the command below in the MacOS Term
 Quick Start
 -----------
 
+> Note: To install from zip file, read [QuickStartMacOSZip](QuickStartMacOSZip.html).
+
 1. **Download**
 
-   Download ADMBTerminal app [admb-12.2-ADMBTerminal-macos.dmg](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-ADMBTerminal-macos.dmg).
+   Download [admb-12.2-ADMBTerminal-macos.dmg](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-ADMBTerminal-macos.dmg).
 
 2. **Install**
 
