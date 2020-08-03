@@ -19,7 +19,7 @@ Quick Start
 
    Download installer [admb-12.2-windows.exe](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-windows.exe).
 
-   _**Note**_ &mdash; Installer includes MinGW-w64 C++ compiler.
+   > _**Note**_ &mdash; Installer includes MinGW-w64 C++ compiler.
 
 2. **Install**
 

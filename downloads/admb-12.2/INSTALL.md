@@ -19,7 +19,7 @@ Read [QuickStartWindows](QuickStartWindows.html).
 
 **MacOS**
 
-Read [QuickStartADMBTerminal](QuickStartADMBTerminal.html).
+Read [QuickStartMacOS](QuickStartMacOS.html).
 
 **Linux**
 

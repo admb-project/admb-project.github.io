@@ -48,7 +48,7 @@ Download [admb-12.2-macos.dmg](https://github.com/admb-project/admb/releases/dow
 
 Download zip [admb-12.2-macos.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.zip) or [admb-12.2-macos-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos-debug.zip) with debugging symbols.
 
-Read [Quick Start for MacOS](QuickStartADMBTerminal.md) to install and use ADMB.
+Read [Quick Start for MacOS](QuickStartMacOS.md) to install and use ADMB.
 
 _Note: ADMBTerminal will have to be allowed in the MacOS Security & Privacy._
 
