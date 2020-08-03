@@ -39,6 +39,10 @@ Quick Start
 
    Drag examples folder from mounted disk image to home directory.
 
+   Double click **ADMBTerminal** from **/Applications**.
+
+   In the ADMBTerminal, follow the step below:
+
    Change to the simple example directory.
 
    ```
