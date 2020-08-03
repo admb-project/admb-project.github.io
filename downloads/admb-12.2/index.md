@@ -29,7 +29,7 @@ Windows
 
 _Supported Windows C++ 64-Bit Compilers: Rtools 3.5, Rtools 4.0, Msys2 and Microsoft Visual Studio 2015, 2017 and 2019._
 
-Download installer [admb-12.2-win64.exe](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-win64.exe) or zip file ([admb-12.2-win64.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-win64.zip)), then read [Quick Start for Windows](QuickStartWindows.md).
+Download installer [admb-12.2-win64.exe](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-win64.exe) or zip file [admb-12.2-win64.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-win64.zip), then read [Quick Start for Windows](QuickStartWindows.md).
 
 MacOS
 -----
