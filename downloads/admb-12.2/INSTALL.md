@@ -15,17 +15,16 @@ Installation
 
 **Windows**
 
-Read the [QuickStartWindows](QuickStartWindows.html).  
+  Read [QuickStartWindows](QuickStartWindows.html).  
 
 **MacOS**
 
-_Recommended_ &mdash; To install MacOS ADMB Terminal application, read the [QuickStartADMBTerminal](QuickStartADMBTerminal.html).
-
-To install on a command line, read the [QuickStartMacOSZip](QuickStartMacOSZip.html).
+  Read [QuickStartADMBTerminal](QuickStartADMBTerminal.html).
 
 **Linux**
 
-Read the [QuickStartLinux](QuickStartLinux.html).
+  Read [QuickStartLinux](QuickStartLinux.html).
+
 
 For all others, read the building source procedures below.
 
@@ -34,11 +33,11 @@ Building Source
 
 **Windows**
 
-To build with Windows and Visual Studio, read the [BuildingSourceVisualStudio](BuildingSourceVisualStudio.html).   
+  To build with Windows and Visual Studio, read the [BuildingSourceVisualStudio](BuildingSourceVisualStudio.html).   
 
 **Unix**
 
-For Unix (Linux, MacOS, Solaris and BSD) computers, read the [BuildingSourceUnix](BuildingSourceUnix.html).
+  For Linux, MacOS, Solaris BSD and Windows with Msys2, read the [BuildingSourceUnix](BuildingSourceUnix.html).
 
 Help
 ----
