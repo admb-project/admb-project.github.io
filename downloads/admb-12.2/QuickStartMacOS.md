@@ -27,7 +27,7 @@ Quick Start
 
 1. **Download**
 
-   Download [admb-12.2-ADMBTerminal-macos.dmg](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-ADMBTerminal-macos.dmg).
+   Download [admb-12.2-macos.dmg](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.dmg).
 
 2. **Install**
 
