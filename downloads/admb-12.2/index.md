@@ -3,14 +3,14 @@ layout: default
 title: ADMB-12.2: Downloads
 ---
 
-Downloads ADMB-12.2
+ADMB-12.2 Downloads
 -------------------
 
 ADMB-12.2 was released on July 31, 2020.
 
 Binary releases will available for Windows, MacOS and Linux next week.
 
-Additional downloads are [available](https://github.com/admb-project/admb/releases/tag/admb-12.2/) on the ADMB GitHub project site.
+Additional downloads are [available](https://github.com/admb-project/admb/releases/tag/admb-12.2/) on the ADMB GitHub project site.  The [archives](http://www.admb-project.org/downloads/archives.html) has links to previous ADMB versions.
 
 Read the [announcement](http://www.admb-project.org/2020/01/31/ADMB-12.2-release.html) and other [ADMB News](http://www.admb-project.org/news/).
 
@@ -33,11 +33,12 @@ Read manual [adstudio-10.pdf](https://github.com/admb-project/adstudio/releases/
 
 _Supported Windows C++ 64-Bit Compilers: Rtools 3.5, Rtools 4.0, Msys2 and Microsoft Visual Studio 2015, 2017 and 2019._
 
-Download Zip File ([admb-12.2-win64.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-win64.zip))
-
 Download Self Extracting File ([admb-12.2-win64.exe](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-win64.exe))
 
-Read [Quick Start for Windows](https://github.com/admb-project/admb/blob/admb-12.2/docs/install/QuickStartWindows.md)
+Download Zip File ([admb-12.2-win64.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-win64.zip)).
+
+
+Read [Quick Start for Windows](admb-12.2/QuickStartWindows.md)
 
 **MacOS**
   
@@ -47,20 +48,17 @@ Download [admb-12.2-macos.dmg](https://github.com/admb-project/admb/releases/dow
 
 Download zip [admb-12.2-macos.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.zip) or [admb-12.2-macos-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos-debug.zip) with debugging symbols.
 
-Read [Quick Start for MacOS](https://github.com/admb-project/admb/blob/admb-12.2/scripts/installers/packagemaker/QuickStartADMBTerminal.md) to install and use ADMB.
+Read [Quick Start for MacOS](admb-12.2/QuickStartADMBTerminal.md) to install and use ADMB.
 
 _Note: ADMBTerminal will have to be allowed in the MacOS Security & Privacy._
 
-<!--
 **Linux**
 
 _Supported Linux Distributions: RedHat 7 and Ubuntu 18_
 
 Download [admb-12.2pre3-linux.zip](https://github.com/admb-project/admb/releases/download/admb-12.2pre3/admb-12.2pre3-linux.zip) or [admb-12.2pre3-linux-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2pre3/admb-12.2pre3-linux-debug.zip) with debug symbols.
 
-Read [Quick Start for Unix](https://github.com/admb-project/admb/blob/admb-12.2/docs/install/QuickStartUnix.md) to install and use ADMB.
-
--->
+Read [Quick Start for Unix](admb-12.2/QuickStartUnix.md) to install and use ADMB.
 
 **Source**
 
@@ -68,15 +66,7 @@ The source distribution is available for building the ADMB libraries from scratc
 
 Download [admb-12.2-src.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-src.zip).
 
-To build ADMB, read procedures for [Unix](https://github.com/admb-project/admb/blob/admb-12.2/docs/install/BuildingSourceUnix.md) and [Windows and Visual Studio](https://github.com/admb-project/admb/blob/admb-12.2/docs/install/BuildingSourceVisualStudio.md).
-
-**Previous Versions**
-
-The [archives](http://www.admb-project.org/downloads/archives.html) has links to previous versions of ADMB software.
-
-Statistics
-----------
-See [Download Counts](http://www.admb-project.org/downloads/counts.html)
+To build ADMB, read procedures for [Unix](admb-12.2/BuildingSourceUnix.md) and [Windows and Visual Studio](admb-12.2/BuildingSourceVisualStudio.md).
 
 Help
 ----
