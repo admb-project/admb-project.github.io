@@ -1,9 +1,9 @@
 ---
 layout: default
-title: ADMB-12.2: Quick Start Windows
+title: ADMB-12.2: Quick Start Windows from Zip
 ---
 
-# ADMB Quick Start Windows
+# ADMB Quick Start Windows from Zip
 
 *ADMB-12.2*  
 *Released July 31, 2020*
@@ -14,6 +14,8 @@ Describe downloading, installing and using ADMB from binary release for Windows.
 
 Quick Start
 -----------
+
+> **Note** &mdash; To install from zip file, read [QuickStartWindowsZip](QuickStartWindowsZip.html).
 
 1. **Download**
 
