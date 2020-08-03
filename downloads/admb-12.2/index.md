@@ -6,9 +6,9 @@ title: ADMB-12.2: Downloads
 ADMB-12.2 Downloads
 -------------------
 
-ADMB-12.2 was released on July 31, 2020.  Read [announcement](http://www.admb-project.org/2020/01/31/ADMB-12.2-release.html).  
+ADMB-12.2 was released on July 31, 2020.  Read [announcement](http://www.admb-project.org/2020/07/31/ADMB-12.2-release.html).  
 
-Downloads are [available](https://github.com/admb-project/admb/releases/tag/admb-12.2/) on the ADMB GitHub project site.  Previous version of ADMB can be found in the [Archives](http://www.admb-project.org/downloads/archives.html).
+Downloads are [available](https://github.com/admb-project/admb/releases/tag/admb-12.2/) on the ADMB GitHub project site.  Previous version of ADMB can be found in the [archives](http://www.admb-project.org/downloads/archives.html).
 
 Read the [changes](https://github.com/admb-project/admb/blob/admb-12.2/CHANGES.md) for the release.  Additional documentation are in the [manuals](http://www.admb-project.org/docs/manuals/).
 
