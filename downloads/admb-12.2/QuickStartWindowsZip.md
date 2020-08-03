@@ -12,7 +12,7 @@ Describe downloading, installing and using ADMB from binary zip release for Wind
 
 ---
 
-**Prerequisite** &mdash; Installed Supported C++ Compiler: Rtools 3.5, Rtools 4.0, Msys2 and Microsoft Visual Studio 2015, 2017 and 2019.
+**Prerequisite** &mdash; Installed a supported C++ compiler: [Rtools 3.5](https://cran.r-project.org/bin/windows/Rtools/history.html), [Rtools 4.0](https://cran.r-project.org/bin/windows/Rtools/), [Msys2](https://www.msys2.org) or Microsoft Visual Studio 2015, 2017 and 2019.
 
 Quick Start
 -----------
