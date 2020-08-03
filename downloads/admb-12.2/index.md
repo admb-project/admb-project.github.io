@@ -58,7 +58,7 @@ _Supported Linux Distributions: RedHat 7 and Ubuntu 18_
 
 Download [admb-12.2pre3-linux.zip](https://github.com/admb-project/admb/releases/download/admb-12.2pre3/admb-12.2pre3-linux.zip) or [admb-12.2pre3-linux-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2pre3/admb-12.2pre3-linux-debug.zip) with debug symbols.
 
-Read [Quick Start for Unix](QuickStartLinux.md) to install and use ADMB.
+Read [Quick Start for Lnix](QuickStartLinux.md) to install and use ADMB.
 
 **Source**
 
