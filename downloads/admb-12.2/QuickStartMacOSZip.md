@@ -1,18 +1,24 @@
 ---
 layout: default
-title: ADMB-12.2: Quick Start MacOS
+title: ADMB-12.2: Quick Start MacOS from Zip
 ---
 
-# ADMB Quick Start MacOS from zip
+# ADMB Quick Start MacOS from Zip
 
 *ADMB-12.2*  
 *Released July 31, 2020*  
 
-Using ADMB zip release for MacOS, describe downloading, installing and using ADMB.
+Describe describe downloading, installing and using ADMB from Zip release.
 
 ---
 
-**Prerequisite** &mdash; [Apple Developer Tools (XCode)](https://developer.apple.com/xcode/) must be installed.
+**Prerequisite** &mdash; [Apple Developer Tools (XCode)](https://developer.apple.com/xcode/) must be installed with the command line tools.
+
+To install or update command line tools, use the command below in the MacOS Terminal, then click "Install" button in the window.
+
+```
+[~]% xcode-select --install
+```
 
 Quick Start
 -----------

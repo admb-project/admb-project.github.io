@@ -12,7 +12,7 @@ Describe downloading, installing and using ADMBTerminal from binary release for 
 
 ---
 
-**Prerequisite** &mdash; [Apple Developer Tools (XCode)](https://developer.apple.com/xcode/) and the command line tools must be installed.
+**Prerequisite** &mdash; [Apple Developer Tools (XCode)](https://developer.apple.com/xcode/) must be installed with the command line tools.
 
 To install or update command line tools, use the command below in the MacOS Terminal, then click "Install" button in the window.
 
