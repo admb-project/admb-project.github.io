@@ -25,7 +25,7 @@ Quick Start
 
    Download [admb-12.2-macos.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.zip).
 
-   To use a debugger to test and debug admb programs and core libraries, download [admb-12.2-macos-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos-debug.zip) with debugging symbols. Since using the debug libraries will result in slower runs, it is only recommended for troubleshooting and debugging code. 
+   To test and debug admb programs using a debugger, download [admb-12.2-macos-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos-debug.zip) with debugging symbols. Since using the debug libraries will result in slower runs, it is only recommended for troubleshooting and debugging code. 
 
 2. **Install**
 
