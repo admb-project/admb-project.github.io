@@ -27,7 +27,7 @@ Quick Start
 
    Download [admb-12.2-linux.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-linux.zip).
 
-   For developers and users using a debugger to examine admb core libraries should download [admb-12.2-linux-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-linux-debug.zip) with debugging symbols.  Since using the debug libraries will result in slower runs, it is only recommended for troubleshooting and debugging code. 
+   To use a debugger to examine admb programs and core libraries, download [admb-12.2-linux-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-linux-debug.zip) with debugging symbols.  Since using the debug libraries will result in slower runs, it is only recommended for troubleshooting and debugging code. 
 
 2. **Install**
 
