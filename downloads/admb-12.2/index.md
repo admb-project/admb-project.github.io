@@ -37,18 +37,16 @@ MacOS
 _Supported MacOS Version: Catalina and XCode 11 with command line tools installed._
 
 Download [admb-12.2-macos.dmg](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.dmg), then read [Quick Start for MacOS](QuickStartMacOS.md).
+> **Note** &mdash; ADMBTerminal will have to be allowed in the MacOS Security & Privacy.
 
-For command line only installation, download zip [admb-12.2-macos.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.zip) or [admb-12.2-macos-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos-debug.zip) with debugging symbols, then read [Quick Start for MacOS with Zip](QuickStartMacOSZip.md).
-
-
-**Note** &mdash; ADMBTerminal will have to be allowed in the MacOS Security & Privacy.
+For command line only installation, download zip [admb-12.2-macos.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.zip), then read [Quick Start for MacOS with Zip](QuickStartMacOSZip.md).
 
 Linux
 -----
 
 _Supported Linux Distributions: RedHat 7 and Ubuntu 18_
 
-Download [admb-12.2-linux.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-linux.zip) or [admb-12.2-linux-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-linux-debug.zip) with debug symbols, then read [Quick Start for Linux](QuickStartLinux.md).
+Download [admb-12.2-linux.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-linux.zip), then read [Quick Start for Linux](QuickStartLinux.md).
 
 Source
 ------
