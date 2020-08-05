@@ -6,11 +6,11 @@ title: ADMB-12.2: Downloads
 ADMB-12.2 Downloads
 -------------------
 
-ADMB-12.2 was released on July 31, 2020.  Read [announcement](http://www.admb-project.org/2020/07/31/ADMB-12.2-release.html).  
+ADMB-12.2 was released on July 31, 2020.
 
-Downloads are [available](https://github.com/admb-project/admb/releases/tag/admb-12.2/) on the ADMB GitHub project site.  Previous version of ADMB can be found in the [archives](http://www.admb-project.org/downloads/archives.html).
+Read [announcement](http://www.admb-project.org/2020/07/31/ADMB-12.2-release.html) adn [changes](https://github.com/admb-project/admb/blob/admb-12.2/CHANGES.md) for the release.  Additional documentation are in the [manuals](http://www.admb-project.org/docs/manuals/).
 
-Read the [changes](https://github.com/admb-project/admb/blob/admb-12.2/CHANGES.md) for the release.  Additional documentation are in the [manuals](http://www.admb-project.org/docs/manuals/).
+Download releases are [available](https://github.com/admb-project/admb/releases/tag/admb-12.2/) on the ADMB GitHub project site.  Previous versions of ADMB can be found in the [archives](http://www.admb-project.org/downloads/archives.html).
 
 AD Model Builder (ADMB) is free software, released under the [BSD License](https://raw.githubusercontent.com/admb-project/admb/admb-12.2/LICENSE.txt).
 
@@ -37,7 +37,6 @@ MacOS
 _Supported MacOS Version: Catalina and XCode 11 with command line tools installed._
 
 Download [admb-12.2-macos.dmg](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.dmg), then read [Quick Start for MacOS](QuickStartMacOS.md).
-> **Note** &mdash; ADMBTerminal will have to be allowed in the MacOS Security & Privacy.
 
 For command line only installation, download zip [admb-12.2-macos.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.zip), then read [Quick Start for MacOS with Zip](QuickStartMacOSZip.md).
 
