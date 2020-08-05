@@ -8,7 +8,7 @@ ADMB-12.2 Downloads
 
 ADMB-12.2 was released on July 31, 2020.
 
-Read [announcement](http://www.admb-project.org/2020/07/31/ADMB-12.2-release.html) adn [changes](https://github.com/admb-project/admb/blob/admb-12.2/CHANGES.md) for the release.  Additional documentation are in the [manuals](http://www.admb-project.org/docs/manuals/).
+Read [announcement](http://www.admb-project.org/2020/07/31/ADMB-12.2-release.html) and [changes](https://github.com/admb-project/admb/blob/admb-12.2/CHANGES.md) for the release.  Additional documentation can be found in the [manuals](http://www.admb-project.org/docs/manuals/).
 
 Download releases are [available](https://github.com/admb-project/admb/releases/tag/admb-12.2/) on the ADMB GitHub project site.  Previous versions of ADMB can be found in the [archives](http://www.admb-project.org/downloads/archives.html).
 
@@ -19,7 +19,7 @@ AD Studio
 
 AD Studio is an easy and efficient user interface. It bundles ADMB with C++ compiler and dedicated ADMB editor.
 
-Download lastest release installer [adstudio-10.exe](https://github.com/admb-project/adstudio/releases/download/1.0/adstudio-10.exe) or 
+Download latest release installer [adstudio-10.exe](https://github.com/admb-project/adstudio/releases/download/1.0/adstudio-10.exe) or 
 [adstudio-10.zip](https://github.com/admb-project/adstudio/releases/download/1.0/adstudio-10.zip).
 
 Read manual [adstudio-10.pdf](https://github.com/admb-project/adstudio/releases/download/1.0/adstudio-10.pdf)
@@ -50,7 +50,7 @@ Download [admb-12.2-linux.zip](https://github.com/admb-project/admb/releases/dow
 Source
 ------
 
-If binaries are not available for a operating system or compiler, the src distribution is available for building the ADMB libraries from source code.
+If binaries are not available for an operating system or compiler, the src distribution is available for building the ADMB libraries from source code.
 
 Download [admb-12.2-src.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-src.zip), then read build procedures for [Unix](BuildingSourceUnix.md) or [Windows with Visual Studio](BuildingSourceVisualStudio.md).
 
