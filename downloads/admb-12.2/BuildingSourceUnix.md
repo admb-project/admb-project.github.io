@@ -52,7 +52,7 @@ Building Source
    [~]$ git clone https://github.com/admb-project/admb.git
    ```
 
-   This will download latest source repository to _~/admb/_.
+   This will download the latest source repository to _~/admb/_.
 
 
 2. **Build**
@@ -97,7 +97,7 @@ Building Source
    [~/admb-12.2/examples/admb/simple/]$ ./simple
    ```
 
-   _If unable to build simple example, then use the Manual Installation below._
+   _If unable to the build simple example, then use the Manual Installation below._
 
    _**Alternative**_ &mdash; Manual Installation    
 

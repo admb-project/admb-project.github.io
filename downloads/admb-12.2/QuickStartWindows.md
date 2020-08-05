@@ -19,9 +19,7 @@ Quick Start
 
 1. **Download**
 
-   Download installer [admb-12.2-windows.exe](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-windows.exe).
-
-   > **Note** &mdash; Installer includes MinGW-w64 C++ compiler.
+   Download installer [admb-12.2-windows.exe](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-windows.exe) which includes MinGW-w64 C++ compiler from Rtools-4.0.
 
 2. **Install**
 

@@ -25,7 +25,7 @@ Quick Start
 
 2. **Install**
 
-   Open a Terminal, then use the command below to extract contents of zip file to **~/admb-12.2/**. 
+   Open a Terminal, then use the command below to extract contents of the zip file to **~/admb-12.2/**. 
 
    ```
    [~]$ unzip admb-12.2-macos.zip
@@ -35,7 +35,7 @@ Quick Start
 
    In the **Terminal** window, use the steps below to build and run the simple example.
 
-   Change to simple example directory.       
+   Change to the simple example directory.       
 
    ```
    [~]$ cd ~/admb-12.2/examples/admb/simple

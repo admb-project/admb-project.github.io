@@ -31,7 +31,7 @@ Quick Start
 
 2. **Install**
 
-   Open a **Terminal**, then use the command below to extract contents of downloaded zip file to _~/admb-12.2/_. 
+   Open a **Terminal**, then use the command below to extract contents of the downloaded zip file to _~/admb-12.2/_. 
 
    ```
    [~]$ unzip admb-12.2-linux.zip

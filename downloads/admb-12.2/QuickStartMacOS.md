@@ -51,13 +51,13 @@ Quick Start
    [~]% cd examples/admb/simple
    ```
 
-   Build the simple example.
+   Build simple example.
 
    ```
    [~/examples/admb/simple/]% admb simple
    ```
 
-   Run the simple example.
+   Run simple example.
 
    ```
    [~/examples/admb/simple/]% ./simple
