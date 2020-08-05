@@ -15,7 +15,7 @@ Describe describe downloading, installing and using ADMB from Zip release.
 **Prerequisite** &mdash; [Apple Developer Tools (XCode)](https://developer.apple.com/xcode/) must be installed with the command line tools.  To install or update command line tools, use the command below in the MacOS Terminal, then click "Install" button in the window.
 
 ```
-[~]% xcode-select --install
+[~]$ xcode-select --install
 ```
 
 Quick Start
@@ -25,7 +25,7 @@ Quick Start
 
    Download [admb-12.2-macos.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.zip).
 
-   To use a debugger to examine admb programs and core libraries, download [admb-12.2-macos-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos-debug.zip) with debugging symbols. Since using the debug libraries will result in slower runs, it is only recommended for troubleshooting and debugging code. 
+   To use a debugger to test and debug admb programs and core libraries, download [admb-12.2-macos-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos-debug.zip) with debugging symbols. Since using the debug libraries will result in slower runs, it is only recommended for troubleshooting and debugging code. 
 
 2. **Install**
 
