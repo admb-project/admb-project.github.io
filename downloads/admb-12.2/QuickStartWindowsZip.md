@@ -40,6 +40,7 @@ Quick Start
    ```
    C:\ADMB-12.2\examples\admb\simple> C:\ADMB-12.2\admb simple.tpl
    ```
+   > **Debug** &mdash; Use the admb debug option *-g* for debugging.
 
    Run simple example.
 

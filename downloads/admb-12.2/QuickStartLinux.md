@@ -53,7 +53,7 @@ Quick Start
    [~/admb-12.2/examples/admb/simple/]$ ~/admb-12.2/admb simple.tpl
    ```
 
-   > **Debugging** &mdash; To build and link with debug symbols, add debug option '-g' to command above.
+   > **Debug** &mdash; Use the admb debug option *-g* for debugging.
 
    Run simple example.
 
