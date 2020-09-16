@@ -34,11 +34,17 @@ Download installer [admb-12.2-windows.exe](https://github.com/admb-project/admb/
 MacOS
 -----
   
-_Supported MacOS Version: Catalina and XCode 11 with command line tools installed._
+_For MacOS Catalina and XCode 11 with command line tools installed, use downloads below._
 
 Download [admb-12.2-macos.dmg](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.dmg), then read [Quick Start for MacOS](QuickStartMacOS.md).
 
 For command line only installation, download zip [admb-12.2-macos.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos.zip), then read [Quick Start for MacOS with Zip](QuickStartMacOSZip.md).
+
+_For MacOS Catalina and XCode 12 with command line tools installed, use downloads below._
+
+Download [admb-12.2-macos-xcode12.dmg](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos-xcode12.dmg), then read [Quick Start for MacOS Xcode12](QuickStartMacOSXcode12.md).
+
+For command line only installation, download zip [admb-12.2-macos-xcode12.zip](https://github.com/admb-project/admb/releases/download/admb-12.2/admb-12.2-macos-xcode12.zip), then read [Quick Start for MacOS with Xcode12 Zip](QuickStartMacOSXcode12Zip.md).
 
 Linux
 -----
