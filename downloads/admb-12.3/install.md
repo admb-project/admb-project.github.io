@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ADMB-12.3: Quick Start Windows
+title: ADMB-12.3: Installation Procedures
 ---
 
 # ADMB Installation procedures
@@ -21,9 +21,9 @@ Read [QuickStartWindows](QuickStartWindows.html).
 
 Read [QuickStartMacOS](QuickStartMacOS.html).
 
-**Unix**
+**Linux**
 
-Read [QuickStartUnix](QuickStartUnix.html).
+Read [QuickStartLinux](QuickStartLinux.html).
 
 
 For all others, read the building source procedures below.
