@@ -12,7 +12,7 @@ Describe downloading, installing and using ADMB from binary release for Linux.
 
 ---
 
-> _**Debugging**_ &mdash; To use admb with a debugger for testing, read [BuildingSourceUnix](BuildingSourceUnix.html) to build with debug symbols.  Since using the debug libraries will result in slower runs, it is only recommended for troubleshooting and debugging code. 
+**Debugging** &mdash; To use admb with a debugger for testing, read [BuildingSourceUnix](BuildingSourceUnix.html) to build with debug symbols.  Since using the debug libraries will result in slower runs, it is only recommended for troubleshooting and debugging code. 
 
 Prerequisites
 -------------

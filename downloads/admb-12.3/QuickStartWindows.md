@@ -12,7 +12,7 @@ Describe downloading, installing and using ADMB from binary release for Windows.
 
 ---
 
-> **Alternative** &mdash; To install from zip file, read [QuickStartWindowsZip](QuickStartWindowsZip.html).
+**Alternative** &mdash; To install from zip file, read [QuickStartWindowsZip](QuickStartWindowsZip.html).
 
 Quick Start
 -----------
