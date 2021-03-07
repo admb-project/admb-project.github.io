@@ -1,9 +1,9 @@
 ---
 layout: default
-title: ADMB-12.3: Building Source for Unix
+title: ADMB-12.3: Building ADMB Source with Unix
 ---
 
-# ADMB Building Source for Unix
+# Building ADMB Source with Unix
 
 *ADMB-12.3*  
 *Released March 7, 2021*  

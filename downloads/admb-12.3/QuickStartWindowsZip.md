@@ -12,9 +12,9 @@ Describe downloading, installing and using ADMB from binary zip release for Wind
 
 ---
 
-**Prerequisite** &mdash; Installed a supported C++ compiler: [Rtools 3.5](https://cran.r-project.org/bin/windows/Rtools/history.html), [Rtools 4.0](https://cran.r-project.org/bin/windows/Rtools/), [Msys2](https://www.msys2.org) or Microsoft Visual Studio 2015, 2017 and 2019.
-
 > _**Debugging**_ &mdash; To use admb with a debugger for testing, read [BuildingSourceVisualStudio](BuildingSourceVisualStudio.html) to build with debug symbols.  Since using the debug libraries will result in slower runs, it is only recommended for troubleshooting and debugging code. 
+
+**Prerequisite** &mdash; Installed a supported C++ compiler: [Rtools 3.5](https://cran.r-project.org/bin/windows/Rtools/history.html), [Rtools 4.0](https://cran.r-project.org/bin/windows/Rtools/), [Msys2](https://www.msys2.org) or Microsoft Visual Studio 2015, 2017 and 2019.
 
 Quick Start
 -----------

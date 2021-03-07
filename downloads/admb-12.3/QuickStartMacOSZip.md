@@ -12,13 +12,13 @@ Describe describe downloading, installing and using ADMB from Zip release.
 
 ---
 
+> _**Debugging**_ &mdash; To use admb with a debugger for testing, read [BuildingSourceUnix](BuildingSourceUnix.html) to build with debug symbols.  Since using the debug libraries will result in slower runs, it is only recommended for troubleshooting and debugging code. 
+
 **Prerequisite** &mdash; [Apple Developer Tools (XCode)](https://developer.apple.com/xcode/) must be installed with the command line tools.  To install or update command line tools, use the command below in the MacOS Terminal, then click "Install" button in the window.
 
 ```
 [~]$ xcode-select --install
 ```
-
-> _**Debugging**_ &mdash; To use admb with a debugger for testing, read [BuildingSourceUnix](BuildingSourceUnix.html) to build with debug symbols.  Since using the debug libraries will result in slower runs, it is only recommended for troubleshooting and debugging code. 
 
 Quick Start
 -----------
