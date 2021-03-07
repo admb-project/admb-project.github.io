@@ -17,11 +17,10 @@ Describe downloading, installing and using ADMBTerminal from binary release for 
 ```
 [~]$ xcode-select --install
 ```
+> **Alternative** &mdash; To install from zip file, read [QuickStartMacOSZip](QuickStartMacOSZip.html).
 
 Quick Start
 -----------
-
-> **Note** &mdash; To install from zip file, read [QuickStartMacOSZip](QuickStartMacOSZip.html).
 
 1. **Download**
 

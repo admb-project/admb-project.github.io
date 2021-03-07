@@ -18,14 +18,14 @@ Describe describe downloading, installing and using ADMB from Zip release.
 [~]$ xcode-select --install
 ```
 
+> _**Debugging**_ &mdash; To use admb with a debugger for testing, read [BuildingSourceUnix](BuildingSourceUnix.html) to build with debug symbols.  Since using the debug libraries will result in slower runs, it is only recommended for troubleshooting and debugging code. 
+
 Quick Start
 -----------
 
 1. **Download**
 
    Download [admb-12.3-macos.zip](https://github.com/admb-project/admb/releases/download/admb-12.3/admb-12.3-macos.zip).
-
-   To test and debug admb programs using a debugger, download [admb-12.3-macos-debug.zip](https://github.com/admb-project/admb/releases/download/admb-12.3/admb-12.3-macos-debug.zip) with debugging symbols. Since using the debug libraries will result in slower runs, it is only recommended for troubleshooting and debugging code. 
 
 2. **Install**
 

@@ -63,17 +63,23 @@ Building Source
    [~]$ cd admb-12.3
    ```
 
-   To build ADMB, use the commands below.
+   To build ADMB, use the command below.
    
    ```
    [~/admb-12.3/]$ make
    ```
 
-   _**Note**_ &mdash; When the build is completed, **~/admb/build/admb/** is the binary distribution directory.
+   To build ADMB for debugging, use the command below.
+   
+   ```
+   [~/admb-12.3/]$ make DEBUG=yes
+   ```
+
+   _**Note**_ &mdash; When the build is completed, **~/admb-12.3/build/admb/** is the binary distribution directory.
 
 3. **Test**
 
-   In the **Terminal** window, use the steps below to build and run the simple example.
+   In the **Terminal** window, use the steps below to build and run the ADMB examples.
 
    Build examples
 

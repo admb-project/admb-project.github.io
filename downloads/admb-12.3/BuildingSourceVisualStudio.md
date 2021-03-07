@@ -47,6 +47,12 @@ Building Source
    C:\admb-12.3\> nmake
    ```
 
+   To build ADMB for debugging, use the command below.
+
+   ```
+   C:\admb-12.3\> nmake DEBUG=yes
+   ```
+
 3. **Test**
 
    In the **Developer Command Prompt** window, use the steps below to build and run the examples.
