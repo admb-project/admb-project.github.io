@@ -12,10 +12,10 @@ Describe building ADMB from source for Windows and Visual C++ compilers.
 
 ---
 
+**Prerequisite** &mdash; Visual Studio C++ is installed on the local computer.
+
 Building Source
 ---------------
-
-**Prerequisite** &mdash; Visual Studio C++ is installed on the local computer.
 
 1. **Download**
 
