@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ADMB t-shirts page
+title: ADMB t-shirts
 ---
 
-ADMB t-shirts page
-------------------
+ADMB t-shirts
+-------------
 
   <p><b>Pictures of ADMB users wearing ADMB T-shirts</b><br /><span></span></p>
 <p><span>The ADMB Foundation will provide a T-shirts to anyone who promises to wear it at a conference </span><span><b>(see <a title="" href="Tshirts.pdf" class="wiki internal-link" target="_self">colours and sizes</a>)</b></span><span>. Photos appreciated.</span></p>
