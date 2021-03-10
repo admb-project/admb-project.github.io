@@ -9,9 +9,11 @@ Workshops
 Below is infomation on a list of workshops.
 
 * ADMB Debugging Workshop
-: Virtual Workshop, August 24, 2020
-: Read the [ADMB Debugging Tutorial](ADMB-Debugging-Tutorial.pdf) document for step by step instructions
-: on how to use a gdb debugger for ADMB Programs.  Scripting is also covered.
+: __Virtual Workshop, August 24, 2020__
+:
+: Read the [ADMB Debugging Tutorial](ADMB-Debugging-Tutorial.pdf) document from the workshop
+: for step by step instructions on how to use a gdb debugger for ADMB Programs.  Scripting
+: is also covered.
 
 Posters and Handouts
 --------------------
