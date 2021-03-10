@@ -1,17 +1,19 @@
 ---
 layout: default
-title: Others
+title: Outreach
 ---
 
 Outreach
 --------
 
-[Outreach](outreach/)
+* [Outreach](outreach/)
 : Posters, brochures and other material to promote ADMB
 
-[Workshops](workshops/)
+* [Workshops](workshops/)
 : Contains information on workshops held for ADMB.
 
-[ADMB Newsletter](http://admb-foundation.org/?page_id=39)
+* [ADMB t-shirts](admb-t-shirts/)
+: Support ADMB Project with Cool Looking t-shirts
 
-[ADMB T-shirts](admb-t-shirts/)
+* [Link &mdash; ADMB Newsletters](http://admb-foundation.org/?page_id=39)
+: Past ADMB Newsletters
