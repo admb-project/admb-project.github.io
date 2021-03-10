@@ -1,7 +1,7 @@
 ---
 layout: default
-title: @orkshops
+title: Workshops
 ---
 
-* [ADMB Debug Workshops](ADMB-Debugging-Tutorial.pdf)
-: August 24, 2020
+* [ADMB Debugging Workshop](ADMB-Debugging-Tutorial.pdf)
+: Virtual Workshop, August 24, 2020
