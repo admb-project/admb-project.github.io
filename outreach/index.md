@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Outreach
+title: Workshops
 ---
 
-Outreach
+Workshops
 --------
 
 * [Workshops](workshops/)
