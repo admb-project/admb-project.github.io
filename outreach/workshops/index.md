@@ -6,7 +6,7 @@ title: Workshops
 Workshops
 ---------
 
-Below is infomation on a list of workshops.
+Below is infomation for workshops.
 
 * ADMB Debugging Workshop
 : _Virtual Workshop, August 24, 2020_
