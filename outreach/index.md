@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Workshops
+title: Outreach
 ---
 
-Workshops
+Outreach
 --------
 
-* [Workshops](workshops/)
+* [Workshop Documents](workshops/)
 : Contains information on workshops held for ADMB.
 : Posters, brochures and other material to promote ADMB
 
