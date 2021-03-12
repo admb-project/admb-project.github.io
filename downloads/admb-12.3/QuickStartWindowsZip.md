@@ -25,7 +25,7 @@ Quick Start
 
 2. **Install**
 
-   Double click downloaded zip file and extract **admb-12.3** folder to **C:\**.
+   Double click downloaded zip file and extract **admb-12.3** folder to **C:\\**.
 
 3. **Use** ADMB
 
