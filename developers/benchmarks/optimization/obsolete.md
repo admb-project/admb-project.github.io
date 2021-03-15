@@ -143,7 +143,3 @@ R
 In the first run, R was manually interrupted after 31 minutes, to check the function value and parameter estimates. The function value was still far from the optimal value, and one parameter, gamma, was at 0.61, far from the optimal value of 0.42.
 
 In the other run, R was allowed to converge. This took 93 minutes, more than 1000 times longer than ADMB.
-
----
-
-The updated benchmark is described on http://otter-rsch.com/tresults.htm

@@ -37,8 +37,8 @@ Tools
 * [MULTIFAN-CL](http://www.multifan-cl.org/)
 : A length-based, age and spatially-structured model for fisheries stock assessment
 
-* [Otter Research](http://otter-rsch.com/product.htm)
-: Original Commercial version of ADMB
+* Otter Research
+: Note &mdash; The original Commercial website of ADMB is no longer active.
 
 * [Valgrind](valgrind.html)
 : Describe the procedure for using Valgrind to profile and check memory leaks.

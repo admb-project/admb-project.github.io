@@ -112,9 +112,7 @@ creation date: 2016-09-08 17:08:19
   complex optimization problems than the numerical programming languages
   GAUSS, MATLAB, S-PLUS, and R. In one example, ADMB solved a minimization
   problem with 100 parameters in 3 seconds, while the "nlminb" function in R
-  took 93 minutes to achieve the same solution
-  (see <a href="http://www.otter-rsch.com/tresults.htm">http://www.otter-rsch.com/tresults.htm</a>
-  for code of both models).</p>
+  took 93 minutes to achieve the same solution for code of both models).</p>
 <h2><a name="why-better">Why is AD Model builder better than using spreadsheet solvers or other statistical packages?</a></h2>
 <p>The major problem in nonlinear statistical modeling is fitting the model to
   data. This involves nonlinear optimization. For the kinds of problems
