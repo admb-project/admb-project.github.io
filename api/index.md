@@ -3,4 +3,4 @@ layout: default
 title: api
 ---
 
-Go to [API link](http://buildbot.admb-project.org/api).
+Go to [ADMB API](http://api.admb-project.org/).
