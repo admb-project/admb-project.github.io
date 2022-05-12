@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ADMB-12.3: Quick Start Linux
+title: ADMB-13.0: Quick Start Linux
 ---
 
 # ADMB Quick Start Linux
@@ -27,14 +27,14 @@ Quick Start
 
 1. **Download**
 
-   Download [admb-12.3-linux.zip](https://github.com/admb-project/admb/releases/download/admb-12.3/admb-12.3-linux.zip).
+   Download [admb-13.0-linux.zip](https://github.com/admb-project/admb/releases/download/admb-13.0/admb-13.0-linux.zip).
 
 2. **Install**
 
-   Open a **Terminal**, then use the command below to extract contents of the downloaded zip file to _~/admb-12.3/_. 
+   Open a **Terminal**, then use the command below to extract contents of the downloaded zip file to _~/admb-13.0/_. 
 
    ```
-   [~]$ unzip admb-12.3-linux.zip
+   [~]$ unzip admb-13.0-linux.zip
    ```
 
 3. **Use** ADMB
@@ -44,13 +44,13 @@ Quick Start
    Change to simple example directory.       
 
    ```
-   [~]$ cd ~/admb-12.3/examples/admb/simple
+   [~]$ cd ~/admb-13.0/examples/admb/simple
    ```
 
    Build simple example.
 
    ```
-   [~/admb-12.3/examples/admb/simple/]$ ~/admb-12.3/admb simple.tpl
+   [~/admb-13.0/examples/admb/simple/]$ ~/admb-13.0/admb simple.tpl
    ```
 
    > **Debug** &mdash; Use the admb debug option *-g* for debugging.
@@ -58,7 +58,7 @@ Quick Start
    Run simple example.
 
    ```
-   [~/admb-12.3/examples/admb/simple/]$ ./simple
+   [~/admb-13.0/examples/admb/simple/]$ ./simple
    ```
 
    Read [manuals](http://www.admb-project.org/docs/manuals/) for more information.

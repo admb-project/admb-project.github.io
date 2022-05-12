@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ADMB-12.3: Quick Start Windows
+title: ADMB-13.0: Quick Start Windows
 ---
 
 # ADMB Quick Start Windows
@@ -19,7 +19,7 @@ Quick Start
 
 1. **Download**
 
-   Download installer [admb-12.3-windows.exe](https://github.com/admb-project/admb/releases/download/admb-12.3/admb-12.3-windows.exe) which includes MinGW-w64 C++ compiler from Rtools-4.0.
+   Download installer [admb-13.0-windows.exe](https://github.com/admb-project/admb/releases/download/admb-13.0/admb-13.0-windows.exe) which includes MinGW-w64 C++ compiler from Rtools-4.0.
 
 2. **Install**
 
@@ -27,31 +27,31 @@ Quick Start
 
 3. **Use** ADMB
 
-   In the Windows Start Menu, locate and double click **ADMB-12.3 Command Prompt**, then use the steps below to build and run the simple example.
+   In the Windows Start Menu, locate and double click **ADMB-13.0 Command Prompt**, then use the steps below to build and run the simple example.
 
    Change to simple example directory.
 
    ```
-   C:\> cd \admb-12.3\examples\admb\simple
+   C:\> cd \admb-13.0\examples\admb\simple
    ```
 
    Build simple example.
 
    ```
-   C:\admb-12.3\examples\admb\simple> admb simple.tpl
+   C:\admb-13.0\examples\admb\simple> admb simple.tpl
    ```
 
    Run simple example.
 
    ```
-   C:\admb-12.3\examples\admb\simple> simple.exe
+   C:\admb-13.0\examples\admb\simple> simple.exe
    ```
 
    Read [manuals](http://www.admb-project.org/docs/manuals/) for more information.
 
 4. _Optional_ &mdash; **Configure PATH**
 
-   An alternative to using the **ADMB-12.3 Command Prompt** is to add the ADMB directories **C:\admb-12.3\bin** and **C:\admb-12.3\utilities** to the system enviroment **PATH** variable.  This will allow admb to be used in every **Windows Command Prompt**.
+   An alternative to using the **ADMB-13.0 Command Prompt** is to add the ADMB directories **C:\admb-13.0\bin** and **C:\admb-13.0\utilities** to the system enviroment **PATH** variable.  This will allow admb to be used in every **Windows Command Prompt**.
 
 AD Studio
 ---------
