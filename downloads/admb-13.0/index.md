@@ -3,12 +3,13 @@ layout: default
 title: Downloads ADMB-13.0
 ---
 
-ADMB Project  
-============
+Downloads ADMB-13.0
+------------------
+
 *ADMB-13.0*  
 *Released August 8, 2022*  
 
-ADMB Installation procedures
+Installation procedures and download links
 
 Installation
 ------------
