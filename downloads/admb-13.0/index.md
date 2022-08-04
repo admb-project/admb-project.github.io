@@ -14,30 +14,20 @@ Installation procedures and download links
 Installation
 ------------
 
-**Windows**
+**Windows** Read [QuickStartWindows](QuickStartWindows.md).  
 
-Read [QuickStartWindows](QuickStartWindows.md).  
+**MacOS** MacOS installers will not be available with ADMB-13.0. Please read the [BuildingSourceUnix](BuildingSourceUnix.md) to build release.
 
-**MacOS**
-
-MacOS installers will not be available with ADMB-13.0. Please read the [BuildingSourceUnix](BuildingSourceUnix.md) to build release.
-
-**Unix**
-
-Read [QuickStartUnix](QuickStartUnix.md).
+**Unix** Read [QuickStartUnix](QuickStartUnix.md).
 
 For all others, read the building source procedures below.
 
 Building Source
 ---------------
 
-**Windows**
+**Windows** To build with Windows and Visual Studio, read the [BuildingSourceVisualStudio](BuildingSourceVisualStudio.md).   
 
-To build with Windows and Visual Studio, read the [BuildingSourceVisualStudio](BuildingSourceVisualStudio.md).   
-
-**Unix**
-
-To build with Linux, MacOS, Solaris BSD or MinGW-w64 in Windows, read the [BuildingSourceUnix](BuildingSourceUnix.md).
+**Unix** To build with Linux, MacOS, Solaris BSD or MinGW-w64 in Windows, read the [BuildingSourceUnix](BuildingSourceUnix.md).
 
 Help
 ----

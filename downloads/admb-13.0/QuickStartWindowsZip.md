@@ -63,5 +63,7 @@ GDB, and Git.
 
 AD Studio 1.0 comes with ADMB 12.0, which is one version older than 12.1.
 
----
+Help
+----
+
 For help and support, contact <users@admb-project.org>.
