@@ -3,46 +3,40 @@ layout: default
 title: Downloads ADMB-13.0
 ---
 
-Downloads ADMB-13.0
--------------------
+ADMB Project  
+============
+*ADMB-13.0*  
+*Released August 8, 2022*  
 
-ADMB-13.0 was released on May 31, 2022.
+ADMB Installation procedures
 
-Read [announcement](http://www.admb-project.org/2021/03/07/ADMB-13.0-release.html) and [changes](https://github.com/admb-project/admb/blob/admb-13.0/CHANGES.md) for the release.  Additional documentation can be found in the [manuals](http://www.admb-project.org/docs/manuals/).
+Installation
+------------
 
-Download releases are [available](https://github.com/admb-project/admb/releases/tag/admb-13.0/) on the ADMB GitHub project site.  Previous versions of ADMB can be found in the [archives](http://www.admb-project.org/downloads/archives.html).
+**Windows**
 
-AD Model Builder (ADMB) is free software, released under the [BSD License](https://raw.githubusercontent.com/admb-project/admb/admb-13.0/LICENSE.txt).
+Read [QuickStartWindows](QuickStartWindows.md).  
 
-Windows
--------
+**MacOS**
 
-_Supported Windows C++ 64-Bit Compilers are Msys2, Rtools versions (3.5, 4.0 and 4.2), Msys2 and Microsoft Visual Studio (2015, 2017, 2019 and 2022)._
+MacOS installers will not be available with ADMB-13.0. Please read the [BuildingSourceUnix](BuildingSourceUnix.md) to build release.
 
-Download installer [admb-13.0-windows.exe](https://github.com/admb-project/admb/releases/download/admb-13.0/admb-13.0-windows.exe) or [admb-13.0-windows.zip](https://github.com/admb-project/admb/releases/download/admb-13.0/admb-13.0-windows.zip), then read [Quick Start for Windows](QuickStartWindows.md).
+**Unix**
 
-MacOS
------
-  
-_Requries Intel MacOS version 12 with XCode and command line tools installed._
+Read [QuickStartUnix](QuickStartUnix.md).
 
-Binaries for the MacOS will be available at a later.  For now, read procedures to build the **MacOS ADMB Terminal** app from source.
+For all others, read the building source procedures below.
 
-Linux
------
+Building Source
+---------------
 
-_Supported Linux Distributions is Centos, Fedora, RedHat and Ubuntu._
+**Windows**
 
-Download [admb-13.0-linux.zip](https://github.com/admb-project/admb/releases/download/admb-13.0/admb-13.0-linux.zip), then read [Quick Start for Linux](QuickStartLinux.md).
+To build with Windows and Visual Studio, read the [BuildingSourceVisualStudio](BuildingSourceVisualStudio.md).   
 
-Source
-------
+**Unix**
 
-If binaries are not available for an operating system or compiler, use the source code distribution to build the ADMB libraries.
+To build with Linux, MacOS, Solaris BSD or MinGW-w64 in Windows, read the [BuildingSourceUnix](BuildingSourceUnix.md).
 
-Download [admb-13.0-src.zip](https://github.com/admb-project/admb/releases/download/admb-13.0/admb-13.0-src.zip), then read build procedures for [Unix](BuildingSourceUnix.md) or [Windows with Visual Studio](BuildingSourceVisualStudio.md).
-
-Help
-----
-
-For questions and comments, please contact users@admb-project.org.
+---
+For help and support, email <users@admb-project.org>.

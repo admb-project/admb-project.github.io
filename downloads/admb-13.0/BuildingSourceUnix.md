@@ -3,10 +3,10 @@ layout: default
 title: ADMB-13.0: Building ADMB Source with Unix
 ---
 
-# Building ADMB Source with Unix
+# ADMB Building Source for Unix
 
 *ADMB-13.0*  
-*Released May 31, 2022*  
+*Released August 8, 2022*  
 
 Describe building ADMB from source for Unix.
 
@@ -29,7 +29,7 @@ The following tools should be installed on the local computer.
 * GNU flex
 * _**Optional**_ &mdash; Git client to download from version control.
 
-_**Note** &mdash; For MacOS, install XCode with command line tools which includes all the prerequisites._
+_**Note** &mdash; For MacOS, install XCode with command line tools that includes all the prerequisites._
 
 Building Source
 ---------------
@@ -40,7 +40,7 @@ Building Source
 
    Open a **Terminal** window
 
-   Use the command below to extract contents of zip file to _~/admb-13.0/_. 
+   Use the command below to extract contents of zip file to _~/admb/_. 
 
    ```
    [~]$ unzip admb-13.0-src.zip
@@ -52,7 +52,7 @@ Building Source
    [~]$ git clone https://github.com/admb-project/admb.git
    ```
 
-   This will download the latest source repository to _~/admb/_.
+   This will download latest source repository to _~/admb/_.
 
 
 2. **Build**
@@ -60,57 +60,51 @@ Building Source
    Change to admb directory.
 
    ```
-   [~]$ cd admb-13.0
+   [~]$ cd admb
    ```
 
-   To build ADMB, use the command below.
+   To build ADMB, use the commands below.
    
    ```
-   [~/admb-13.0/]$ make
+   [~/admb/]$ make
    ```
 
-   To build ADMB for debugging, use the command below.
-   
-   ```
-   [~/admb-13.0/]$ make DEBUG=yes
-   ```
-
-   _**Note**_ &mdash; When the build is completed, **~/admb-13.0/build/admb/** is the binary distribution directory.
+   _**Note**_ &mdash; When the build is completed, **~/admb/build/admb/** is the binary distribution directory.
 
 3. **Test**
 
-   In the **Terminal** window, use the steps below to build and run the ADMB examples.
+   In the **Terminal** window, use the steps below to build and run the simple example.
 
    Build examples
 
    ```
-   [~/admb-13.0/]$ make --directory=examples all
+   [~/admb/]$ make --directory=examples all
    ```
 
-4. _Optional_ &mdash; **Multi-User Installation**    
+4. _**Optional**_ &mdash; Multi-User Installation    
 
    Installs binary distribution folder to /usr/local/ as super-user.
 
    ```
-   [~/admb-13.0/]$ sudo make install
+   [~/admb/]$ sudo make install
    ```
 
    Build and run the simple example without the directory prefix.
 
    ```
-   [~/admb-13.0/]$ cd examples/admb/simple
-   [~/admb-13.0/examples/admb/simple/]$ admb simple.tpl
-   [~/admb-13.0/examples/admb/simple/]$ ./simple
+   [~/admb/]$ cd examples/admb/simple
+   [~/admb/examples/admb/simple/]$ admb simple.tpl
+   [~/admb/examples/admb/simple/]$ ./simple
    ```
 
-   _If unable to the build simple example, then use the Manual Installation below._
+   _If unable to build simple example, then use the Manual Installation below._
 
    _**Alternative**_ &mdash; Manual Installation    
 
    Copy binary distribution folder to /usr/local/ as super-user.
 
    ```
-   [~/admb-13.0/]$ sudo cp -Rvf build/admb /usr/local/admb-13.0
+   [~/admb/]$ sudo cp -Rvf build/dist /usr/local/admb
    ```
 
    _**Note**_ &mdash; The dist folder can be copied to other computers with similar configurations.
@@ -118,12 +112,10 @@ Building Source
    Create symlink to main admb script.  Directory **/usr/local/bin/** should already exist.
 
    ```
-   [~/admb-13.0/]$ sudo ln -sf /usr/local/admb-13.0/admb /usr/local/bin/admb
+   [~/admb/]$ sudo ln -sf /usr/local/admb/admb /usr/local/bin/admb
    ```
 
    Read [manuals](http://www.admb-project.org/docs/manuals/) for more information.
 
-Help
-----
-
+---
 For help and support, contact <users@admb-project.org>.

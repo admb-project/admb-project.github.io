@@ -1,30 +1,27 @@
 ---
 layout: default
-title: ADMB-13.0: Building ADMB Source using Windows and Visual Studio
+title: ADMB-13.0: Building ADMB Source with Unix
 ---
 
-# Building ADMB Source using Windows and Visual Studio
+# ADMB Building Source with Visual Studio
 
 *ADMB-13.0*  
-*Released May 31, 2022*  
+*Released August 8, 2022*  
 
 Describe building ADMB from source for Windows and Visual C++ compilers.
 
 ---
 
-Prerequisites
--------------
-
-* Visual Studio C++ is installed on the local computer.
-
 Building Source
 ---------------
+
+**Prerequisite** &mdash; Visual Studio C++ is installed on the local computer.
 
 1. **Download**
 
    Download source distribution [admb-13.0-src.zip](https://github.com/admb-project/admb/releases/download/admb-13.0/admb-13.0-src.zip).
 
-   Double click downloaded zip file and extract admb directory to **C:\\admb-13.0\\>**.
+   Double click downloaded zip file and extract admb directory to **C:\\admb\\>**.
 
 2. **Build**
 
@@ -34,28 +31,20 @@ Building Source
 
    * For Visual C++ 2017, Double click **Developer Command Prompt for VS2017** in **Visual Studio Tools**.
 
-   * For Visual C++ 2019, Double click **Developer Command Prompt for VS2019** in **Visual Studio 2019**.
-
-   * For Visual C++ 2022, Double click **Developer Command Prompt for VS2022** in **Visual Studio 2022**.
+   * For Visual C++ 2019, Double click **Developer Command Prompt for VS2019** in **Visual Studio Tools**.
 
    In the Visual Studio **Developer Command Prompt** window, use the steps below to build ADMB.
 
    Change to admb directory.
 
    ```
-   C:\> cd admb-13.0
+   C:\> cd admb
    ```
 
    To build ADMB, use the command below.
 
    ```
-   C:\admb-13.0\> nmake
-   ```
-
-   To build ADMB for debugging, use the command below.
-
-   ```
-   C:\admb-13.0\> nmake DEBUG=yes
+   C:\admb\> nmake
    ```
 
 3. **Test**
@@ -65,13 +54,11 @@ Building Source
    Build examples
 
    ```
-   C:\admb-13.0\> cd examples
-   C:\admb-13.0\examples\> nmake all
+   C:\admb\> cd examples
+   C:\admb\examples\> nmake all
    ```
 
    Read [manuals](http://www.admb-project.org/docs/manuals/) for more information.
 
-Help
-----
-
+---
 For help and support, contact <users@admb-project.org>.
