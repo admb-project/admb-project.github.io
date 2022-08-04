@@ -39,5 +39,7 @@ To build with Windows and Visual Studio, read the [BuildingSourceVisualStudio](B
 
 To build with Linux, MacOS, Solaris BSD or MinGW-w64 in Windows, read the [BuildingSourceUnix](BuildingSourceUnix.md).
 
----
+Help
+----
+
 For help and support, email <users@admb-project.org>.
