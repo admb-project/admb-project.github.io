@@ -32,4 +32,4 @@ Building Source
 Help
 ----
 
-For help and support, email <users@admb-project.org>.
+For help and support, please post on the [ADMB Discussions](https://github.com/admb-project/admb/discussions).
