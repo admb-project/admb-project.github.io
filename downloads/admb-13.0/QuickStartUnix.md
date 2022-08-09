@@ -20,6 +20,12 @@ The following tools are required to be installed on the local Linux computer.
 * GNU C++
 * GNU stream editor (sed)
 
+Below are the operating systems supported for linux. 
+
+* Fedora 36
+* Ubuntu 20.04
+* Centos 7
+
 Quick Start
 -----------
 
