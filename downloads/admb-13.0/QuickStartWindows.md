@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ADMB-13.0: Building ADMB Source with Unix
+title: ADMB-13.0: Quick Start Windows
 ---
 
 # ADMB Quick Start Windows
@@ -27,33 +27,33 @@ Quick Start
 
 3. **Use** ADMB
 
-   To use ADMB, locate and double click **ADMB Command Prompt** in the Windows Start Menu.
+   To use ADMB, locate and double click **ADMB-13.0 Command Prompt** in the Windows Start Menu.
 
-   In the **ADMB Command Prompt** window, use the steps below to build and run the simple example.
+   In the **ADMB-13.0 Command Prompt** window, use the steps below to build and run the simple example.
 
    Change to simple example directory.
 
    ```
-   C:\> cd \ADMB\examples\admb\simple
+   C:\> cd \admb-13.0\examples\admb\simple
    ```
 
    Build simple example.
 
    ```
-   C:\ADMB\examples\admb\simple> admb simple.tpl
+   C:\admb-13.0\examples\admb\simple> admb simple.tpl
    ```
 
    Run simple example.
 
    ```
-   C:\ADMB\examples\admb\simple> simple.exe
+   C:\admb-13.0\examples\admb\simple> simple.exe
    ```
 
    Read [manuals](http://www.admb-project.org/docs/manuals/) for more information.
 
 4. **Configure PATH** Optional
 
-   An alternative to using the **ADMB Command Prompt** is to add the ADMB installation directory **C:\ADMB\bin** to the system enviroment **PATH** variable.  This will allow admb to be used in the **Windows Command Prompt**.
+   An alternative to using the **ADMB-13.0 Command Prompt** is to add the ADMB installation directory **C:\admb-13.0\bin** to the system enviroment **PATH** variable.  This will allow admb to be used in the **Windows Command Prompt**.
 
 AD Studio
 ---------

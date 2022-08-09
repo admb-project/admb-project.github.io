@@ -16,12 +16,12 @@ Installation
 
 **MacOS** MacOS installers will not be available with ADMB-13.0. Please read the [BuildingSourceUnix](BuildingSourceUnix.md) to build release.
 
-**Windows** Read [QuickStartWindows](QuickStartWindows.md).  
 <!--
-**Unix** Read [QuickStartUnix](QuickStartUnix.md).
+**Linux** Read [QuickStartUnix](QuickStartUnix.md).
 -->
+**Linux** Installers will uploaded later this week.
 
-Windows and Unix installers will uploaded later this week.
+**Windows** Read [QuickStartWindows](QuickStartWindows.md).  
 
 For all others, read the building source procedures below.
 
