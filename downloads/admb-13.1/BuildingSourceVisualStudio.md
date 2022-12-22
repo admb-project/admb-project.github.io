@@ -25,9 +25,9 @@ Building Source
 
 2. **Build**
 
-   Double click Visual Studio **Developer Command Prompt** shortcut in **Visual Studio Tools**.
+   In the Windows Start Menu, Double click Visual Studio **Developer Command Prompt** shortcut in **Visual Studio Tools**.
 
-   In the Visual Studio **Developer Command Prompt** window, use the steps below to build ADMB.
+   In the Visual Studio **Developer Command Prompt** window, use the commands below to build ADMB.
 
    Change to admb directory.
 
@@ -43,7 +43,7 @@ Building Source
 
 3. **Test**
 
-   In the **Developer Command Prompt** window, use the steps below to build and run the examples.
+   In the **Developer Command Prompt** window, use the commands below to build and run the examples.
 
    Build examples
 

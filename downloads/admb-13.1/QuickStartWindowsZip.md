@@ -27,7 +27,7 @@ Quick Start
 
    To use ADMB, locate and double click **ADMB Command Prompt** in **C:\admb-13.1** folder.
 
-   In the **ADMB Command Prompt** window, use the steps below to build and run the simple example.
+   In the **ADMB Command Prompt** window, use the commands below to build and run the simple example.
 
    Change to simple example directory.
 

@@ -73,7 +73,7 @@ Building Source
 
 3. **Test**
 
-   In the **Terminal** window, use the steps below to build and run the simple example.
+   In the **Terminal** window, use the command below to build and run the simple example.
 
    Build examples
 

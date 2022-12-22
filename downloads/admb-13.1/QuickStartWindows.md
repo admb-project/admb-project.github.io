@@ -29,7 +29,7 @@ Quick Start
 
    To use ADMB, locate and double click **ADMB-13.1 Command Prompt** in the Windows Start Menu.
 
-   In the **ADMB-13.1 Command Prompt** window, use the steps below to build and run the simple example.
+   In the **ADMB-13.1 Command Prompt** window, use the commands below to build and run the simple example.
 
    Change to simple example directory.
 

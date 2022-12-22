@@ -16,7 +16,7 @@ Installation
 
 **MacOS** Read [BuildingSourceUnix](BuildingSourceUnix.md) to build release from source.
 
-_Note &mdash; Installers for MacOS are no longer available starting with ADMB-13.0._
+_Note &mdash; Installers for MacOS are no longer available starting from ADMB-13.0._
 
 **Linux** Read [QuickStartUnix](QuickStartUnix.md).
 
