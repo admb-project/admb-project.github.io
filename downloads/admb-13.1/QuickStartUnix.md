@@ -23,7 +23,7 @@ The following tools are required to be installed on the local Linux computer.
 Below are the operating systems supported for linux. 
 
 * Ubuntu 20.04 LTS
-* Centos 7
+* RedHat 7
 
 Quick Start
 -----------
