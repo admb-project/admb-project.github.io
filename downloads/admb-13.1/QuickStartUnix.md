@@ -22,8 +22,7 @@ The following tools are required to be installed on the local Linux computer.
 
 Below are the operating systems supported for linux. 
 
-* Fedora 36
-* Ubuntu 20.04
+* Ubuntu 20.04 LTS
 * Centos 7
 
 Quick Start
@@ -35,7 +34,7 @@ Quick Start
 
 2. **Install**
 
-   Open a **Terminal**, then use the command below to extract contents of downloaded zip file to _~/admb/_. 
+   Open a **Terminal**, then use the command below to extract contents of downloaded zip file to _~/admb-13.1/_. 
 
    ```
    [~]$ unzip admb-13.1-linux.zip
@@ -48,19 +47,19 @@ Quick Start
    Change to simple example directory.       
 
    ```
-   [~]$ cd ~/admb/examples/admb/simple
+   [~]$ cd ~/admb-13.1/examples/admb/simple
    ```
 
    Build simple example.
 
    ```
-   [~/admb/examples/admb/simple/]$ ~/admb/admb simple.tpl
+   [~/admb-13.1/examples/admb/simple/]$ ~/admb-13.1/admb simple.tpl
    ```
 
    Run simple example.
 
    ```
-   [~/admb/examples/admb/simple/]$ ./simple
+   [~/admb-13.1/examples/admb/simple/]$ ./simple
    ```
 
    Read [manuals](http://www.admb-project.org/docs/manuals/) for more information.
