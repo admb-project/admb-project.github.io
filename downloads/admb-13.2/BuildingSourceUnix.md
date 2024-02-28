@@ -23,7 +23,7 @@ The following tools should be installed on the local computer.
 
   * GNU C++
 
-  For MacOS:w
+  For MacOS,
 
   * Apple Clang
     
