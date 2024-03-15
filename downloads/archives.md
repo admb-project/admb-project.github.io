@@ -6,6 +6,9 @@ title: Releases
 ADMB Releases
 -------------
 
+[ADMB-13.2](http://www.admb-project.org/downloads/admb-13.2/)
+> Released on March 15, 2024
+
 [ADMB-13.1](http://www.admb-project.org/downloads/admb-13.1/)
 > Released on December 23, 2022
 
