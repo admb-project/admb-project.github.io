@@ -1,0 +1,32 @@
+name: Update Ruby dependencies
+
+'on':
+  schedule:
+    - cron: '17 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4'
+          bundler: '2.6.9'
+      - name: Update gems
+        run: bundle update
+      - name: Build site
+        run: bundle exec jekyll build
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: automation/update-gems
+          delete-branch: true
+          add-paths: Gemfile.lock
+          commit-message: 'Update Ruby dependencies'
+          title: 'Update Ruby dependencies'
+          body: 'Automated update of the GitHub Pages Ruby dependencies. The Jekyll build passed.'
