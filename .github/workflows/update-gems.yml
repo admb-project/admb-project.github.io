@@ -29,4 +29,4 @@ jobs:
           add-paths: Gemfile.lock
           commit-message: 'Update Ruby dependencies'
           title: 'Update Ruby dependencies'
-          body: 'Automated update of the GitHub Pages Ruby dependencies. The Jekyll build passed.'
+          body: 'Automated update of the Jekyll dependencies. The site build passed.'
